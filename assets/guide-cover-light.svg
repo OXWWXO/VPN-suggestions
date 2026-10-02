@@ -1,37 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-<title id="title">选对线路，少一点折腾。</title><desc id="desc">2026机场推荐与机场测评。十五家方案，面向AI、日常主力、备用及多地区家宽需求。</desc>
-<rect width="1200" height="390" rx="22" fill="#f5f4ef"/>
-<path d="M708 0V390" stroke="#d7dfe7"/>
-<rect x="42" y="34" width="116" height="30" rx="15" fill="#245fe6"/>
-<text x="100" y="54" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#fff" letter-spacing="1.7">2026 / 10</text>
-<text x="176" y="54" font-family="Arial,sans-serif" font-size="13" fill="#657589" letter-spacing="2.1">A PRACTICAL CONNECTION GUIDE</text>
-<g font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="63" font-weight="700">
-<text x="42" y="152" fill="#172a47">选对线路，</text><text x="42" y="233" fill="#245fe6">少一点折腾。</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+<title id="t">选对线路，少一点折腾。2026机场指南</title><desc id="d">十五家方案，比较价格、优势、短板与实际用途。橙蓝色登机牌风格封面。</desc>
+<defs><pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#687c87" opacity=".13"/></pattern></defs>
+<style>.flow{stroke-dasharray:8 12;animation:route 7s linear infinite}@keyframes route{to{stroke-dashoffset:-120}}@media(prefers-reduced-motion:reduce){.flow{animation:none}}</style>
+<rect width="1200" height="420" rx="22" fill="#fbf3e7"/><rect x="680" y="1" width="519" height="418" rx="22" fill="url(#dots)"/>
+<path d="M687 26V394" stroke="#dcd8cf" stroke-width="2" stroke-dasharray="5 7"/>
+<circle cx="687" cy="0" r="12" fill="#fff"/><circle cx="687" cy="420" r="12" fill="#fff"/>
+<rect x="35" y="32" width="123" height="31" rx="3" fill="#d85a22"/>
+<text x="96" y="53" text-anchor="middle" font-family="Bahnschrift,DIN Alternate,monospace" font-size="14" font-weight="700" fill="#fff" letter-spacing="1.8">2026 / 10</text>
+<text x="175" y="53" font-family="Bahnschrift,DIN Alternate,monospace" font-size="13" fill="#687c87" letter-spacing="1.6">THE CONNECTION FIELD GUIDE</text>
+<g font-family="Noto Serif CJK SC,Songti SC,SimSun,serif" font-size="65" font-weight="700">
+<text x="34" y="159" fill="#193041">选对线路，</text><text x="34" y="246" fill="#216ced">少一点折腾。</text>
 </g>
-<text x="45" y="279" font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="23" fill="#657589">套餐价格 · 线路特点 · 优缺点 · 真实取舍</text>
-<path d="M44 309H654" stroke="#d7dfe7"/>
-<text x="45" y="351" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#172a47">15</text>
-<text x="84" y="349" font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="16" fill="#657589">家方案</text>
-<text x="216" y="349" font-family="Arial,sans-serif" font-size="16" fill="#657589">AI · WEB · STREAMING</text>
-<text x="531" y="349" font-family="Arial,sans-serif" font-size="13" fill="#657589">2026-10-02</text>
-<circle cx="985" cy="185" r="131" fill="#e5edff"/>
-<g stroke="#245fe6" stroke-opacity=".23" stroke-width="1.3" fill="none">
-<circle cx="985" cy="185" r="111"/><ellipse cx="985" cy="185" rx="60" ry="111"/><path d="M874 185H1096M887 132H1083M887 238H1083M985 74V296"/>
-</g>
-<path d="M812 129C871 91 918 111 950 174S1033 244 1122 226" fill="none" stroke="#245fe6" stroke-width="3" stroke-linecap="round"/>
-<path d="M812 255C866 290 907 258 950 174S1051 88 1125 111" fill="none" stroke="#218674" stroke-width="2.5" stroke-dasharray="6 8"/>
-<circle cx="950" cy="174" r="10" fill="#245fe6"/><circle cx="950" cy="174" r="20" fill="none" stroke="#245fe6" stroke-opacity=".3" stroke-width="5"/>
-<rect x="755" y="75" width="179" height="83" rx="14" fill="#ffffff" stroke="#d7dfe7"/>
-<circle cx="783" cy="104" r="6" fill="#245fe6"/>
-<text x="801" y="109" font-family="Arial,sans-serif" font-size="12" fill="#657589" letter-spacing="1.5">DAILY</text>
-<text x="775" y="141" font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="24" font-weight="700" fill="#172a47">日常主力</text>
-<rect x="1004" y="189" width="155" height="84" rx="14" fill="#ffffff" stroke="#d7dfe7"/>
-<circle cx="1032" cy="217" r="6" fill="#ba702b"/>
-<text x="1050" y="222" font-family="Arial,sans-serif" font-size="12" fill="#657589" letter-spacing="1.5">BACKUP</text>
-<text x="1024" y="255" font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="24" font-weight="700" fill="#172a47">低价备用</text>
-<rect x="762" y="267" width="188" height="79" rx="14" fill="#ffffff" stroke="#d7dfe7"/>
-<circle cx="790" cy="294" r="6" fill="#218674"/>
-<text x="808" y="299" font-family="Arial,sans-serif" font-size="12" fill="#657589" letter-spacing="1.2">REGIONS / IP</text>
-<text x="782" y="330" font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="24" font-weight="700" fill="#172a47">多地区 / 家宽</text>
-<text x="1023" y="355" font-family="Arial,sans-serif" font-size="12" fill="#657589" letter-spacing="1.5">FIND YOUR ROUTE</text>
+<path d="M35 263H369" stroke="#d85a22" stroke-width="5" stroke-linecap="round"/>
+<text x="38" y="305" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="22" fill="#687c87">套餐价格 · 优缺点 · 主力与备用</text>
+<path d="M36 331H647" stroke="#dcd8cf"/>
+<text x="37" y="378" font-family="Bahnschrift,DIN Alternate,monospace" font-size="35" font-weight="700" fill="#193041">15</text>
+<text x="88" y="374" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="17" fill="#687c87">家方案</text>
+<text x="218" y="374" font-family="Bahnschrift,DIN Alternate,monospace" font-size="15" fill="#687c87">AI / WEB / STREAMING</text>
+<text x="535" y="374" font-family="Bahnschrift,DIN Alternate,monospace" font-size="13" fill="#687c87">2026-10-02</text>
+<circle cx="961" cy="199" r="125" fill="#e2eff5"/>
+<g stroke="#216ced" fill="none" stroke-opacity=".28"><circle cx="961" cy="199" r="112"/><ellipse cx="961" cy="199" rx="54" ry="112"/><path d="M849 199H1073M861 147H1061M861 251H1061M961 87V311"/></g>
+<path d="M747 99C825 36 907 91 961 199S1109 329 1160 191" fill="none" stroke="#216ced" stroke-width="3" class="flow"/>
+<path d="M757 300C808 235 885 270 961 199S1105 80 1152 109" fill="none" stroke="#148e78" stroke-width="2" stroke-dasharray="3 8"/>
+<circle cx="961" cy="199" r="34" fill="#fffaf2" stroke="#216ced" stroke-width="3"/>
+<text x="961" y="210" font-family="Bahnschrift,DIN Alternate,monospace" font-size="30" font-weight="700" fill="#216ced" text-anchor="middle">15</text>
+<g transform="rotate(-8 810 118)"><rect x="727" y="75" width="184" height="91" rx="8" fill="#fffaf2" stroke="#dcd8cf"/><path d="M740 132H898" stroke="#dcd8cf" stroke-dasharray="3 3"/><circle cx="750" cy="100" r="5" fill="#216ced"/><text x="767" y="105" font-family="Bahnschrift,monospace" font-size="12" fill="#687c87" letter-spacing="1.4">DAILY ROUTE</text><text x="746" y="128" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="24" font-weight="700" fill="#193041">日常主力</text><text x="747" y="154" font-family="Bahnschrift,monospace" font-size="11" fill="#687c87">COMPARE · CHOOSE</text></g>
+<g transform="rotate(7 1080 276)"><rect x="1003" y="236" width="159" height="85" rx="8" fill="#fffaf2" stroke="#dcd8cf"/><circle cx="1024" cy="258" r="5" fill="#d85a22"/><text x="1040" y="263" font-family="Bahnschrift,monospace" font-size="12" fill="#687c87" letter-spacing="1.4">BACKUP</text><text x="1020" y="297" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="25" font-weight="700" fill="#193041">备用线路</text></g>
+<g transform="rotate(-4 814 320)"><rect x="726" y="282" width="195" height="80" rx="8" fill="#fffaf2" stroke="#dcd8cf"/><circle cx="748" cy="305" r="5" fill="#148e78"/><text x="764" y="310" font-family="Bahnschrift,monospace" font-size="12" fill="#687c87" letter-spacing="1">REGIONS / HOME IP</text><text x="744" y="344" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="24" font-weight="700" fill="#193041">多地区 / 家宽</text></g>
+<path d="M1099 75l30 9-18 13 1 17-11-12-21 1 11-14z" fill="#d85a22"/>
+<g transform="rotate(10 1080 363)"><rect x="1010" y="346" width="143" height="33" rx="4" fill="none" stroke="#d85a22" stroke-width="2"/><text x="1082" y="368" text-anchor="middle" font-family="Bahnschrift,monospace" font-size="13" fill="#d85a22" letter-spacing="1.3">FIND YOUR ROUTE</text></g>
 </svg>
