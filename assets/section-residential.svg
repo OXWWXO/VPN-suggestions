@@ -1,10 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="116" viewBox="0 0 1200 116" role="img" aria-labelledby="t d">
-<title id="t">多地区与家宽</title><desc id="d">先看具体用途，再为出口类型花钱</desc>
-<style>.bg{fill:#f5f6f8}.ink{fill:#1c2e48}.muted{fill:#66778c}.line{stroke:#d8e0e8}@media(prefers-color-scheme:dark){.bg{fill:#182334}.ink{fill:#e8eff9}.muted{fill:#a0b0c4}.line{stroke:#34455d}}</style>
-<rect width="1200" height="116" rx="14" class="bg"/><rect width="7" height="116" rx="3" fill="#208571"/>
-<text x="31" y="75" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#208571">03</text>
-<g font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif"><text x="113" y="51" font-size="30" font-weight="700" class="ink">多地区与家宽</text><text x="114" y="85" font-size="21" class="muted">先看具体用途，再为出口类型花钱</text></g>
-<path d="M798 26V90" class="line"/><text x="832" y="52" font-family="Arial,sans-serif" font-size="13" letter-spacing="1.7" class="muted">REGIONS &amp; RESIDENTIAL</text>
-<text x="832" y="84" font-family="Arial,sans-serif" font-size="21" font-weight="700" class="ink">04 PROFILES</text>
-<path d="M1118 46L1138 58L1118 70M1094 58H1138" stroke="#208571" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="134" viewBox="0 0 1200 134" role="img" aria-labelledby="t d">
+<title id="t">多地区与家宽</title><desc id="d">先看具体用途，再为出口类型花钱，04家介绍</desc>
+<style>.bg{fill:#fff6e9}.ink{fill:#203445}.muted{fill:#74858e}.line{stroke:#dcd7cc}.end{fill:#faf0df}@media(prefers-color-scheme:dark){.bg{fill:#172838}.ink{fill:#edf4f2}.muted{fill:#9caebb}.line{stroke:#344b5c}.end{fill:#10202c}}</style>
+<rect x="1" y="1" width="1198" height="132" rx="14" class="bg"/><rect x="935" y="1" width="264" height="132" rx="14" class="end"/>
+<rect x="1" y="1" width="8" height="132" rx="4" fill="#18856f"/>
+<path d="M934 10V123" class="line" stroke-width="2" stroke-dasharray="4 6"/>
+<text x="29" y="88" font-family="Bahnschrift,DIN Alternate,monospace" font-size="54" font-weight="700" fill="#18856f">03</text>
+<text x="115" y="54" font-family="Noto Serif CJK SC,Songti SC,SimSun,serif" font-size="34" font-weight="700" class="ink">多地区与家宽</text>
+<text x="117" y="94" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="21" class="muted">先看具体用途，再为出口类型花钱</text>
+<text x="966" y="42" font-family="Bahnschrift,monospace" font-size="12" class="muted" letter-spacing="1.3">REGIONS / RESIDENTIAL</text>
+<text x="966" y="79" font-family="Bahnschrift,monospace" font-size="27" font-weight="700" fill="#18856f">04 ROUTES</text>
+<g class="line" stroke-width="3"><path d="M969 102V116M979 102V116M985 102V116M997 102V116M1005 102V116M1016 102V116M1023 102V116M1033 102V116M1041 102V116M1052 102V116M1061 102V116M1070 102V116M1082 102V116M1093 102V116M1101 102V116M1111 102V116M1124 102V116M1130 102V116M1144 102V116M1150 102V116M1161 102V116"/></g>
 </svg>
