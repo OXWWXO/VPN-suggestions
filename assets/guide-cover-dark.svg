@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">选对线路，少一点折腾。</title><desc id="desc">2026机场推荐与机场测评。十一家方案，面向AI、日常主力、备用及多地区家宽需求。</desc>
+<rect width="1200" height="390" rx="22" fill="#121c2b"/>
+<path d="M708 0V390" stroke="#304159"/>
+<rect x="42" y="34" width="116" height="30" rx="15" fill="#74abff"/>
+<text x="100" y="54" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#15243b" letter-spacing="1.7">2026 / 10</text>
+<text x="176" y="54" font-family="Arial,sans-serif" font-size="13" fill="#91a5bd" letter-spacing="2.1">A PRACTICAL CONNECTION GUIDE</text>
+<g font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="63" font-weight="700">
+<text x="42" y="152" fill="#f1f4fa">选对线路，</text><text x="42" y="233" fill="#74abff">少一点折腾。</text>
+</g>
+<text x="45" y="279" font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="23" fill="#91a5bd">套餐价格 · 线路特点 · 优缺点 · 真实取舍</text>
+<path d="M44 309H654" stroke="#304159"/>
+<text x="45" y="351" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#f1f4fa">11</text>
+<text x="84" y="349" font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="16" fill="#91a5bd">家方案</text>
+<text x="216" y="349" font-family="Arial,sans-serif" font-size="16" fill="#91a5bd">AI · WEB · STREAMING</text>
+<text x="531" y="349" font-family="Arial,sans-serif" font-size="13" fill="#91a5bd">2026-10-02</text>
+<circle cx="985" cy="185" r="131" fill="#192e4c"/>
+<g stroke="#74abff" stroke-opacity=".23" stroke-width="1.3" fill="none">
+<circle cx="985" cy="185" r="111"/><ellipse cx="985" cy="185" rx="60" ry="111"/><path d="M874 185H1096M887 132H1083M887 238H1083M985 74V296"/>
+</g>
+<path d="M812 129C871 91 918 111 950 174S1033 244 1122 226" fill="none" stroke="#74abff" stroke-width="3" stroke-linecap="round"/>
+<path d="M812 255C866 290 907 258 950 174S1051 88 1125 111" fill="none" stroke="#72d6bf" stroke-width="2.5" stroke-dasharray="6 8"/>
+<circle cx="950" cy="174" r="10" fill="#74abff"/><circle cx="950" cy="174" r="20" fill="none" stroke="#74abff" stroke-opacity=".3" stroke-width="5"/>
+<rect x="755" y="75" width="179" height="83" rx="14" fill="#1c2b40" stroke="#304159"/>
+<circle cx="783" cy="104" r="6" fill="#74abff"/>
+<text x="801" y="109" font-family="Arial,sans-serif" font-size="12" fill="#91a5bd" letter-spacing="1.5">DAILY</text>
+<text x="775" y="141" font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="24" font-weight="700" fill="#f1f4fa">日常主力</text>
+<rect x="1004" y="189" width="155" height="84" rx="14" fill="#1c2b40" stroke="#304159"/>
+<circle cx="1032" cy="217" r="6" fill="#f7c47a"/>
+<text x="1050" y="222" font-family="Arial,sans-serif" font-size="12" fill="#91a5bd" letter-spacing="1.5">BACKUP</text>
+<text x="1024" y="255" font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="24" font-weight="700" fill="#f1f4fa">低价备用</text>
+<rect x="762" y="267" width="188" height="79" rx="14" fill="#1c2b40" stroke="#304159"/>
+<circle cx="790" cy="294" r="6" fill="#72d6bf"/>
+<text x="808" y="299" font-family="Arial,sans-serif" font-size="12" fill="#91a5bd" letter-spacing="1.2">REGIONS / IP</text>
+<text x="782" y="330" font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="24" font-weight="700" fill="#f1f4fa">多地区 / 家宽</text>
+<text x="1023" y="355" font-family="Arial,sans-serif" font-size="12" fill="#91a5bd" letter-spacing="1.5">FIND YOUR ROUTE</text>
+</svg>
