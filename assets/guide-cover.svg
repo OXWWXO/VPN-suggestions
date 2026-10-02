@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">2026 机场推荐与机场测评</title>
+<desc id="desc">十一家服务，比较套餐价格、线路、优势与不足，面向AI使用、日常主力、备用及家宽需求。更新于2026年10月2日。</desc>
+<rect width="1200" height="300" rx="18" fill="#111b2b"/>
+<path d="M800 0V300M900 0V300M1000 0V300M1100 0V300M780 60H1200M780 120H1200M780 180H1200M780 240H1200" stroke="#253044" stroke-width="1"/>
+<rect x="42" y="34" width="112" height="30" rx="6" fill="#e9b56a"/>
+<text x="98" y="54" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#172133" letter-spacing="2">2026 / 10</text>
+<text x="174" y="54" font-family="Arial,sans-serif" font-size="13" fill="#94a5b8" letter-spacing="2">VPN SELECTION GUIDE</text>
+<text x="42" y="126" font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="45" font-weight="700" fill="#f6f2e9">把预算花在合适的线路上</text>
+<text x="44" y="168" font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="22" fill="#c0cad6">11 家服务 · 套餐价格 · 优缺点 · 已有评测</text>
+<rect x="43" y="198" width="106" height="31" rx="6" fill="#21354a"/>
+<rect x="160" y="198" width="106" height="31" rx="6" fill="#21354a"/>
+<rect x="277" y="198" width="106" height="31" rx="6" fill="#21354a"/>
+<rect x="394" y="198" width="142" height="31" rx="6" fill="#21354a"/>
+<g font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="14" fill="#cee2e7" text-anchor="middle">
+<text x="96" y="219">AI 使用</text><text x="213" y="219">日常主力</text><text x="330" y="219">低价备用</text><text x="465" y="219">多地区 / 家宽</text>
+</g>
+<text x="44" y="271" font-family="Arial,sans-serif" font-size="12" fill="#7f92a8" letter-spacing="1.3">PRICES · CONNECTIONS · TRADE-OFFS</text>
+<path d="M824 190L923 95L1077 168L1150 80" stroke="#70b9b6" stroke-width="2.5" fill="none"/>
+<path d="M824 190L1077 168" stroke="#3e5369" stroke-width="2" stroke-dasharray="5 7" fill="none"/>
+<circle cx="824" cy="190" r="28" fill="#1a293c" stroke="#70b9b6" stroke-width="2"/>
+<circle cx="923" cy="95" r="38" fill="#17393e" stroke="#70b9b6" stroke-width="2"/>
+<circle cx="1077" cy="168" r="29" fill="#3c3024" stroke="#e9b56a" stroke-width="2"/>
+<circle cx="1150" cy="80" r="8" fill="#70b9b6"/>
+<g font-family="Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+<text x="824" y="195" fill="#c9dee4">WORK</text><text x="923" y="101" font-size="20" fill="#c7eeea">AI</text><text x="1077" y="173" fill="#e9c58e">WEB</text>
+</g>
+<text x="904" y="267" font-family="Arial,sans-serif" font-size="12" fill="#7f92a8" letter-spacing="1.3">UPDATED 2026-10-02</text>
+</svg>
