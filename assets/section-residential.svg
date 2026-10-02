@@ -5,6 +5,6 @@
 <text x="31" y="75" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#208571">03</text>
 <g font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif"><text x="113" y="51" font-size="30" font-weight="700" class="ink">多地区与家宽</text><text x="114" y="85" font-size="21" class="muted">先看具体用途，再为出口类型花钱</text></g>
 <path d="M798 26V90" class="line"/><text x="832" y="52" font-family="Arial,sans-serif" font-size="13" letter-spacing="1.7" class="muted">REGIONS &amp; RESIDENTIAL</text>
-<text x="832" y="84" font-family="Arial,sans-serif" font-size="21" font-weight="700" class="ink">03 PROFILES</text>
+<text x="832" y="84" font-family="Arial,sans-serif" font-size="21" font-weight="700" class="ink">04 PROFILES</text>
 <path d="M1118 46L1138 58L1118 70M1094 58H1138" stroke="#208571" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
