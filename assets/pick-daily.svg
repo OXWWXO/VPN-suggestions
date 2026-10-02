@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" role="img" aria-labelledby="t d">
+<title id="t">日常主力</title><desc id="d">守候 · FlyBit · 悠兔 · BoostNet，点击查看详情</desc>
+<style>.paper{fill:#fff8ee}.ink{fill:#1a3245}.muted{fill:#71838d}.line{stroke:#dbd6ca}.shade{fill:#eef0e9}@media(prefers-color-scheme:dark){.paper{fill:#172838}.ink{fill:#edf4f2}.muted{fill:#9aacb9}.line{stroke:#374b5a}.shade{fill:#10202d}}</style>
+<rect x="3" y="5" width="594" height="181" rx="13" class="shade"/><rect x="3" y="2" width="594" height="181" rx="13" class="paper" stroke="#216ced" stroke-width="1.5"/>
+<rect x="3" y="2" width="8" height="181" rx="4" fill="#216ced"/>
+<path d="M509 14V169" class="line" stroke-width="1.5" stroke-dasharray="4 5"/>
+<text x="30" y="39" font-family="Bahnschrift,DIN Alternate,monospace" font-size="12" fill="#216ced" letter-spacing="1.6">DAILY CONNECTIONS</text>
+<text x="30" y="99" font-family="Noto Serif CJK SC,Songti SC,SimSun,serif" font-size="40" font-weight="700" class="ink">日常主力</text>
+<text x="32" y="145" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="20" class="muted">守候 · FlyBit · 悠兔 · BoostNet</text>
+<text x="553" y="59" text-anchor="middle" font-family="Bahnschrift,monospace" font-size="23" font-weight="700" fill="#216ced">01</text>
+<path d="M533 107H570M555 92l16 15-16 15" fill="none" stroke="#216ced" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="line" stroke-width="2"><path d="M535 146V162M541 146V162M549 146V162M556 146V162M562 146V162M570 146V162"/></g>
+</svg>
