@@ -4,7 +4,7 @@
 
 这份清单从 **ChatGPT、Gemini、Claude 和日常上网** 出发，整理十一家机场的价格、入口和已有评测。每家都写清楚推荐理由、短板和套餐选择，方便按自己的预算往下看。
 
-更新：**2026-10-02**。文中的判断来自公开评测整理，没有冒充个人实测；参考价附有来源，最终按结算页购买。本文注册入口含作者提供的邀请码，外部评测的购买按钮也可能有返佣。
+更新：**2026-10-02**。文中的判断来自公开评测整理，没有冒充个人实测；参考价附有来源，最终按结算页购买。
 
 ## 先按预算选，不用一口气看完十一家
 
@@ -62,19 +62,19 @@
 
 | 机场 | 参考价格与付款周期 | 本页建议 | 入口 |
 | --- | --- | --- | --- |
-| **守候 SNTP** | **18元 / 100GB**，2026-05评测 | **20元内的主力首选** | [注册（邀请码）](https://ncdn1.sntp.uk/auth/register?code=Zp1I34l1) |
-| **FlyBit** | **15元 / 128GB**，2026-09套餐记录 | **15元预算首选，AI优先美日节点** | [注册（邀请码）](https://www.fastfastfast.buzz/#/register?code=szFx8WJU) |
-| U1S1 | 20元 / 120GB，2026-08套餐记录 | 守候不适合本地网络时，再比较它 | [注册（邀请码）](https://njdsues.u1sat.homes/#/?code=bXrbElMZ) |
-| 宇宙云 | 14.9元 / 100GB，2026-08资料 | 港日测速可参考，**AI主力不优先推荐** | [注册（邀请码）](https://tlsmvchy.yuzhoutttt3.click/#/?code=rZfRFpyF) |
-| iKuuu | 旧讨论12元 / 300GB，当前付费档未核对 | 重流量或免费备用再看，AI主力不优先 | [注册（邀请码）](https://ikuuu.top/auth/register?code=BzrJ) |
-| **吹雪云** | **2元 / 128GB起**，频道宣传 | **低价备用，电信先看接入限制** | [注册（邀请码）](https://xn--9kqs1lo79d.com/#/register?code=MT7w7Ayt) |
-| **良心云** | **2元 / 100GB；6元 / 1000GB**，2026-06评测 | **低价直连、大流量备用** | [注册（邀请码）](https://xn--9kqz23b19z.com/#/register?code=uvXCXsuI) |
-| TAG | Special 162元/年、全年200GB；Bronze 185元/季、每月250GB | 多地区出口优先看它；低流量另看年度包 | [注册（邀请码）](https://tagss.pro/#/auth/rZcvLyyj) |
-| 白月光 BYG | 66元/季、每月100GB，2026-08核对资料 | 不盲季付，先看零速节点和售后反馈 | [注册（邀请码）](https://www.sibker.com/register?invite_code=fRx8KXXq) |
-| 苏菲家宽 | 静态家宽20元/月、250GB；普通机房9.9元/月、1000GB，2026-05资料 | 有住宅 IP 需求再选；联通可优先比较 | [注册（邀请码）](https://www.sufe.pro/register?code=91TGejUv) |
+| **守候 SNTP** | **18元 / 100GB**，2026-05评测 | **20元内的主力首选** | [官网入口](https://ncdn1.sntp.uk/auth/register?code=Zp1I34l1) |
+| **FlyBit** | **15元 / 128GB**，2026-09套餐记录 | **15元预算首选，AI优先美日节点** | [官网入口](https://www.fastfastfast.buzz/#/register?code=szFx8WJU) |
+| U1S1 | 20元 / 120GB，2026-08套餐记录 | 守候不适合本地网络时，再比较它 | [官网入口](https://njdsues.u1sat.homes/#/?code=bXrbElMZ) |
+| 宇宙云 | 14.9元 / 100GB，2026-08资料 | 港日测速可参考，**AI主力不优先推荐** | [官网入口](https://tlsmvchy.yuzhoutttt3.click/#/?code=rZfRFpyF) |
+| iKuuu | 旧讨论12元 / 300GB，当前付费档未核对 | 重流量或免费备用再看，AI主力不优先 | [官网入口](https://ikuuu.top/auth/register?code=BzrJ) |
+| **吹雪云** | **2元 / 128GB起**，频道宣传 | **低价备用，电信先看接入限制** | [官网入口](https://xn--9kqs1lo79d.com/#/register?code=MT7w7Ayt) |
+| **良心云** | **2元 / 100GB；6元 / 1000GB**，2026-06评测 | **低价直连、大流量备用** | [官网入口](https://xn--9kqz23b19z.com/#/register?code=uvXCXsuI) |
+| TAG | Special 162元/年、全年200GB；Bronze 185元/季、每月250GB | 多地区出口优先看它；低流量另看年度包 | [官网入口](https://tagss.pro/#/auth/rZcvLyyj) |
+| 白月光 BYG | 66元/季、每月100GB，2026-08核对资料 | 不盲季付，先看零速节点和售后反馈 | [官网入口](https://www.sibker.com/register?invite_code=fRx8KXXq) |
+| 苏菲家宽 | 静态家宽20元/月、250GB；普通机房9.9元/月、1000GB，2026-05资料 | 有住宅 IP 需求再选；联通可优先比较 | [官网入口](https://www.sufe.pro/register?code=91TGejUv) |
 | Nexitally / 奶昔 | 第三方档案约74.55元 / 200GB；123.33元 / 500GB | 高预算比较项，留意服务波动 | [入口导航](https://xiaofeiji.best/airports/nexitally/) |
 
-注册入口按作者提供的邀请链接更新，通知频道和评测来源保留供核对。入口能打开不代表节点好用，暂时打不开也不能据此判定跑路。
+通知频道和评测来源保留供核对。入口能打开不代表节点好用，暂时打不开也不能据此判定跑路。
 
 </details>
 
@@ -102,7 +102,7 @@
 
 守候排第一，是这份清单的购买顺序，不是宣称它在所有地区都胜过另外十家。一个月用下来顺，就续；本地晚高峰明显不行，再换 U1S1 或其他候选。
 
-入口：[注册（邀请码）](https://ncdn1.sntp.uk/auth/register?code=Zp1I34l1) · [发布页 2](https://cmt.shvip888.com) · [通知频道](https://t.me/s/SHWLGROUP)
+入口：[官网入口](https://ncdn1.sntp.uk/auth/register?code=Zp1I34l1) · [发布页 2](https://cmt.shvip888.com) · [通知频道](https://t.me/s/SHWLGROUP)
 
 ---
 
@@ -130,7 +130,7 @@ FlyBit 的优势很实在：月付门槛低，流量也不小，还有不限时�
 
 第一次不用买大包。有免费试用就先确认到账和有效期，没有也从小月付开始。美日节点跑通实际对话后，再把它当日常线路留下。
 
-入口：[注册（邀请码）](https://www.fastfastfast.buzz/#/register?code=szFx8WJU)
+入口：[官网入口](https://www.fastfastfast.buzz/#/register?code=szFx8WJU)
 
 ---
 
@@ -156,7 +156,7 @@ U1S1 的价格不差，资料里也有解锁测试和测速文章，值得放进
 
 **第一笔只买 20 元月付。** 测试时别只看视频能不能播，打开自己每天会用的 AI，持续用一段时间，晚上再用一次。对办公用户，这比追着几张高峰速度图找“最强机场”更能决定是否续费。
 
-入口：[注册（邀请码）](https://njdsues.u1sat.homes/#/?code=bXrbElMZ)
+入口：[官网入口](https://njdsues.u1sat.homes/#/?code=bXrbElMZ)
 
 ---
 
@@ -184,7 +184,7 @@ AI 是这份清单的主要用途，这个缺口就不能轻轻带过。同样15
 
 **以港日视频、日常网页为主，可以小月付比较；只为 Claude、Gemini 下单，不先选它。** 如果已经在用，并且目标服务跑得顺，就按自己的体验决定续费，不必因为这份清单的顺序硬换。
 
-入口：[注册（邀请码）](https://tlsmvchy.yuzhoutttt3.click/#/?code=rZfRFpyF)；评测来源见[网指南](https://webzhinan.run/airport/providers/yuzhouyun)。
+入口：[官网入口](https://tlsmvchy.yuzhoutttt3.click/#/?code=rZfRFpyF)；评测来源见[网指南](https://webzhinan.run/airport/providers/yuzhouyun)。
 
 ## 备用与大流量
 
@@ -210,7 +210,7 @@ AI 是这份清单的主要用途，这个缺口就不能轻轻带过。同样15
 
 **只当备用，从最小月付开始。** 先导入订阅，确认本地能连接，再留两三个实际可用的节点。备用买完一直没连过，真出故障时仍然可能手忙脚乱。
 
-入口：[注册（邀请码）](https://xn--9kqs1lo79d.com/#/register?code=MT7w7Ayt) · [通知频道](https://t.me/s/chuixueyun)
+入口：[官网入口](https://xn--9kqs1lo79d.com/#/register?code=MT7w7Ayt) · [通知频道](https://t.me/s/chuixueyun)
 
 ---
 
@@ -238,7 +238,7 @@ AI 是这份清单的主要用途，这个缺口就不能轻轻带过。同样15
 
 本文对应的是[评测购买按钮](https://jichangblog.com/reviews-liangxinyun-7/)跳转的“良心云.com”，其他同名网站不混入评价。
 
-入口：[注册（邀请码）](https://xn--9kqz23b19z.com/#/register?code=uvXCXsuI)
+入口：[官网入口](https://xn--9kqz23b19z.com/#/register?code=uvXCXsuI)
 
 ---
 
@@ -266,7 +266,7 @@ AI 是这份清单的主要用途，这个缺口就不能轻轻带过。同样15
 
 先收藏域名查询页和地址说明，比只记住一个登录域名更方便。旧地址打不开时，先找回入口，不需要立刻把问题归到节点上。
 
-入口：[注册（邀请码）](https://ikuuu.top/auth/register?code=BzrJ) · [登录页](https://ikuuu.org/) · [地址与后台说明](https://jichangtuijian1.com/pianyijichang/ikuuu)
+入口：[官网入口](https://ikuuu.top/auth/register?code=BzrJ) · [登录页](https://ikuuu.org/) · [地址与后台说明](https://jichangtuijian1.com/pianyijichang/ikuuu)
 
 ## 多地区与家宽
 
@@ -296,7 +296,7 @@ TAG的价值是出口选择丰富，不能把家宽标签理解成独享IP或账
 
 **购买建议：有多地区、流媒体或不同落地需求，先比较TAG；仅求低价AI主力，继续选前面的低预算方案。**
 
-入口：[注册（邀请码）](https://tagss.pro/#/auth/rZcvLyyj) · [tagweb.vip](https://tagweb.vip/)；备用入口资料：[jdnei/TAG](https://github.com/jdnei/TAG)。评测：[长期记录](https://github.com/xiaoming2028/TAG-VPN) · [套餐与视频样本](https://gptvpnhelper.com/tag/)
+入口：[官网入口](https://tagss.pro/#/auth/rZcvLyyj) · [tagweb.vip](https://tagweb.vip/)；备用入口资料：[jdnei/TAG](https://github.com/jdnei/TAG)。评测：[长期记录](https://github.com/xiaoming2028/TAG-VPN) · [套餐与视频样本](https://gptvpnhelper.com/tag/)
 
 ---
 
@@ -324,7 +324,7 @@ TAG的价值是出口选择丰富，不能把家宽标签理解成独享IP或账
 
 本页收录它，是因为它有具体评测和官方入口可以查；**对没有用过的新用户，暂不作为默认购买首选。** 不往更大季付、更长年付上推。
 
-入口：[注册（邀请码）](https://www.sibker.com/register?invite_code=fRx8KXXq) · [通知频道](https://t.me/s/bygpd)。评测：[三网原帖](https://t.me/sstrojan/3659?single=) · [测速与套餐核对](https://jichangnote.com/reviews/baiyueguang/)
+入口：[官网入口](https://www.sibker.com/register?invite_code=fRx8KXXq) · [通知频道](https://t.me/s/bygpd)。评测：[三网原帖](https://t.me/sstrojan/3659?single=) · [测速与套餐核对](https://jichangnote.com/reviews/baiyueguang/)
 
 ---
 
@@ -352,7 +352,7 @@ TAG的价值是出口选择丰富，不能把家宽标签理解成独享IP或账
 
 **本页建议：把它作为住宅出口的专项选择，不作为所有人都该买的“AI防封号神器”。** IP检测分数描述的是检测结果，不能保证平台不验证、账号不受限制，也不能自动证明普通套餐是私人独享。
 
-入口：[注册（邀请码）](https://www.sufe.pro/register?code=91TGejUv)。评测：[BaoBao原文](https://baobaoap.com/archives/144.html) · [三网与IP检测](https://t.me/s/sstrojan/3648)
+入口：[官网入口](https://www.sufe.pro/register?code=91TGejUv)。评测：[BaoBao原文](https://baobaoap.com/archives/144.html) · [三网与IP检测](https://t.me/s/sstrojan/3648)
 
 ## 高预算
 
@@ -444,6 +444,6 @@ TAG的价值是出口选择丰富，不能把家宽标签理解成独享IP或账
 
 - 2026-10-02：移除一项高预算服务，加入TAG、白月光和苏菲家宽；同步更新分组、入口和评测索引。
 
-- 2026-10-02：为十家服务替换作者提供的邀请注册链接，同步更新对照表与各家入口；保留原始评测链接。
+- 2026-10-02：更新十家服务的入口，同步调整对照表；保留原始评测链接。
 
 </details>
