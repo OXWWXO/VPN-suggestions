@@ -7,18 +7,18 @@
 </picture>
 
 <p align="center">
-  <kbd>11 家方案</kbd>&nbsp; <kbd>套餐对比</kbd>&nbsp; <kbd>优缺点直览</kbd>&nbsp; <kbd>原评测参考</kbd>
+  <kbd>15 家方案</kbd>&nbsp; <kbd>套餐对比</kbd>&nbsp; <kbd>优缺点直览</kbd>&nbsp; <kbd>原评测参考</kbd>
 </p>
 
 <p align="center">
   <a href="#quick-picks">快速选择</a> ·
-  <a href="#providers">十一家详情</a> ·
+  <a href="#providers">十五家详情</a> ·
   <a href="#all-prices">价格与入口</a> ·
   <a href="#buying">怎么买</a> ·
   <a href="#evidence">评测来源</a>
 </p>
 
-十一家服务，价格、优势和短板放在一起看。这里整理已有机场测速、AI 与流媒体解锁评测，帮助你按预算选主力、找备用，或比较多地区和住宅出口。
+十五家服务，价格、优势和短板放在一起看。这里整理已有机场测速、AI 与流媒体解锁评测，帮助你按预算选主力、找备用，或比较多地区和住宅出口。
 
 主要用途：**ChatGPT / Claude / Gemini、日常网页、视频与下载。** 使用 Clash、v2rayN、sing-box 等客户端时，具体协议与限制在各家介绍里查。
 
@@ -31,12 +31,14 @@
 | 你最在意什么 | 先看这家 | 选择理由 |
 | --- | --- | --- |
 | **20 元内的日常主力** | [守候网络](#sntp)；[U1S1](#u1s1)作第二选择 | 小额月付，有评测记录可对照 |
+| **提高主力预算** | [悠兔](#youtu) / [BoostNet](#boostnet) | 多入口、客户端及历次测试，付款周期见详情 |
 | **15 元封顶，主要用 AI** | [FlyBit](#flybit) | 15 元 / 128GB，有分地区的 ChatGPT 样本 |
 | **几元钱留一份备用** | [吹雪云](#chuixue) / [良心云](#liangxin) | 小月付成本低，先确认本地接入 |
 | **流量多，想先花一元体验** | [iKuuu](#ikuuu) | 1 元日包与 12 元 / 300GB 付费档 |
-| **多地区流媒体和不同出口** | [TAG](#tag) | 地区与落地类型丰富，注意年包总流量 |
+| **多地区流媒体和不同出口** | [TAG](#tag) / [花云](#flowercloud) | 丰富落地或低倍率，按地区与付款周期比较 |
 | **指定住宅 IP / 家宽需求** | [苏菲家宽](#sufe) | 普通机房、静态与动态家宽分档 |
-| **其他比较项** | [宇宙云](#yuzhou) · [白月光](#byg) · [奶昔](#nexitally) | 分别留意 AI 证据、季付门槛和服务波动 |
+| **高预算长期主力** | [奶昔](#nexitally) / [WgetCloud](#wgetcloud) | 先读近期状态、季付门槛与官方限制 |
+| **其他比较项** | [宇宙云](#yuzhou) · [白月光](#byg) | 分别留意 AI 证据和季付门槛 |
 
 如果只准备买一家，按上表选择即可。备用等主力用顺后再补，不必一次购齐。
 
@@ -46,17 +48,19 @@
 
 | 日常主力 | 备用与流量 | 多地区、家宽与高预算 |
 | --- | --- | --- |
-| [01 守候网络](#sntp) | [05 吹雪云](#chuixue) | [08 TAG](#tag) |
-| [02 FlyBit](#flybit) | [06 良心云](#liangxin) | [09 白月光](#byg) |
-| [03 U1S1](#u1s1) | [07 iKuuu](#ikuuu) | [10 苏菲家宽](#sufe) |
-| [04 宇宙云](#yuzhou) |  | [11 奶昔](#nexitally) |
+| [01 守候网络](#sntp) | [07 吹雪云](#chuixue) | [10 TAG](#tag) |
+| [02 FlyBit](#flybit) | [08 良心云](#liangxin) | [11 白月光](#byg) |
+| [03 U1S1](#u1s1) | [09 iKuuu](#ikuuu) | [12 苏菲家宽](#sufe) |
+| [04 宇宙云](#yuzhou) |  | [13 花云](#flowercloud) |
+| [05 悠兔](#youtu) |  | [14 奶昔](#nexitally) |
+| [06 BoostNet](#boostnet) |  | [15 WgetCloud](#wgetcloud) |
 
 每家按 **入口 → 套餐 → 优缺点 → 测试记录 → 怎么选** 阅读。只查价格时，可以展开下面的总表。
 
 <a id="all-prices"></a>
 
 <details>
-<summary><strong>查看全部 11 家的参考价格与官网入口</strong></summary>
+<summary><strong>查看全部 15 家的参考价格与官网入口</strong></summary>
 
 表里的“建议”是本页的选购判断，不是统一测速排名。新资料与旧价冲突时，优先采用较新的记录；没核到新价的，直接标为旧价。
 
@@ -66,13 +70,17 @@
 | **FlyBit** | **15元 / 128GB**，2026-09套餐记录 | **15元预算首选，AI优先美日节点** | [官网入口](https://www.fastfastfast.buzz/#/register?code=szFx8WJU) |
 | U1S1 | 20元 / 120GB，2026-08套餐记录 | 守候不适合本地网络时，再比较它 | [官网入口](https://njdsues.u1sat.homes/#/?code=bXrbElMZ) |
 | 宇宙云 | 14.9元 / 100GB，2026-08资料 | 港日测速可参考，**AI主力不优先推荐** | [官网入口](https://tlsmvchy.yuzhoutttt3.click/#/?code=rZfRFpyF) |
-| iKuuu | 12元/月、每30天300GB；1元日包30GB，2026-09核对资料 | 重流量或免费备用再看，AI主力不优先 | [官网入口](https://ikuuu.top/auth/register?code=BzrJ) |
+| 悠兔 YouTu | 年包199元、全年200GB；150GB/月付39元为评测参考 | 多入口中档比较，先核对当前付款周期 | [官网入口](https://tw.youtu1.com/) |
+| BoostNet | 49元/月、200GB；另有200元年付20GB/月 | AnyTLS与官方客户端，注意费用及限制 | [官网入口](https://jc.boostqz.com/) |
 | **吹雪云** | **2元 / 128GB起**，频道宣传 | **低价备用，电信先看接入限制** | [官网入口](https://xn--9kqs1lo79d.com/#/register?code=MT7w7Ayt) |
 | **良心云** | **2元 / 100GB；6元 / 1000GB**，2026-06评测 | **低价直连、大流量备用** | [官网入口](https://xn--9kqz23b19z.com/#/register?code=uvXCXsuI) |
+| iKuuu | 12元/月、每30天300GB；1元日包30GB，2026-09核对资料 | 重流量或免费备用再看，AI主力不优先 | [官网入口](https://ikuuu.top/auth/register?code=BzrJ) |
 | TAG | Special 162元/年、全年200GB；Bronze 185元/季、每月250GB | 多地区出口优先看它；低流量另看年度包 | [官网入口](https://tagss.pro/#/auth/rZcvLyyj) |
 | 白月光 BYG | 66元/季、每月100GB，2026-08核对资料 | 不盲季付，先看零速节点和售后反馈 | [官网入口](https://www.sibker.com/register?invite_code=fRx8KXXq) |
 | 苏菲家宽 | 静态家宽20元/月、250GB；普通机房9.9元/月、1000GB，2026-05资料 | 有住宅 IP 需求再选；联通可优先比较 | [官网入口](https://www.sufe.pro/register?code=91TGejUv) |
+| 花云 FlowerCloud | 39元/月、150GiB；58元/月、400GiB | 多地区及0.2倍率实验节点 | [官网入口](https://huacloud.dev/) |
 | Nexitally / 奶昔 | 第三方档案约74.55元 / 200GB；123.33元 / 500GB | 高预算比较项，留意服务波动 | [入口导航](https://xiaofeiji.best/airports/nexitally/) |
+| WgetCloud | 第三方季价237元起；官方基础季付每30天230GB | 高预算比较，先核对会员中心价格 | [官网入口](https://wgetcloud.ltd/) |
 
 通知频道和评测来源保留供核对。入口能打开不代表节点好用，暂时打不开也不能据此判定跑路。
 
@@ -289,13 +297,90 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 ---
 
+<a id="youtu"></a>
+
+### 05 · 悠兔 YouTu｜多入口与动态倍率的中档主力
+
+<p><kbd>中档主力</kbd>&nbsp; <kbd>隧道 / 专线</kbd></p>
+
+🔗 [官网入口](https://tw.youtu1.com/) · [7月测速及套餐资料](https://gptvpnhelper.com/youtu/) · [GitHub更新记录](https://github.com/hwanz/SSR-V2ray-Trojan)
+
+#### 套餐价格
+
+| 方案 | 参考付款金额 | 流量 | 资料口径 |
+| --- | ---: | ---: | --- |
+| 轻量年包 | 199元/年 | **全年总共200GB** | 两份资料一致 |
+| 150GB档 | 39元/月；210元/半年；400元/年 | 150GB/月 | 月付来自9月21日评测；较新GitHub列半年与年付 |
+| 300GB档 | 170元/季；320元/半年；600元/年 | 300GB/月 | 本次读取的GitHub条目 |
+| 500GB档 | 79元/月；220元/季；420元/半年；800元/年 | 500GB/月 | 月付为评测记录；其他周期见GitHub |
+| 1000GB档 | 119元/月 | 1000GB/月 | 两份资料一致 |
+
+来源：[评测页](https://gptvpnhelper.com/youtu/)与[GitHub条目](https://github.com/hwanz/SSR-V2ray-Trojan)。两页在部分价格、协议与开放周期上有差异，因此上表分别标来源；39元月付是否仍可新购要看当前后台，不写成确定在售。
+
+#### 优势与不足
+
+| ✓ 优势 | ! 需要留意 |
+| --- | --- |
+| 有多入口和混合线路，适合比较主力的冗余选择 | 隧道、专线的倍率不同，低档流量要按实际节点算 |
+| 有不同运营商、视频与解锁图可查看 | SS旧记录与AnyTLS新记录并存，要按当前客户端说明配置 |
+| 年度小总量包适合低频备用 | 年包不是每月200GB；有些小档需要较长预付 |
+
+#### 测试记录与选法
+
+[7月3日测速](https://gptvpnhelper.com/youtu/)来自广西移动2Gbps、6线程；1倍港新隧道样本表现较好，日美等节点有差异。解锁图标注的实际测试时间为7月1日，不能因为OpenAI列有结果就推断Claude、Gemini也已逐项通过。
+
+想提高主力预算，又希望在多条入口之间留选择，可以比较悠兔。先看最短可购周期和自己运营商接近的图；若只剩半年起付，不要照着旧月付价充值。
+
+<p align="right"><a href="#providers">↑ 返回目录</a></p>
+
+---
+
+<a id="boostnet"></a>
+
+### 06 · BoostNet｜AnyTLS 与官方客户端的主力备选
+
+<p><kbd>中档主力</kbd>&nbsp; <kbd>AnyTLS</kbd></p>
+
+🔗 [官网入口](https://jc.boostqz.com/) · [历次三网测速](https://jichangtuijian.com/boostnet) · [节点与解锁评测](https://gptvpnhelper.com/boostnet/)
+
+#### 套餐价格
+
+| 每月流量 | 月付 | 季付 | 半年付 | 年付 |
+| --- | ---: | ---: | ---: | ---: |
+| 20GB | — | — | — | 200元 |
+| 200GB | 49元 | 140元 | 260元 | 500元 |
+| 400GB | 79元 | 220元 | 420元 | 800元 |
+| 1000GB | 129元 | 350元 | 660元 | 939元 |
+| 1500GB团队档 | 388元 | 888元 | — | — |
+
+价格取[2026-09-28更新的测速文章](https://jichangtuijian.com/boostnet)。该来源另记录支付手续费6%～9%；不同入口最终实付以结算页为准，不拿表中标价当含费总价。
+
+#### 优势与不足
+
+| ✓ 优势 | ! 需要留意 |
+| --- | --- |
+| 有多期三网记录，资料新至2026年9月 | AnyTLS需要兼容的新客户端，老客户端可能不支持 |
+| 官方客户端与通用订阅可比较 | 第三方客户端和官方客户端体验可能不同 |
+| 月付主力与每月20GB年包覆盖不同用量 | 用完提前续费不一定立即补流量，需要看重置包规则 |
+| 常用港、台、日、新、美地区有样本 | 有端口、邮件协议限制；不按游戏加速器推荐 |
+
+#### 测试记录与选法
+
+[历史合集](https://jichangtuijian.com/boostnet)包含9月15日移动、5月2日三网测试；[另一评测](https://gptvpnhelper.com/boostnet/)有7月的下载、解锁图。不同地区仍有低速和平台例外，所以不把“主流解锁”写成全部节点保证。
+
+预算从20元提高到50元左右，BoostNet值得加入主力比较。先从200GB档试，客户端尽量按服务方当前建议选择；只需要少量备用，才考虑200元年包。资料对海外可用性有冲突，境外使用先核对当前入口，不能照旧介绍直接买。
+
+<p align="right"><a href="#providers">↑ 返回目录</a></p>
+
+---
+
 ## 备用与大流量
 
 ![备用与大流量分区：用得少看总成本，用得多看晚高峰](assets/section-backup.svg)
 
 <a id="chuixue"></a>
 
-### 05 · 吹雪云｜低价备用，先看 IPv6 和套餐规则
+### 07 · 吹雪云｜低价备用，先看 IPv6 和套餐规则
 
 <p><kbd>低价备用</kbd>&nbsp; <kbd>留意 IPv6</kbd></p>
 
@@ -340,7 +425,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 <a id="liangxin"></a>
 
-### 06 · 良心云｜下载与视频备用，流量门槛低
+### 08 · 良心云｜下载与视频备用，流量门槛低
 
 <p><kbd>大流量</kbd>&nbsp; <kbd>下载备用</kbd></p>
 
@@ -383,7 +468,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 <a id="ikuuu"></a>
 
-### 07 · iKuuu｜免费入门、1 元日包与大流量付费
+### 09 · iKuuu｜免费入门、1 元日包与大流量付费
 
 <p><kbd>免费 / 日包</kbd>&nbsp; <kbd>流量优先</kbd></p>
 
@@ -442,7 +527,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 <a id="tag"></a>
 
-### 08 · TAG｜多地区出口与丰富落地类型
+### 10 · TAG｜多地区出口与丰富落地类型
 
 <p><kbd>多地区</kbd>&nbsp; <kbd>家宽 / 商宽</kbd></p>
 
@@ -486,7 +571,7 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 <a id="byg"></a>
 
-### 09 · 白月光 BYG｜季付门槛与节点差异要一起看
+### 11 · 白月光 BYG｜季付门槛与节点差异要一起看
 
 <p><kbd>季付起步</kbd>&nbsp; <kbd>关注节点差异</kbd></p>
 
@@ -532,7 +617,7 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 <a id="sufe"></a>
 
-### 10 · 苏菲家宽｜按住宅出口需求选套餐
+### 12 · 苏菲家宽｜按住宅出口需求选套餐
 
 <p><kbd>住宅出口</kbd>&nbsp; <kbd>静态 / 动态</kbd></p>
 
@@ -575,13 +660,53 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 ---
 
+<a id="flowercloud"></a>
+
+### 13 · 花云 FlowerCloud｜多地区落地与低倍率实验节点
+
+<p><kbd>多地区</kbd>&nbsp; <kbd>0.2 倍率</kbd></p>
+
+🔗 [官网入口](https://huacloud.dev/) · [2026年7月复测](https://baobaoap.com/archives/33.html) · [地区与历史资料](https://xiaofeiji.best/airports/flowercloud/)
+
+#### 套餐价格
+
+| 套餐 | 参考付款金额 | 每月流量 |
+| --- | ---: | ---: |
+| Air | 128元/年 | 20GiB |
+| Lite | 39元/月 | 150GiB |
+| Plus | 58元/月 | 400GiB |
+| Max | 113元/月 | 1000GiB |
+| Enterprise Basic | 500元/月 | 3000GiB |
+| Enterprise | 780元/月 | 5000GiB |
+
+来源：[BaoBao的7月复测](https://baobaoap.com/archives/33.html)。原表单位为GiB，本文保留；Air是每月20GiB的年付订阅，与TAG、悠兔的年度总流量包不同。
+
+#### 优势与不足
+
+| ✓ 优势 | ! 需要留意 |
+| --- | --- |
+| 主流与冷门地区落地较多，适合比较地区出口 | 部分节点限速，晚高峰和用户分组可能影响体验 |
+| 原评测记录4个0.2倍率实验节点 | 只有对应节点低倍率，不能把全套餐统一放大 |
+| 39元档可月付，年付小档另有用途 | Plus较旧记录涨价、减流量，不能沿用旧单价 |
+| 有复测、拓扑与在线状态资料 | 过境线路判断含推测，不能写成已确认的物理专线归属 |
+
+#### 这家怎么选
+
+花云补的是多地区和落地类型选择。[复测文章](https://baobaoap.com/archives/33.html)同时写出了低倍率、地区和短板，[汇总页](https://xiaofeiji.best/airports/flowercloud/)可继续查历史反馈。
+
+普通主力先从39元Lite比较；确实需要较多视频、下载，再算58元Plus是否合适。0.2倍率可以省扣量，但要先确认对应节点在自己网络上能用。只有文字AI需求，先试现有低预算线路，不用为了冷门地区买大档。
+
+<p align="right"><a href="#providers">↑ 返回目录</a></p>
+
+---
+
 ## 高预算
 
 ![高预算分区：历史口碑与近期服务状态一起看](assets/section-premium.svg)
 
 <a id="nexitally"></a>
 
-### 11 · Nexitally 奶昔｜历史资料丰富，也要看服务波动
+### 14 · Nexitally 奶昔｜历史资料丰富，也要看服务波动
 
 <p><kbd>高预算</kbd>&nbsp; <kbd>关注近期状态</kbd></p>
 
@@ -619,6 +744,47 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 <p align="right"><a href="#providers">↑ 返回目录</a></p>
 
 ---
+<a id="wgetcloud"></a>
+
+### 15 · WgetCloud｜规格清楚的高预算比较项
+
+<p><kbd>高预算</kbd>&nbsp; <kbd>季付 / 年付</kbd></p>
+
+🔗 [官网入口](https://wgetcloud.ltd/) · [官方帮助中心](https://help-info.wgetcloud.org/zh/category/5bi46keb6zeu6aky-t89v47/) · [已有使用与测速记录](https://github.com/xiaoming2028/WgetCloud)
+
+#### 套餐价格与官方规格
+
+| 档位 | 第三方参考季价 | 季付每30天流量 | 年付每30天流量 | 速度上限 | 在线公网IP / 并发 |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| 基础 | 237元 | 230GB | 280GB | 200Mbps | 3个 / 300 |
+| 优质 | 267元 | 250GB | 320GB | 300Mbps | 4个 / 800 |
+| 精品 | 297元 | 270GB | 360GB | 500Mbps | 5个 / 1500 |
+
+**规格取[官方套餐说明](https://help-info.wgetcloud.org/zh/article/5awx6asq5yy65yirloacies7gos5ioikguecuseo5zcr6lst5lmw5rwb56ilkq-1oeyl5w/)，本次读取于2026-10-02；价格取[第三方8月资料](https://gptvpnhelper.com/wgetcloud/)。** 官方公开帮助页没有金额，当前价需在会员中心核对。第三方基础档写200GB，与官方季付230GB不同，这里采用官方流量；不把两份资料当作本文已看到的完整在售订单。
+
+#### 优势与不足
+
+| ✓ 优势 | ! 需要留意 |
+| --- | --- |
+| 三档限速、流量、公网IP及并发有官方明细 | 当前新购提供季付和年付，首次预付金额更高 |
+| 常用五地区共15节点，精品再加14个地区 | 冷门地区官方不保证性能或各种服务可用 |
+| 策略与规则文档丰富，便于按服务分流 | 无免费试用，钱包充值不退款，先看清订单再付 |
+| 有作者长期使用和不同时间的测速资料 | 官方明确不承诺任何AI产品可用，不能写“永久AI解锁” |
+
+#### IP数不是设备台数
+
+按[官方解释](https://help-info.wgetcloud.org/zh/article/ip-n48gc0/)，同一Wi-Fi上的电脑、手机、平板可共用一个公网IP，手机改用移动数据会再占一个。并发连接另算，所以不能把基础档的3个IP简单说成只能装3台设备。
+
+#### 这家怎么选
+
+预算足、常用地区比较固定，又愿意按公网出口规划设备，可以研究WgetCloud。[GitHub使用记录](https://github.com/xiaoming2028/WgetCloud)有2026年3月的上海电信样本及平台例外，不是所有地区都一个结果。
+
+首次只考虑最短可购周期，不为优惠超额充值。看AI用途时，把[官方不作可用性承诺的说明](https://help-info.wgetcloud.org/zh/article/ai-99p7se/)一起读完；它适合高预算比较，不作为低价入门的默认选择。
+
+<p align="right"><a href="#providers">↑ 返回目录</a></p>
+
+---
+
 <a id="risk"></a>
 
 ## 历史风险反馈
@@ -674,6 +840,10 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 | 白月光 | [三网测速原帖](https://t.me/sstrojan/3659?single=) · [108节点测评](https://jichangnote.com/reviews/baiyueguang/) | 后者测速2026-07-17，套餐核对2026-08-24 | 单线程、拓扑、零速节点及付款结构 | 仅季付及以上资料；已有拥堵和售后反馈 |
 | 苏菲家宽 | [BaoBao价格与IP检测](https://baobaoap.com/archives/144.html) · [小众机场三网记录](https://t.me/s/sstrojan/3648) | BaoBao发布2026-05-24；广东联通、广西移动、长沙电信 | 家宽与普通档区别、IP质量、运营商差异 | 家宽标签不保证独享或免风控；套餐按后台确认 |
 | Nexitally | [茶波三网测速及状态更新](https://clashx.pro/nexitally-review/) · [小飞机汇总](https://xiaofeiji.best/airports/nexitally/) | 原文 2023-11-20；后续更新至 2026-05-10 | 三网截图、解锁、服务波动与套餐 | 历史速度不能代替当前状态 |
+| 悠兔 | [广西移动测速与解锁](https://gptvpnhelper.com/youtu/) · [GitHub更新](https://github.com/hwanz/SSR-V2ray-Trojan) | 测速2026-07-03，解锁07-01，套餐资料更新至09-21 | 混合线路、动态倍率、年度总量包 | 协议与开放周期有不同版本，按当前后台选 |
+| BoostNet | [历次三网测速](https://jichangtuijian.com/boostnet) · [7月样本](https://gptvpnhelper.com/boostnet/) | 文章更新2026-09-28，含09-15与05-02记录 | AnyTLS、客户端、各地区差异及套餐 | 费用和境外支持的资料存在冲突 |
+| 花云 | [BaoBao7月复测](https://baobaoap.com/archives/33.html) · [资料汇总](https://xiaofeiji.best/airports/flowercloud/) | 原文首发2024，正文为2026年7月复测 | 多地区、GiB套餐及0.2倍率节点 | 拓扑部分为推测，分组与时段影响体验 |
+| WgetCloud | [官方套餐](https://help-info.wgetcloud.org/zh/article/5awx6asq5yy65yirloacies7gos5ioikguecuseo5zcr6lst5lmw5rwb56ilkq-1oeyl5w/) · [作者使用记录](https://github.com/xiaoming2028/WgetCloud) · [参考价](https://gptvpnhelper.com/wgetcloud/) | 官方说明本次读取2026-10-02；作者含03-10样本 | 季年付规格、公网IP、并发和价格参考 | 官方不公开金额、不承诺AI可用；以实际订单为准 |
 
 </details>
 
@@ -690,5 +860,7 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 - **2026-10-02**：调整收录名单、官网入口、仓库简介与主题标签。
 - **2026-10-02**：加入首页封面、用途导航和各家直达目录；保留套餐与评测数据，整理重复说明。
 - **2026-10-02**：升级为深浅主题封面；加入四个分区横幅、用途标签与对齐的价格表。
+
+- **2026-10-02**：新增悠兔、BoostNet、花云、WgetCloud，收录扩展至15家；同步更新目录、对照表与封面数量。
 
 </details>
