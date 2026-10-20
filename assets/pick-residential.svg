@@ -1,13 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" role="img" aria-labelledby="t d">
-<title id="t">住宅与家宽</title><desc id="d">苏菲家宽 · 静态 / 动态，点击查看详情</desc>
-<style>.paper{fill:#fff8ee}.ink{fill:#1a3245}.muted{fill:#71838d}.line{stroke:#dbd6ca}.shade{fill:#eef0e9}@media(prefers-color-scheme:dark){.paper{fill:#172838}.ink{fill:#edf4f2}.muted{fill:#9aacb9}.line{stroke:#374b5a}.shade{fill:#10202d}}</style>
-<rect x="3" y="5" width="594" height="181" rx="13" class="shade"/><rect x="3" y="2" width="594" height="181" rx="13" class="paper" stroke="#9a7024" stroke-width="1.5"/>
-<rect x="3" y="2" width="8" height="181" rx="4" fill="#9a7024"/>
-<path d="M509 14V169" class="line" stroke-width="1.5" stroke-dasharray="4 5"/>
-<text x="30" y="39" font-family="Bahnschrift,DIN Alternate,monospace" font-size="12" fill="#9a7024" letter-spacing="1.6">RESIDENTIAL IP</text>
-<text x="30" y="99" font-family="Noto Serif CJK SC,Songti SC,SimSun,serif" font-size="40" font-weight="700" class="ink">住宅与家宽</text>
-<text x="32" y="145" font-family="Microsoft YaHei,PingFang SC,sans-serif" font-size="20" class="muted">苏菲家宽 · 静态 / 动态</text>
-<text x="553" y="59" text-anchor="middle" font-family="Bahnschrift,monospace" font-size="23" font-weight="700" fill="#9a7024">04</text>
-<path d="M533 107H570M555 92l16 15-16 15" fill="none" stroke="#9a7024" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<g class="line" stroke-width="2"><path d="M535 146V162M541 146V162M549 146V162M556 146V162M562 146V162M570 146V162"/></g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-labelledby="title desc">
+<title id="title">住宅与家宽</title><desc id="desc">先确认需求，再选择出口类型，点击查看对应介绍。</desc>
+<g font-family="Microsoft YaHei,PingFang SC,sans-serif"><style>.paper{fill:#faf9f5}.ink{fill:#25251f}.muted{fill:#6e6b61}.line{stroke:#dedbd0}.accent{fill:#b86145}.soft{fill:#eeece2}
+@media(prefers-color-scheme:dark){.paper{fill:#262624}.ink{fill:#f5f2e9}.muted{fill:#b7b3a8}.line{stroke:#48463f}.accent{fill:#e3a18a}.soft{fill:#34332e}}</style><rect x="1" y="1" width="598" height="218" rx="14" class="paper"/><rect x="1" y="1" width="598" height="218" rx="14" fill="none" class="line"/>
+<circle cx="549" cy="51" r="23" class="soft"/>
+<text x="34" y="43" font-size="13" letter-spacing="1.5" class="muted">RESIDENTIAL IP</text>
+<text x="34" y="108" font-family="Noto Serif CJK SC,Source Han Serif SC,Songti SC,SimSun,Georgia,serif" font-size="39" class="ink">住宅与家宽</text>
+<text x="36" y="154" font-size="21" class="muted">先确认需求，再选择出口类型</text>
+<text x="36" y="191" font-size="13" class="accent">04 / 查看介绍</text>
+<path d="M524 183H561m-9-8 9 8-9 8" fill="none" stroke="#b86145" stroke-width="1.5" stroke-linecap="round"/>
+</g></svg>

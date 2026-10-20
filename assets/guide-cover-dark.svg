@@ -1,33 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" role="img" aria-labelledby="title desc">
-<title id="title">选对线路，少一点折腾。</title>
-<desc id="desc">套餐价格 · 证据日期 · 主力与备用；15 家服务比较。OXWWXO 网络指南。</desc>
-<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#344853" stroke-width=".7"/></pattern></defs>
-<rect width="1000" height="400" rx="18" fill="#111f2a"/>
-<rect x="656" y="0" width="344" height="400" rx="18" fill="url(#grid)"/>
-<path d="M652 24V376" stroke="#344853" stroke-dasharray="4 7"/>
-<circle cx="652" cy="0" r="10" fill="#0d1117"/><circle cx="652" cy="400" r="10" fill="#0d1117"/>
-<g font-family="Microsoft YaHei,PingFang SC,sans-serif">
-<rect x="32" y="27" width="188" height="28" rx="3" fill="#edf3ee"/>
-<text x="44" y="46" fill="#111f2a" font-size="13" font-family="Consolas,monospace" letter-spacing="1.2">01 / CONNECTIONS</text>
-<text x="239" y="46" fill="#adbdc6" font-size="12" font-family="Consolas,monospace" letter-spacing="1">OXWWXO / FIELD NOTES</text>
-<g font-family="Noto Serif CJK SC,SimSun,serif" font-size="58" font-weight="700">
-<text x="31" y="142" fill="#edf3ee">选对线路，</text><text x="31" y="221" fill="#79acff">少一点折腾。</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+<title id="title">选一条好线路，把时间留给自己。</title><desc id="desc">十五家服务，找到适合自己的连接方式。；提供需求、证据与验证的阅读路径。</desc>
+<g font-family="Microsoft YaHei,PingFang SC,sans-serif"><rect width="1200" height="500" rx="18" fill="#262624"/><circle cx="56" cy="48" r="4" fill="#e3a18a"/><text x="72" y="53" font-size="13" letter-spacing="2" fill="#b7b3a8">OXWWXO  /  CONNECTION GUIDE</text><g font-family="Noto Serif CJK SC,Source Han Serif SC,Songti SC,SimSun,Georgia,serif" font-size="62" fill="#f5f2e9"><text x="53" y="166">选一条好线路，</text><text x="53" y="251">把时间留给自己。</text></g>
+<text x="58" y="310" font-size="23" fill="#b7b3a8">十五家服务，找到适合自己的连接方式。</text>
+<g transform="translate(812 84)">
+<ellipse cx="129" cy="131" rx="143" ry="145" fill="#34332e"/>
+<g fill="none" stroke="#f5f2e9" stroke-width="1.5" stroke-linecap="round">
+<path d="M40 182C-10 89 73 12 137 60C189 99 125 156 74 115C25 76 137 17 206 82C255 130 190 232 116 205"/>
+<path d="M42 180C68 220 132 249 202 199" stroke="#e3a18a" stroke-width="2.5"/>
+<path d="m193 198 11 0-2 12" stroke="#e3a18a" stroke-width="2.5"/>
 </g>
-<path d="M34 246H345" stroke="#ff9c6c" stroke-width="4" stroke-linecap="round"/>
-<text x="34" y="282" fill="#adbdc6" font-size="21">套餐价格 · 证据日期 · 主力与备用</text>
-<path d="M32 311H618" stroke="#344853"/>
-<text x="32" y="365" fill="#edf3ee" font-size="38" font-family="Consolas,monospace" font-weight="700">15</text>
-<text x="94" y="362" fill="#adbdc6" font-size="17">家服务比较</text>
-<text x="405" y="361" fill="#adbdc6" font-size="13" font-family="Consolas,monospace">2026 / READING EDITION</text>
-<text x="686" y="58" fill="#adbdc6" font-size="13" font-family="Consolas,monospace" letter-spacing="2">YOUR NEXT THREE STEPS</text>
-<rect x="684" y="95" width="276" height="74" rx="8" fill="#192e3b" stroke="#344853"/>
-<text x="702" y="124" font-size="16" font-family="Consolas,monospace" fill="#ff9c6c">01</text>
-<text x="742" y="125" font-size="23" font-weight="700" fill="#edf3ee">按用途选</text>
-<text x="742" y="150" font-size="14" fill="#adbdc6">日常 / AI / 视频 / 备用</text><rect x="684" y="183" width="276" height="74" rx="8" fill="#192e3b" stroke="#344853"/>
-<text x="702" y="212" font-size="16" font-family="Consolas,monospace" fill="#ff9c6c">02</text>
-<text x="742" y="213" font-size="23" font-weight="700" fill="#edf3ee">按证据比</text>
-<text x="742" y="238" font-size="14" fill="#adbdc6">套餐 / 样本 / 来源日期</text><rect x="684" y="271" width="276" height="74" rx="8" fill="#192e3b" stroke="#344853"/>
-<text x="702" y="300" font-size="16" font-family="Consolas,monospace" fill="#ff9c6c">03</text>
-<text x="742" y="301" font-size="23" font-weight="700" fill="#edf3ee">按体验续</text>
-<text x="742" y="326" font-size="14" fill="#adbdc6">先小额试用，再决定续费</text>
-</g></svg>
+<g stroke="#48463f" fill="#262624"><rect x="3" y="58" width="88" height="65" rx="10" transform="rotate(-10 47 90)"/><rect x="151" y="88" width="88" height="65" rx="10" transform="rotate(8 195 120)"/><rect x="60" y="177" width="100" height="65" rx="10" transform="rotate(-5 110 210)"/></g>
+<g fill="#f5f2e9" text-anchor="middle" font-size="17"><text x="47" y="99">用途</text><text x="195" y="129">比较</text><text x="110" y="217">适合自己</text></g>
+<circle cx="137" cy="59" r="5" fill="#e3a18a"/><circle cx="31" cy="153" r="3" fill="#e3a18a"/>
+</g>
+<path d="M56 373H1144" stroke="#48463f"/><text x="58" y="417" font-size="14" fill="#e3a18a">01</text><text x="94" y="418" font-size="22" fill="#f5f2e9">从用途出发</text><text x="94" y="451" font-size="17" fill="#b7b3a8">日常、AI、视频与备用</text><text x="432" y="417" font-size="14" fill="#e3a18a">02</text><text x="468" y="418" font-size="22" fill="#f5f2e9">把证据看清</text><text x="468" y="451" font-size="17" fill="#b7b3a8">价格、限制与来源日期</text><text x="806" y="417" font-size="14" fill="#e3a18a">03</text><text x="842" y="418" font-size="22" fill="#f5f2e9">用体验决定</text><text x="842" y="451" font-size="17" fill="#b7b3a8">先小额试用，再续费</text></g></svg>

@@ -1,22 +1,18 @@
-# 2026 机场推荐与机场测评｜套餐价格、优缺点与 AI 使用指南
+# 2026 机场选购指南
 
 <picture>
+  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/guide-cover-mobile-dark.svg">
+  <source media="(max-width: 640px)" srcset="assets/guide-cover-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/guide-cover-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/guide-cover-light.svg">
-  <img alt="2026机场推荐与机场测评：选对线路，少一点折腾。" src="assets/guide-cover-light.svg" width="1200">
+  <img alt="选一条好线路，把时间留给自己。十五家服务，找到适合自己的连接方式。" src="assets/guide-cover-light.svg" width="1200">
 </picture>
 
 <p align="center">
-  <kbd>15 家方案</kbd>&nbsp; <kbd>套餐对比</kbd>&nbsp; <kbd>优缺点直览</kbd>&nbsp; <kbd>原评测参考</kbd>
-</p>
-
-<p align="center">
-  <a href="docs/getting-started.md"><kbd>📖 新手入门</kbd></a>&nbsp;
-  <a href="#quick-picks"><kbd>⚡ 快速选择</kbd></a>&nbsp;
-  <a href="#providers"><kbd>🧭 十五家详情</kbd></a>&nbsp;
-  <a href="#all-prices"><kbd>🎟️ 价格与入口</kbd></a>&nbsp;
-  <a href="#buying"><kbd>💡 怎么买</kbd></a>&nbsp;
-  <a href="#evidence"><kbd>📚 评测来源</kbd></a>
+  <a href="docs/getting-started.md">新手入门</a>&nbsp;·&nbsp;
+  <a href="#quick-picks">按用途选</a>&nbsp;·&nbsp;
+  <a href="#all-prices">价格周期</a>&nbsp;·&nbsp;
+  <a href="#evidence">评测来源</a>
 </p>
 
 十五家服务，价格、优势和短板放在一起看。这里整理已有机场测速、AI 与流媒体解锁评测，帮助你按预算选主力、找备用，或比较多地区和住宅出口。
@@ -63,7 +59,7 @@
 </table>
 
 <details>
-<summary><strong>📋 展开按预算与用途的详细选择表</strong></summary>
+<summary><strong>按预算与用途，展开详细选择表</strong></summary>
 
 | 你最在意什么 | 先看这家 | 选择理由 |
 | --- | --- | --- |
@@ -171,7 +167,7 @@
 
 如果晚高峰在自己的网络上明显不好用，就换下一家。资料较完整是优先试它的理由，实际连接才是续费的理由。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -232,7 +228,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 它适合已经会导入订阅的人。对完全新手，先把客户端、更新和切换学会，再买大档。退款限制和试用规则见[yp7](https://yp7.net/posts/flybit-review-2026/)，不要仅为年付折扣提前多付。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -276,7 +272,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 套餐按[8月的核对记录](https://jichang168.com/airports/u1s1/)整理。旧文章里的580元不限时包已经不在那轮目录里，因此不再据此下单。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -332,7 +328,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 已经在用，而且常用服务都顺畅，就按自己的体验续。这里的排序帮助第一次购买，不需要为了名次硬换服务。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -370,7 +366,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 想提高主力预算，又希望在多条入口之间留选择，可以比较悠兔。先看最短可购周期和自己运营商接近的图；若只剩半年起付，不要照着旧月付价充值。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -409,7 +405,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 预算从20元提高到50元左右，BoostNet值得加入主力比较。先从200GB档试，客户端尽量按服务方当前建议选择；只需要少量备用，才考虑200元年包。资料对海外可用性有冲突，境外使用先核对当前入口，不能照旧介绍直接买。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -458,7 +454,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 “吹雪”有同名条目，[其他历史帖子](https://t.me/s/haitun_channel?q=%23%E5%90%B9%E9%9B%AA%E4%BA%91)可能指向不同域名。这里对应“吹雪云.com”，不把另外一家同名服务的好评混过来。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -501,7 +497,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 这类套餐适合分担视频和下载，先看自己的运营商表现再续。本文对应“良心云.com”，其他同名站点不合并评价。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -556,7 +552,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 [后台核对文章](https://jichangtuijian1.com/pianyijichang/ikuuu)对域名、节点和限制写得清楚，但它不是连续速度评测。免费备用可以留，为AI购买唯一主力，本页仍先比较守候或FlyBit。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -604,7 +600,7 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 开发者要读[端口与地区限制](https://gptvpnhelper.com/tag/)。网页可用不代表SSH和所有邮件协议都能走。家宽也不是私人独享IP或账号保证。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -650,7 +646,7 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 有试用机会，或者已经确认本地接入和售后条款，再考虑最小季付。已经用得顺的老用户可以按真实体验续，不必因这份清单的排序硬换。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -695,7 +691,7 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 需要美国静态住宅出口，先比较20元档；指定运营商或动态IP，再研究更高档。手里的AI线路已经顺，且没有这类需求，就不用单为“家宽”换服务。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -735,7 +731,7 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 普通主力先从39元Lite比较；确实需要较多视频、下载，再算58元Plus是否合适。0.2倍率可以省扣量，但要先确认对应节点在自己网络上能用。只有文字AI需求，先试现有低预算线路，不用为了冷门地区买大档。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -780,7 +776,7 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 已用得顺的人按实际体验续。新用户先了解近期恢复情况和套餐可售性，再月付比较；高价本身不足以把它放成本页默认首选。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 <a id="wgetcloud"></a>
@@ -820,7 +816,7 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 首次只考虑最短可购周期，不为优惠超额充值。看AI用途时，把[官方不作可用性承诺的说明](https://help-info.wgetcloud.org/zh/article/ai-99p7se/)一起读完；它适合高预算比较，不作为低价入门的默认选择。
 
-<p align="right"><a href="#providers"><kbd>↑ 返回目录</kbd></a></p>
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -896,6 +892,8 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 <details>
 <summary>更新记录</summary>
+
+- **2026-10-20**：调整为暖纸色与陶土色视觉；重绘封面、用途卡片和分区图，增加窄屏封面，简化导航装饰。
 
 - **2026-10-20**：统一深浅主题封面与阅读导航；增加新手路线、术语 FAQ、测试标准、结构化反馈和文档自动检查。保留历史套餐、测速及证据日期，本次未重新核价或测速。
 
