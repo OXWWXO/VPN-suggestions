@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title desc">
-<title id="title">备用与大流量</title><desc id="desc">用得少看总成本，用得多看晚高峰</desc>
-<g font-family="Microsoft YaHei,PingFang SC,sans-serif"><style>.paper{fill:#faf9f5}.ink{fill:#25251f}.muted{fill:#6e6b61}.line{stroke:#dedbd0}.accent{fill:#b86145}.soft{fill:#eeece2}
-@media(prefers-color-scheme:dark){.paper{fill:#262624}.ink{fill:#f5f2e9}.muted{fill:#b7b3a8}.line{stroke:#48463f}.accent{fill:#e3a18a}.soft{fill:#34332e}}</style><rect width="1000" height="150" rx="12" class="paper"/>
-<text x="32" y="53" font-size="14" class="accent">02 / THE GUIDE</text>
-<text x="31" y="108" font-family="Noto Serif CJK SC,Source Han Serif SC,Songti SC,SimSun,Georgia,serif" font-size="40" class="ink">备用与大流量</text>
-<path d="M410 37V117" class="line"/><text x="442" y="76" font-size="22" class="muted">用得少看总成本，用得多看晚高峰</text>
-<text x="442" y="109" font-size="14" class="muted">03 家方案 · 按实际用途比较</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="158" viewBox="0 0 1100 158" role="img" aria-labelledby="t d"><title id="t">备用与大流量</title><desc id="d">备用与大流量；彩色海报风格，提供选购、比较与验证入口。</desc><g font-family="Microsoft YaHei,PingFang SC,sans-serif"><rect width="1100" height="158" rx="15" fill="#16152b"/><path d="M0 0H105L160 158H0Z" fill="#ff91c1"/><text x="26" y="99" font-size="56" font-weight="900" fill="#16152b">02</text><text x="184" y="67" font-size="35" font-weight="900" fill="#fff9ed">备用与大流量</text><text x="186" y="112" font-size="22" fill="#d6cee7">用得少看总成本，用得多看晚高峰</text><circle cx="986" cy="79" r="51" fill="#ff91c1"/><text x="986" y="84" text-anchor="middle" font-size="33" font-weight="900" fill="#16152b">03</text><text x="986" y="106" text-anchor="middle" font-size="14" fill="#16152b">家方案</text></g></svg>

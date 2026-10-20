@@ -5,7 +5,7 @@
   <source media="(max-width: 640px)" srcset="assets/guide-cover-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/guide-cover-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/guide-cover-light.svg">
-  <img alt="选一条好线路，把时间留给自己。十五家服务，找到适合自己的连接方式。" src="assets/guide-cover-light.svg" width="1200">
+  <img alt="好线路，现在就出发。十五家服务、套餐对比与 AI 使用指南。" src="assets/guide-cover-light.svg" width="1200">
 </picture>
 
 <p align="center">
@@ -892,6 +892,8 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 <details>
 <summary>更新记录</summary>
+
+- **2026-10-20**：重绘撞色海报封面、用途卡片与分区横幅，加入地球轨道插画和独立手机布局。
 
 - **2026-10-20**：调整为暖纸色与陶土色视觉；重绘封面、用途卡片和分区图，增加窄屏封面，简化导航装饰。
 

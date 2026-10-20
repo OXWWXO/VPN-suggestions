@@ -1,16 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
-<title id="title">选一条好线路，把时间留给自己。</title><desc id="desc">十五家服务，找到适合自己的连接方式。；提供需求、证据与验证的阅读路径。</desc>
-<g font-family="Microsoft YaHei,PingFang SC,sans-serif"><rect width="1200" height="500" rx="18" fill="#faf9f5"/><circle cx="56" cy="48" r="4" fill="#b86145"/><text x="72" y="53" font-size="13" letter-spacing="2" fill="#6e6b61">OXWWXO  /  CONNECTION GUIDE</text><g font-family="Noto Serif CJK SC,Source Han Serif SC,Songti SC,SimSun,Georgia,serif" font-size="62" fill="#25251f"><text x="53" y="166">选一条好线路，</text><text x="53" y="251">把时间留给自己。</text></g>
-<text x="58" y="310" font-size="23" fill="#6e6b61">十五家服务，找到适合自己的连接方式。</text>
-<g transform="translate(812 84)">
-<ellipse cx="129" cy="131" rx="143" ry="145" fill="#eeece2"/>
-<g fill="none" stroke="#25251f" stroke-width="1.5" stroke-linecap="round">
-<path d="M40 182C-10 89 73 12 137 60C189 99 125 156 74 115C25 76 137 17 206 82C255 130 190 232 116 205"/>
-<path d="M42 180C68 220 132 249 202 199" stroke="#b86145" stroke-width="2.5"/>
-<path d="m193 198 11 0-2 12" stroke="#b86145" stroke-width="2.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="t d"><title id="t">好线路，现在就出发。</title><desc id="d">好线路，现在就出发。；彩色海报风格，提供选购、比较与验证入口。</desc><g font-family="Microsoft YaHei,PingFang SC,sans-serif"><defs><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#a391c4" stroke-opacity=".14"/></pattern></defs>
+<rect width="1200" height="560" rx="22" fill="#25203e"/><rect width="1200" height="560" rx="22" fill="url(#grid)"/>
+<circle cx="1157" cy="46" r="5" fill="#ceff57"/><circle cx="1137" cy="46" r="5" fill="#ff91c1"/><circle cx="1117" cy="46" r="5" fill="#83d9ff"/>
+<text x="36" y="50" font-size="14" font-weight="700" letter-spacing="2" fill="#e3dcf4">OXWWXO / CONNECTION LAB / 2026</text><text x="43" y="168" font-size="83" font-weight="900" fill="#fff9ed">好线路，</text>
+<rect x="36" y="204" width="665" height="113" rx="9" fill="#ceff57" transform="rotate(-2 369 260)"/>
+<text x="53" y="288" font-size="86" font-weight="900" fill="#16152b">现在就出发。</text>
+<text x="48" y="365" font-size="25" fill="#e3dcf4">十五家服务 · 套餐对比 · AI 与流媒体</text>
+<g transform="translate(799 117)">
+<ellipse cx="143" cy="143" rx="167" ry="53" transform="rotate(-25 143 143)" fill="none" stroke="#aa8dff" stroke-width="2"/>
+<circle cx="143" cy="143" r="117" fill="#83d9ff" stroke="#16152b" stroke-width="3"/>
+<g stroke="#16152b" fill="none" stroke-width="1.5"><ellipse cx="143" cy="143" rx="56" ry="117"/><path d="M26 143H260M39 91H246M39 195H246M143 26V260"/></g>
+<path d="M-5 166C55 224 222 122 287 108" fill="none" stroke="#ceff57" stroke-width="11"/>
+<path d="m270 92 21 15-24 15" fill="none" stroke="#ceff57" stroke-width="8"/>
+<g transform="rotate(-9 43 31)"><rect x="-21" y="-1" width="148" height="62" rx="10" fill="#ff91c1" stroke="#16152b" stroke-width="3"/><text x="53" y="39" text-anchor="middle" font-size="27" font-weight="900" fill="#16152b">AI / WEB</text></g>
+<g transform="rotate(8 211 265)"><rect x="128" y="232" width="180" height="67" rx="10" fill="#ceff57" stroke="#16152b" stroke-width="3"/><text x="218" y="276" text-anchor="middle" font-size="30" font-weight="900" fill="#16152b">15 家方案</text></g>
 </g>
-<g stroke="#dedbd0" fill="#faf9f5"><rect x="3" y="58" width="88" height="65" rx="10" transform="rotate(-10 47 90)"/><rect x="151" y="88" width="88" height="65" rx="10" transform="rotate(8 195 120)"/><rect x="60" y="177" width="100" height="65" rx="10" transform="rotate(-5 110 210)"/></g>
-<g fill="#25251f" text-anchor="middle" font-size="17"><text x="47" y="99">用途</text><text x="195" y="129">比较</text><text x="110" y="217">适合自己</text></g>
-<circle cx="137" cy="59" r="5" fill="#b86145"/><circle cx="31" cy="153" r="3" fill="#b86145"/>
-</g>
-<path d="M56 373H1144" stroke="#dedbd0"/><text x="58" y="417" font-size="14" fill="#b86145">01</text><text x="94" y="418" font-size="22" fill="#25251f">从用途出发</text><text x="94" y="451" font-size="17" fill="#6e6b61">日常、AI、视频与备用</text><text x="432" y="417" font-size="14" fill="#b86145">02</text><text x="468" y="418" font-size="22" fill="#25251f">把证据看清</text><text x="468" y="451" font-size="17" fill="#6e6b61">价格、限制与来源日期</text><text x="806" y="417" font-size="14" fill="#b86145">03</text><text x="842" y="418" font-size="22" fill="#25251f">用体验决定</text><text x="842" y="451" font-size="17" fill="#6e6b61">先小额试用，再续费</text></g></svg>
+<path d="M44 421H1156" stroke="#655e7d"/><rect x="45" y="449" width="347" height="76" rx="12" fill="#ceff57"/><text x="62" y="482" font-size="22" font-weight="900" fill="#16152b">01 / 按用途选</text><text x="62" y="509" font-size="16" fill="#16152b">日常 / AI / 视频 / 备用</text><rect x="426" y="449" width="347" height="76" rx="12" fill="#ff91c1"/><text x="443" y="482" font-size="22" font-weight="900" fill="#16152b">02 / 把证据看清</text><text x="443" y="509" font-size="16" fill="#16152b">价格 · 优缺点 · 来源</text><rect x="807" y="449" width="347" height="76" rx="12" fill="#83d9ff"/><text x="824" y="482" font-size="22" font-weight="900" fill="#16152b">03 / 先试再续</text><text x="824" y="509" font-size="16" fill="#16152b">小额试用，体验决定</text></g></svg>
