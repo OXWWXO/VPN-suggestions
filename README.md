@@ -5,7 +5,7 @@
   <source media="(max-width: 640px)" srcset="assets/guide-cover-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/guide-cover-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/guide-cover-light.svg">
-  <img alt="好线路，现在就出发。十五家服务、套餐对比与 AI 使用指南。" src="assets/guide-cover-light.svg" width="1200">
+  <img alt="下一站，好连接。旅行杂志式机场指南，十五家服务与套餐比较。" src="assets/guide-cover-light.svg" width="1200">
 </picture>
 
 <p align="center">

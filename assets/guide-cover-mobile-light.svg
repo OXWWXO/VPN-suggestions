@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="720" viewBox="0 0 640 720" role="img" aria-labelledby="t d"><title id="t">好线路，现在就出发。</title><desc id="d">好线路，现在就出发。；彩色海报风格，提供选购、比较与验证入口。</desc><g font-family="Microsoft YaHei,PingFang SC,sans-serif"><defs><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#a391c4" stroke-opacity=".14"/></pattern></defs>
-<rect width="640" height="720" rx="22" fill="#25203e"/><rect width="640" height="720" rx="22" fill="url(#grid)"/>
-<circle cx="597" cy="46" r="5" fill="#ceff57"/><circle cx="577" cy="46" r="5" fill="#ff91c1"/><circle cx="557" cy="46" r="5" fill="#83d9ff"/>
-<text x="36" y="50" font-size="14" font-weight="700" letter-spacing="2" fill="#e3dcf4">OXWWXO / CONNECTION LAB / 2026</text><text x="34" y="167" font-size="74" font-weight="900" fill="#fff9ed">好线路，</text>
-<rect x="27" y="198" width="582" height="105" rx="10" fill="#ceff57" transform="rotate(-2 318 250)"/>
-<text x="40" y="274" font-size="73" font-weight="900" fill="#16152b">现在就出发。</text>
-<text x="38" y="351" font-size="25" fill="#e3dcf4">十五家服务 · 套餐对比 · AI 与流媒体</text>
-<path d="M38 395H602" stroke="#655e7d"/>
-<text x="40" y="453" font-size="18" font-weight="700" fill="#ff91c1">YOUR NEXT MOVE</text><rect x="38" y="484" width="564" height="77" rx="12" fill="#ff91c1"/><text x="57" y="533" font-size="27" font-weight="900" fill="#16152b">按用途选</text><text x="252" y="531" font-size="23" fill="#16152b">主力 / 备用 / 多地区</text><rect x="38" y="580" width="564" height="77" rx="12" fill="#83d9ff"/><text x="57" y="629" font-size="27" font-weight="900" fill="#16152b">按证据比</text><text x="252" y="627" font-size="23" fill="#16152b">价格 / 短板 / 来源日期</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="740" viewBox="0 0 640 740" role="img" aria-labelledby="t d"><title id="t">下一站，好连接。</title><desc id="d">暖黄、朱红与墨绿的旅行杂志封面；十五家服务，按用途、套餐与证据比较。</desc><g font-family="Microsoft YaHei,PingFang SC,sans-serif"><rect width="640" height="740" rx="20" fill="#fff2d9"/><rect x="0" y="0" width="640" height="66" fill="#ef542e"/><text x="32" y="43" font-size="19" font-weight="900" letter-spacing="2" fill="#fff8e9">OXWWXO / THE CONNECTION EDIT</text><text x="31" y="119" font-size="17" letter-spacing="3" fill="#204d4e">VOL.01 / 2026 / 机场选购特辑</text>
+<text x="27" y="228" font-size="94" font-weight="900" fill="#204d4e">下一站，</text><text x="27" y="337" font-size="94" font-weight="900" fill="#ef542e">好连接。</text>
+<path d="M338 166C637 156 647 407 411 391" fill="none" stroke="#edae34" stroke-width="20"/>
+<path d="m415 373-21 20 28 13" fill="none" stroke="#edae34" stroke-width="10"/>
+<text x="36" y="416" font-size="26" fill="#204d4e">15 家服务，从用途找到自己的路线。</text>
+<path d="M34 455H606" stroke="#204d4e" stroke-width="2"/>
+<rect x="34" y="485" width="572" height="92" rx="8" fill="#204d4e"/><text x="58" y="523" font-size="18" fill="#ffce68">01 / PICK YOUR ROUTE</text><text x="58" y="557" font-size="28" font-weight="700" fill="#fff2d9">日常主力 · 备用流量 · 多地区</text>
+<text x="38" y="632" font-size="23" fill="#204d4e">比较实付周期、优缺点与评测日期。</text><text x="38" y="675" font-size="23" fill="#204d4e">小额试用，把选择交给自己的体验。</text></g></svg>
