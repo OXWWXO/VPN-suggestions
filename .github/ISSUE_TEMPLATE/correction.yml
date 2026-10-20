@@ -1,0 +1,40 @@
+name: 价格与资料更正
+description: 补充有日期和来源的套餐、限制或入口变化
+title: "[资料更正] "
+body:
+  - type: markdown
+    attributes:
+      value: "请只提交脱敏资料。不要粘贴订阅 URL、账号密码、Cookie、二维码或订单信息。"
+  - type: input
+    id: provider
+    attributes:
+      label: 商家与套餐 / 对应文档
+      placeholder: 商家名、套餐名、文档章节
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: 查询日期
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 可公开核对的来源
+      description: 官方页面优先；私人后台资料请用脱敏摘要，不要发布登录链接。
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: 原内容与建议更正
+      description: 写清价格、币种、数量/流量、国家、独享/共享、租期、付款总额、税费与 FUP。没有核到的项目注明未知。
+    validations:
+      required: true
+  - type: textarea
+    id: relationship
+    attributes:
+      label: 推广或合作关系（如有）
+      description: 商家、推广者、送测等关系请说明；没有可写无。

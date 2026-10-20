@@ -1,0 +1,43 @@
+name: 使用体验
+description: 记录具体环境、任务和结果，便于对照排查
+title: "[体验反馈] "
+body:
+  - type: markdown
+    attributes:
+      value: "公开 Issue 不要包含真实代理地址、订阅 URL、凭据、Cookie 或用户信息。成功和失败都欢迎记录。"
+  - type: input
+    id: environment
+    attributes:
+      label: 日期、时区与网络环境
+      placeholder: YYYY-MM-DD / UTC+8；运营商；有线或 Wi-Fi
+    validations:
+      required: true
+  - type: input
+    id: client
+    attributes:
+      label: 客户端与版本、操作系统
+    validations:
+      required: true
+  - type: input
+    id: provider
+    attributes:
+      label: 服务商、节点地区与配置方式
+      description: 只写脱敏名称；请勿填写真实代理主机或订阅地址。
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: 预期任务、操作与实际结果
+      description: 区分登录、消息、上传等功能；附错误码和提示文字。未测项目写未测，推测单独标明。
+    validations:
+      required: true
+  - type: textarea
+    id: comparison
+    attributes:
+      label: 已做的对照与脱敏日志
+      description: 例如普通入口是否正常、不同时间/地区是否有差异、出口是否正确。请不要粘贴完整未脱敏配置。
+  - type: textarea
+    id: relationship
+    attributes:
+      label: 推广或合作关系（如有）

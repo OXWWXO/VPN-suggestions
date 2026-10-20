@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="docs/getting-started.md"><kbd>📖 新手入门</kbd></a>&nbsp;
   <a href="#quick-picks"><kbd>⚡ 快速选择</kbd></a>&nbsp;
   <a href="#providers"><kbd>🧭 十五家详情</kbd></a>&nbsp;
   <a href="#all-prices"><kbd>🎟️ 价格与入口</kbd></a>&nbsp;
@@ -22,7 +23,21 @@
 
 主要用途：**ChatGPT / Claude / Gemini、日常网页、视频与下载。** 使用 Clash、v2rayN、sing-box 等客户端时，具体协议与限制在各家介绍里查。
 
-> 资料整理于 **2026-10-02**。价格附来源日期；月付、季付、年付和一次性流量包分别标明。评测数据来自原作者的样本，购买以当前结算页为准。
+> **资料日期：2026-10-02 · 阅读与文档更新：2026-10-20。** 价格和测速保留各自来源日期，本次未重新核价或测速。月付、季付、年付和一次性流量包分别标明，购买前核对当前结算页。
+
+> [!NOTE]
+> 部分商家入口含邀请码或推广参数，原始评测也可能含商业合作。本页以已有资料辅助选择，未对十五家做同条件统一测试。详见[证据标准](docs/testing.md)与[入口说明](docs/faq.md#官网入口为什么带-code)。
+
+## 第一次来，从这里开始
+
+| 你想做什么 | 直接阅读 |
+| --- | --- |
+| 从零选择和配置客户端 | [新手上手：选购 → 导入 → 验证](docs/getting-started.md) |
+| 已有预算，想直接比较 | [用途选择](#quick-picks) · [十五家目录](#providers) · [价格与周期](#all-prices) |
+| 想确认资料是否可靠 | [来源与日期](#evidence) · [测试与证据标准](docs/testing.md) |
+| 看不懂术语或连接异常 | [常见问题](docs/faq.md) · [固定 ISP 配套教程](https://github.com/OXWWXO/static-isp-guide) |
+
+**阅读顺序：用途 → 实付周期 → 优缺点 → 来源日期 → 小额试用。** 不用先读完整篇，也不用一次购买主力和备用。
 
 ## 低价入口 + 固定 ISP 出口
 
@@ -873,12 +888,16 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 ## 补充使用反馈
 
+[提交使用体验](https://github.com/OXWWXO/VPN-suggestions/issues/new?template=experience.yml) · [更正价格与资料](https://github.com/OXWWXO/VPN-suggestions/issues/new?template=correction.yml) · [贡献指南](CONTRIBUTING.md)
+
 欢迎在[Issues](https://github.com/OXWWXO/VPN-suggestions/issues)补充近期体验。写清服务商、节点地区、本地运营商、测试日期和具体问题，更容易让别人判断这条反馈是否适合自己的网络。截图请遮住账户、个人订阅和订单信息。
 
 <p align="center"><a href="#quick-picks">返回快速选择 ↑</a></p>
 
 <details>
 <summary>更新记录</summary>
+
+- **2026-10-20**：统一深浅主题封面与阅读导航；增加新手路线、术语 FAQ、测试标准、结构化反馈和文档自动检查。保留历史套餐、测速及证据日期，本次未重新核价或测速。
 
 - **2026-10-02**：发布并补充十一家介绍、套餐表、优缺点和原始评测。
 - **2026-10-02**：调整收录名单、官网入口、仓库简介与主题标签。
