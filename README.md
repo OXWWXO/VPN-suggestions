@@ -5,7 +5,7 @@
   <source media="(max-width: 640px)" srcset="assets/guide-cover-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/guide-cover-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/guide-cover-light.svg">
-  <img alt="下一站，好连接。旅行杂志式机场指南，十五家服务与套餐比较。" src="assets/guide-cover-light.svg" width="1200">
+  <img alt="下一站，好连接。旅行杂志式机场指南，十六家服务与套餐比较。" src="assets/guide-cover-light.svg" width="1200">
 </picture>
 
 <p align="center">
@@ -15,21 +15,21 @@
   <a href="#evidence">评测来源</a>
 </p>
 
-十五家服务，价格、优势和短板放在一起看。这里整理已有机场测速、AI 与流媒体解锁评测，帮助你按预算选主力、找备用，或比较多地区和住宅出口。
+十六家服务，价格、优势和短板放在一起看。这里整理已有机场测速、AI 与流媒体解锁评测，帮助你按预算选主力、找备用，或比较多地区和住宅出口。
 
 主要用途：**ChatGPT / Claude / Gemini、日常网页、视频与下载。** 使用 Clash、v2rayN、sing-box 等客户端时，具体协议与限制在各家介绍里查。
 
 > **原有十五家资料日期：2026-10-02 · 阅读与文档更新：2026-10-20。NIVA 补充于 2026-11-03，来源日期见推荐条目。** 价格和测速保留各自来源日期，本次未重新核价或测速。月付、季付、年付和一次性流量包分别标明，购买前核对当前结算页。
 
 > [!NOTE]
-> 部分商家入口含邀请码或推广参数，原始评测也可能含商业合作。本页以已有资料辅助选择，未对十五家做同条件统一测试。详见[证据标准](docs/testing.md)与[入口说明](docs/faq.md#官网入口为什么带-code)。
+> 部分商家入口含邀请码或推广参数，原始评测也可能含商业合作。本页以已有资料辅助选择，未对十六家做同条件统一测试。详见[证据标准](docs/testing.md)与[入口说明](docs/faq.md#官网入口为什么带-code)。
 
 ## 第一次来，从这里开始
 
 | 你想做什么 | 直接阅读 |
 | --- | --- |
 | 从零选择和配置客户端 | [新手上手：选购 → 导入 → 验证](docs/getting-started.md) |
-| 已有预算，想直接比较 | [用途选择](#quick-picks) · [十五家目录](#providers) · [价格与周期](#all-prices) |
+| 已有预算，想直接比较 | [用途选择](#quick-picks) · [十六家目录](#providers) · [价格与周期](#all-prices) |
 | 想确认资料是否可靠 | [来源与日期](#evidence) · [测试与证据标准](docs/testing.md) |
 | 看不懂术语或连接异常 | [常见问题](docs/faq.md) · [固定 ISP 配套教程](https://github.com/OXWWXO/static-isp-guide) |
 
@@ -95,6 +95,7 @@
 
 | 日常主力 | 备用与流量 | 多地区、家宽与高预算 |
 | --- | --- | --- |
+| **[⭐ NIVA Network（强烈推荐）](#niva)** |  |  |
 | [01 守候网络](#sntp) | [07 吹雪云](#chuixue) | [10 TAG](#tag) |
 | [02 FlyBit](#flybit) | [08 良心云](#liangxin) | [11 白月光](#byg) |
 | [03 U1S1](#u1s1) | [09 iKuuu](#ikuuu) | [12 苏菲家宽](#sufe) |
@@ -102,17 +103,18 @@
 | [05 悠兔](#youtu) |  | [14 奶昔](#nexitally) |
 | [06 BoostNet](#boostnet) |  | [15 WgetCloud](#wgetcloud) |
 
-每家按 **入口 → 套餐 → 优缺点 → 测试记录 → 怎么选** 阅读。只查价格时，可以展开下面的总表。
+NIVA 的推荐介绍在上方；其余各家按 **入口 → 套餐 → 优缺点 → 测试记录 → 怎么选** 阅读。只查价格时，可以展开下面的总表。
 
 <a id="all-prices"></a>
 
 <details>
-<summary><strong>查看全部 15 家的参考价格与官网入口</strong></summary>
+<summary><strong>查看全部 16 家的参考价格与官网入口</strong></summary>
 
 表里的“建议”是本页的选购判断，不是统一测速排名。新资料与旧价冲突时，优先采用较新的记录；没核到新价的，直接标为旧价。
 
 | 机场 | 参考价格与付款周期 | 本页建议 | 入口 |
 | --- | --- | --- | --- |
+| **NIVA Network** | **8.8元/月、100GB**，2026-07第三方资料 | **强烈推荐试用**；先核对价格及本地体验 | [邀请入口](https://niva.sh/r/ry5j) |
 | **守候 SNTP** | **18元 / 100GB**，2026-05评测 | **20元内的主力首选** | [官网入口](https://ncdn1.sntp.uk/auth/register?code=Zp1I34l1) |
 | **FlyBit** | **15元 / 128GB**，2026-09套餐记录 | **15元预算首选，AI优先美日节点** | [官网入口](https://www.fastfastfast.buzz/#/register?code=szFx8WJU) |
 | U1S1 | 20元 / 120GB，2026-08套餐记录 | 守候不适合本地网络时，再比较它 | [官网入口](https://njdsues.u1sat.homes/#/?code=bXrbElMZ) |
