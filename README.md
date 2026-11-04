@@ -5,12 +5,13 @@
   <source media="(max-width: 640px)" srcset="assets/guide-cover-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/guide-cover-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/guide-cover-light.svg">
-  <img alt="下一站，好连接。旅行杂志式机场指南，十六家服务与套餐比较。" src="assets/guide-cover-light.svg" width="1200">
+  <img alt="机场选购图鉴。十六家服务，按日常主力、备用流量、多地区和住宅家宽四种用途阅读。" src="assets/guide-cover-light.svg" width="1200">
 </picture>
 
 <p align="center">
   <a href="docs/getting-started.md">新手入门</a>&nbsp;·&nbsp;
   <a href="#quick-picks">按用途选</a>&nbsp;·&nbsp;
+  <a href="#niva">家宽推荐</a>&nbsp;·&nbsp;
   <a href="#all-prices">价格周期</a>&nbsp;·&nbsp;
   <a href="#evidence">评测来源</a>
 </p>
@@ -45,6 +46,8 @@
 
 ## ⭐ 强烈推荐：NIVA Network × 苏菲家宽
 
+![住宅出口专题，苏菲家宽与 NIVA Network](assets/isp-picks.svg)
+
 两家一起推荐给想体验 **ISP / 家宽出口**的朋友：NIVA 适合低预算试用多地区家宽节点；苏菲家宽有静态和动态住宅出口等不同选择。
 
 ✨ **NIVA 主观推荐：⭐⭐⭐⭐⭐（5/5）** · 低预算家宽体验的推荐选择
@@ -68,7 +71,7 @@
 
 ✨ **主观推荐评分说明：** 满分五颗星，依据本页现有价格资料、适用场景和资料完整度作选购判断；不是统一实测、速度排名或服务保证。资料日期不同，实际体验请自行验证。
 
-<p><sub>点击一张卡片，直接查看对应介绍。</sub></p>
+选一张用途卡片，直接查看卡片上这家服务商的套餐和评测记录。
 
 <table width="100%">
   <tr>
@@ -881,8 +884,6 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 ## 🏠 ISP / 家宽出口特别推荐：苏菲家宽 × NIVA Network
 
-![苏菲家宽与 NIVA：住宅出口、ISP 与家宽节点特别推荐](assets/isp-picks.svg)
-
 想体验住宅或 ISP 出口，重点看看这两家：**苏菲家宽适合按静态、动态住宅出口挑套餐；NIVA 适合想以较低预算体验多地区家宽节点的人。** 出口类型、地区和套餐实际开放情况以下单页面及节点实测为准。
 
 | 推荐 | 家宽 / ISP 看点 | 怎么选 | 入口 |
@@ -966,6 +967,8 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 <details>
 <summary>更新记录</summary>
+
+- **2026-11-04**：首页换上彩窗山海封面。四张用途卡直接标出服务商，家宽推荐和各章节使用独立配色与图标。
 
 - **2026-11-03**：更新彩色封面、用途卡片和章节横幅，增加 ISP / 家宽推荐区的专属视觉。
 

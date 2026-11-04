@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="248" viewBox="0 0 600 248" role="img" aria-labelledby="title desc"><title id="title">住宅与家宽</title><desc id="desc">探索 ISP 与家宽出口</desc><defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#5834a3"/><stop offset="1" stop-color="#ba428d"/></linearGradient></defs><rect width="600" height="248" rx="16" fill="url(#g)"/><circle cx="535" cy="26" r="115" fill="#fff" opacity=".08"/><circle cx="535" cy="188" r="100" fill="none" stroke="#ffd47c" stroke-width="2" opacity=".55"/><circle cx="535" cy="188" r="70" fill="none" stroke="#fff" opacity=".4"/><path d="M440 205 Q515 112 595 148" fill="none" stroke="#ffd47c" stroke-width="4"/><g font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif"><text x="28" y="40" font-size="14" letter-spacing="3" font-weight="700" fill="#ffd47c">ROUTE 04 / RESIDENTIAL</text><text x="26" y="115" font-size="45" font-weight="900" fill="#fff">住宅与家宽</text><text x="29" y="157" font-size="22" fill="#fff" opacity=".9">探索 ISP 与家宽出口</text><rect x="28" y="187" width="158" height="36" rx="18" fill="#fff" opacity=".17"/><text x="47" y="211" font-size="16" font-weight="700" fill="#fff">探索这条路线  →</text><text x="548" y="48" font-size="24" fill="#ffd47c">✦</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 204" width="500" height="204" role="img" aria-labelledby="title desc">
+<title id="title">住宅家宽</title>
+<desc id="desc">前往苏菲家宽介绍</desc>
+<rect x="0" y="0" width="500" height="204" fill="#663744"/>
+<rect x="0" y="0" width="500" height="5" fill="#ffa598"/>
+<path d="M352 5h148v199H306Z" fill="#874657"/>
+<path d="M356 5l-32 32v160 M366 5l-32 32v160 M376 5l-32 32v160 M386 5l-32 32v160 M396 5l-32 32v160 M406 5l-32 32v160" fill="none" stroke="#ffda92" stroke-width="1" opacity=".30"/>
+<g transform="translate(413 99) scale(0.91)">
+<path d="M0-80L69-40v80L0 80l-69-40v-80Z" fill="#874657" stroke="#ffda92" stroke-width="2"/>
+<path d="M0-71l61 35v72L0 71l-61-35v-72Z" fill="none" stroke="#ffda92" stroke-width="1" opacity=".65"/>
+<path d="M-39-3L0-36l39 33-5 5L0-24-34 2Z" fill="#ffda92"/>
+<path d="M-29 0L0-23 29 0v32h-58Z" fill="#ffa598"/>
+<path d="M0-23l29 23v32H0Z" fill="#96d9c2"/>
+<rect x="-20" y="7" width="12" height="12" fill="#663744"/>
+<rect x="6" y="6" width="13" height="26" fill="#663744"/>
+<path d="M-44 33h88m-74 8h60" fill="none" stroke="#ffda92" stroke-width="2" />
+<path d="M14-31q4-6 0-12m7 12q6-8 2-18" fill="none" stroke="#96d9c2" stroke-width="2" />
+</g>
+<text x="23" y="40" fill="#ffda92" font-family="Consolas,'Liberation Mono',monospace" font-size="15" font-weight="700" letter-spacing="1.8">04   /   RESIDENTIAL</text>
+<text x="20" y="112" fill="#fff4d6" font-family="Georgia,'Noto Serif CJK SC','Songti SC',SimSun,serif" font-size="49" font-weight="800" >住宅家宽</text>
+<path d="M23 136h261" fill="none" stroke="#ffa598" stroke-width="1" opacity=".70"/>
+<text x="23" y="175" fill="#fff4d6" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif" font-size="27" font-weight="700" >苏菲家宽</text>
+<path d="M245 166h27m-8-8 8 8-8 8" fill="none" stroke="#ffda92" stroke-width="2.5" />
+</svg>

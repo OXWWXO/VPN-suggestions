@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190" role="img" aria-labelledby="title desc"><title id="title">苏菲家宽与 NIVA：住宅出口特别推荐</title><desc id="desc">苏菲家宽与 NIVA：住宅出口特别推荐</desc><defs><linearGradient id="g"><stop stop-color="#135a8a"/><stop offset=".5" stop-color="#6338a9"/><stop offset="1" stop-color="#cb3e88"/></linearGradient></defs><rect width="1100" height="190" rx="16" fill="url(#g)"/><circle cx="996" cy="95" r="117" fill="none" stroke="#ffd676" stroke-width="3"/><circle cx="996" cy="95" r="83" fill="none" stroke="#7df5e5" stroke-width="2"/><g font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif"><text x="36" y="43" font-size="16" font-weight="700" letter-spacing="3" fill="#96f8e7">✦ RESIDENTIAL &amp; ISP PICKS</text><text x="34" y="103" font-size="43" font-weight="900" fill="#fff">苏菲家宽 × NIVA Network</text><text x="38" y="150" font-size="24" fill="#fff0bd">住宅出口 · ISP · 家宽节点</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-labelledby="title desc">
+<title id="title">苏菲家宽 × NIVA Network</title>
+<desc id="desc">住宅与 ISP 出口专题</desc>
+<rect x="0" y="0" width="1000" height="240" fill="#262b4e"/>
+<rect x="0.0" y="0" width="142.85714285714286" height="6" fill="#ff9671"/><rect x="142.85714285714286" y="0" width="142.85714285714286" height="6" fill="#ff719a"/><rect x="285.7142857142857" y="0" width="142.85714285714286" height="6" fill="#c898ef"/><rect x="428.57142857142856" y="0" width="142.85714285714286" height="6" fill="#7a9bff"/><rect x="571.4285714285714" y="0" width="142.85714285714286" height="6" fill="#66dbe0"/><rect x="714.2857142857143" y="0" width="142.85714285714286" height="6" fill="#99dfa9"/><rect x="857.1428571428571" y="0" width="142.85714285714286" height="6" fill="#f9ce70"/>
+<path d="M734 6h266v234H647Z" fill="#34435c"/>
+<path d="M755 6l-60 60v160 M765 6l-60 60v160 M775 6l-60 60v160 M785 6l-60 60v160 M795 6l-60 60v160 M805 6l-60 60v160" fill="none" stroke="#edc17e" stroke-width="1" opacity=".30"/>
+<rect x="14" y="19" width="972" height="207" fill="none" stroke="#c7a473"/>
+<text x="42" y="66" fill="#edc17e" font-family="Consolas,'Liberation Mono',monospace" font-size="20" font-weight="500" letter-spacing="2.6">SPECIAL EDITION    /    ISP</text>
+<text x="40" y="135" fill="#fff4d6" font-family="Georgia,'Noto Serif CJK SC','Songti SC',SimSun,serif" font-size="47" font-weight="800" >苏菲家宽 × NIVA Network</text>
+<text x="43" y="192" fill="#9adcc8" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif" font-size="26" font-weight="700" >住宅出口专题</text>
+<path d="M232 181h361" fill="none" stroke="#edc17e" stroke-width="1" />
+<g transform="translate(607 181) scale(6)"><path d="M0-1Q.13-.15 1 0 .13.15 0 1-.13.15-1 0-.13-.15 0-1Z" fill="#edc17e"/></g>
+<g transform="translate(820 121) scale(1.15)">
+<path d="M0-80L69-40v80L0 80l-69-40v-80Z" fill="#874657" stroke="#ffda92" stroke-width="2"/>
+<path d="M0-71l61 35v72L0 71l-61-35v-72Z" fill="none" stroke="#ffda92" stroke-width="1" opacity=".65"/>
+<path d="M-39-3L0-36l39 33-5 5L0-24-34 2Z" fill="#ffda92"/>
+<path d="M-29 0L0-23 29 0v32h-58Z" fill="#ffa598"/>
+<path d="M0-23l29 23v32H0Z" fill="#96d9c2"/>
+<rect x="-20" y="7" width="12" height="12" fill="#663744"/>
+<rect x="6" y="6" width="13" height="26" fill="#663744"/>
+<path d="M-44 33h88m-74 8h60" fill="none" stroke="#ffda92" stroke-width="2" />
+<path d="M14-31q4-6 0-12m7 12q6-8 2-18" fill="none" stroke="#96d9c2" stroke-width="2" />
+</g>
+<g transform="translate(927 65) scale(10)"><path d="M0-1Q.13-.15 1 0 .13.15 0 1-.13.15-1 0-.13-.15 0-1Z" fill="#edc17e"/></g>
+<g transform="translate(700 160) scale(7)"><path d="M0-1Q.13-.15 1 0 .13.15 0 1-.13.15-1 0-.13-.15 0-1Z" fill="#edc17e"/></g>
+</svg>

@@ -1,4 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="740" viewBox="0 0 640 740" role="img" aria-labelledby="title desc"><title id="title">下一站，好连接</title><desc id="desc">彩色旅行主题封面，十六家服务选购指南</desc><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171342"/><stop offset=".54" stop-color="#511982"/><stop offset="1" stop-color="#bf287c"/></linearGradient><linearGradient id="rain"><stop stop-color="#ffcf56"/><stop offset=".35" stop-color="#ff658f"/><stop offset=".7" stop-color="#b384ff"/><stop offset="1" stop-color="#51e7e0"/></linearGradient></defs>
-<rect width="640" height="740" rx="24" fill="url(#bg)"/><circle cx="520" cy="210" r="210" fill="#f745a5" opacity=".13"/><circle cx="62" cy="585" r="220" fill="#26d7d1" opacity=".12"/><rect x="22" y="22" width="596" height="696" rx="14" fill="none" stroke="#fff" opacity=".22"/>
-<g font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif"><text x="48" y="72" font-size="15" font-weight="700" letter-spacing="3" fill="#76fff0">THE CONNECTION ATLAS / 2026</text><path d="M48 91H592" stroke="url(#rain)" stroke-width="3"/><text x="48" y="170" fill="#ffcf66" font-size="22" font-weight="700">16 家机场 · 一份选购指南</text><text x="42" y="270" fill="#fff8fb" font-size="76" font-weight="900">下一站，</text><text x="42" y="363" fill="#fff8fb" font-size="76" font-weight="900">好连接。</text><text x="48" y="418" fill="#e8dff7" font-size="23">日常 · 备用 · 多地区 · 家宽</text>
-<g transform="translate(436 496)"><circle r="100" fill="#171342" stroke="#ffcb64" stroke-width="2"/><circle r="79" fill="none" stroke="#66efe3" stroke-width="2"/><ellipse rx="37" ry="79" fill="none" stroke="#aa99ff" stroke-width="2"/><path d="M-76 -24H76M-76 24H76" stroke="#aa99ff" stroke-width="2"/><path d="M-113 20C-70 -44 70 -57 116 -16" fill="none" stroke="#ff78b6" stroke-width="5"/><circle cx="104" cy="-29" r="8" fill="#ffcb64"/></g><text x="48" y="568" font-size="16" letter-spacing="3" fill="#73f2e7">FIND YOUR ROUTE</text><text x="48" y="610" font-size="24" font-weight="700" fill="#fff">从用途出发</text><text x="48" y="647" font-size="19" fill="#f6c9e8">找到适合自己的网络</text><rect x="48" y="675" width="215" height="6" rx="3" fill="url(#rain)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 748" width="640" height="748" role="img" aria-labelledby="title desc">
+<title id="title">机场选购图鉴</title>
+<desc id="desc">彩窗里的山海与航线。十六家服务，按四种用途阅读。</desc>
+<rect x="0" y="0" width="640" height="748" fill="#fbefd7"/>
+<rect x="0.0" y="0" width="91.42857142857143" height="7" fill="#ff9671"/><rect x="91.42857142857143" y="0" width="91.42857142857143" height="7" fill="#ff719a"/><rect x="182.85714285714286" y="0" width="91.42857142857143" height="7" fill="#c898ef"/><rect x="274.2857142857143" y="0" width="91.42857142857143" height="7" fill="#7a9bff"/><rect x="365.7142857142857" y="0" width="91.42857142857143" height="7" fill="#66dbe0"/><rect x="457.14285714285717" y="0" width="91.42857142857143" height="7" fill="#99dfa9"/><rect x="548.5714285714286" y="0" width="91.42857142857143" height="7" fill="#f9ce70"/>
+<rect x="13" y="18" width="614" height="717" fill="none" stroke="#936834" opacity=".67"/>
+<text x="31" y="53" fill="#242e4e" font-family="Consolas,'Liberation Mono',monospace" font-size="15" font-weight="700" letter-spacing="2">FIELD ATLAS   /   NETWORKS</text>
+<text x="609" y="53" fill="#242e4e" font-family="Consolas,'Liberation Mono',monospace" font-size="15" font-weight="500" text-anchor="end">VOL. 01   /   2026</text>
+<path d="M31 70h578" fill="none" stroke="#936834" stroke-width="1" />
+<text x="32" y="147" fill="#242e4e" font-family="Georgia,'Noto Serif CJK SC','Songti SC',SimSun,serif" font-size="74" font-weight="800" >机场选购图鉴</text>
+<text x="35" y="189" fill="#50445a" font-family="Georgia,serif" font-size="32" font-weight="500" font-style="italic">The Connection Atlas</text>
+<g transform="translate(320 385) scale(0.99)">
+<defs><clipPath id="window"><path d="M-154 153V-6a154 154 0 0 1 308 0v159Z"/></clipPath></defs>
+<g clip-path="url(#window)">
+<rect x="-160" y="-170" width="320" height="330" fill="#c48bb1"/>
+<path d="M-28 8L-245 50L-240 -134Z" fill="#c48bb1" stroke="#293754" stroke-width="2"/>
+<path d="M-28 8L-240 -134L-128 -210Z" fill="#eba3a4" stroke="#293754" stroke-width="2"/>
+<path d="M-28 8L-128 -210L-48 -237Z" fill="#efb884" stroke="#293754" stroke-width="2"/>
+<path d="M-28 8L-48 -237L44 -235Z" fill="#f7d589" stroke="#293754" stroke-width="2"/>
+<path d="M-28 8L44 -235L134 -212Z" fill="#a8d4c1" stroke="#293754" stroke-width="2"/>
+<path d="M-28 8L134 -212L222 -134Z" fill="#89bbcd" stroke="#293754" stroke-width="2"/>
+<path d="M-28 8L222 -134L238 47Z" fill="#859ac7" stroke="#293754" stroke-width="2"/>
+<circle cx="-28" cy="8" r="48" fill="#ffda84" stroke="#293754" stroke-width="3"/>
+<circle cx="-28" cy="8" r="40" fill="none" stroke="#e79a67" stroke-width="1.6"/>
+<g stroke="#293754" stroke-width="2.8" stroke-linejoin="round">
+<path d="M-180 76L-126 26-94 45-43-8 2 47 39 24 90-31 165 57 174 175H-180Z" fill="#a391ca"/>
+<path d="M-43-8l-20 55 32 20 33-20Z" fill="#726ab1"/><path d="M90-31L68 38 99 65 123 9Z" fill="#577baf"/>
+<path d="M-173 57l54-9 49 19 31-17 52 33 44-39 53-9 63-24v162h-346Z" fill="#4bb2aa"/>
+<path d="M-171 70l64-7 47 27 49-11 31 16 43-19 45 5 61-26v112h-340Z" fill="#287e86"/>
+<path d="M-174 95q54-11 103 2t95 4q67-11 140-2v65h-338Z" fill="#589dc0"/>
+<path d="M-160 111q60-5 108 7t102 0 118-5v48h-328Z" fill="#8079bb"/>
+<path d="M-160 132q59-7 107 5t105-1 113-4v36h-325Z" fill="#bd78a6"/>
+<path d="M-20 80q61 11 28 21-20 7 17 13 60 13 16 23-26 6 15 18H-14q-28-14 14-23 37-8 1-15-43-9-16-17 32-10-5-20Z" fill="#f6c684"/>
+</g>
+<path d="M-122 113l26 3m-46 12 15 1m208-26 29-2m-44 31 34-3m-175-42 11 2" fill="none" stroke="#e0dfbd" stroke-width="2" />
+<path d="M15-47q23-29 57-32" fill="none" stroke="#fff0c1" stroke-width="1.7" stroke-dasharray="4 5"/>
+<g transform="translate(74 -84) rotate(-19)"><path d="M-12-3l39-7-18 21-4-10-11 2Z" fill="#fff2c3" stroke="#293754" stroke-width="2"/><path d="M5 1l22-11" fill="none" stroke="#293754" stroke-width="1.4"/></g>
+</g>
+<path d="M-154 153V-6a154 154 0 0 1 308 0v159Z" fill="none" stroke="#293754" stroke-width="6" />
+<path d="M-162 158V-6a162 162 0 0 1 324 0v164Z" fill="none" stroke="#edc17e" stroke-width="2" />
+<path d="M-169 158V-6a169 169 0 0 1 338 0v164" fill="none" stroke="#edc17e" stroke-width="1" />
+<rect x="-173" y="160" width="346" height="5" fill="#edc17e"/>
+</g>
+<g transform="translate(102 358) scale(14)"><path d="M0-1Q.13-.15 1 0 .13.15 0 1-.13.15-1 0-.13-.15 0-1Z" fill="#936834"/></g>
+<g transform="translate(542 447) scale(11)"><path d="M0-1Q.13-.15 1 0 .13.15 0 1-.13.15-1 0-.13-.15 0-1Z" fill="#936834"/></g>
+<g transform="translate(114 453) scale(5)"><path d="M0-1Q.13-.15 1 0 .13.15 0 1-.13.15-1 0-.13-.15 0-1Z" fill="#936834"/></g>
+<text x="320" y="598" fill="#242e4e" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif" font-size="25" font-weight="700" text-anchor="middle">16 家服务商  ·  4 种选购用途</text>
+<path d="M31 628H609" fill="none" stroke="#936834" stroke-width="1" />
+<rect x="31" y="664" width="5" height="22" fill="#d06848"/>
+<text x="43" y="680" fill="#50445a" font-family="Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" >01</text>
+<text x="70" y="682" fill="#242e4e" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif" font-size="20" font-weight="700" >日常主力</text>
+<rect x="174" y="664" width="5" height="22" fill="#9164ac"/>
+<text x="186" y="680" fill="#50445a" font-family="Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" >02</text>
+<text x="213" y="682" fill="#242e4e" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif" font-size="20" font-weight="700" >备用流量</text>
+<rect x="317" y="664" width="5" height="22" fill="#268b89"/>
+<text x="329" y="680" fill="#50445a" font-family="Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" >03</text>
+<text x="356" y="682" fill="#242e4e" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif" font-size="20" font-weight="700" >多地区</text>
+<rect x="460" y="664" width="5" height="22" fill="#ad722f"/>
+<text x="472" y="680" fill="#50445a" font-family="Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" >04</text>
+<text x="499" y="682" fill="#242e4e" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif" font-size="20" font-weight="700" >住宅家宽</text>
+<rect x="31.0" y="716" width="82.57142857142857" height="3" fill="#ff9671"/><rect x="113.57142857142857" y="716" width="82.57142857142857" height="3" fill="#ff719a"/><rect x="196.14285714285714" y="716" width="82.57142857142857" height="3" fill="#c898ef"/><rect x="278.7142857142857" y="716" width="82.57142857142857" height="3" fill="#7a9bff"/><rect x="361.2857142857143" y="716" width="82.57142857142857" height="3" fill="#66dbe0"/><rect x="443.85714285714283" y="716" width="82.57142857142857" height="3" fill="#99dfa9"/><rect x="526.4285714285714" y="716" width="82.57142857142857" height="3" fill="#f9ce70"/>
+</svg>
