@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="380" viewBox="0 0 800 380" role="img" aria-labelledby="title desc">
+  <title id="title">TAG 的流量何时补充？</title>
+  <desc id="desc">2026 年 8 月 24 日资料。Special 一次付 162 元，全年共用 200 GB。Bronze 一次付 185 元买一季，三个月各有 250 GB。</desc>
+  <defs>
+    <pattern id="paper" width="7" height="7" patternUnits="userSpaceOnUse">
+      <path d="M0 0h1" stroke="#997c61" stroke-width="1" opacity=".22"/>
+    </pattern>
+    <pattern id="engraving" width="9" height="9" patternUnits="userSpaceOnUse">
+      <path d="M-2 8 8-2m-5 14 9-9" stroke="#436d68" opacity=".26"/>
+    </pattern>
+    <path id="month" d="M0 0h165v38a8 8 0 0 0 0 16v38H0V54a8 8 0 0 0 0-16Z"/>
+  </defs>
+  <rect width="800" height="380" rx="10" fill="#f8ead2"/>
+  <rect width="800" height="380" rx="10" fill="url(#paper)"/>
+  <rect x="10" y="10" width="780" height="360" rx="4" fill="none" stroke="#b29676"/>
+  <g font-family="'Microsoft YaHei','PingFang SC',sans-serif" fill="#352f49">
+    <text x="30" y="54" font-size="33" font-weight="700">TAG 的流量何时补充？</text>
+    <text x="769" y="50" text-anchor="end" font-family="Georgia,serif" font-style="italic" font-size="21">Fare book · 02</text>
+    <path d="M30 73h740" fill="none" stroke="#ab917a"/>
+    <g transform="translate(31 102)">
+      <text y="27" font-size="33" font-family="Georgia,serif" font-weight="700">Special</text>
+      <text y="65" font-size="25" font-weight="700">162 元 / 年</text>
+    </g>
+    <g transform="translate(227 92)">
+      <path d="M0 0h542v38a9 9 0 0 0 0 18v38H0V56a9 9 0 0 0 0-18Z" fill="#264e53"/>
+      <path d="M10 9h522v21m0 34v21H10V63m0-32V9" stroke="#9fcab2" fill="none"/>
+      <path d="M345 7v81" fill="none" stroke="#b7d4b7" stroke-dasharray="3 5"/>
+      <text x="20" y="62" fill="#fce4a6" font-family="Georgia,serif" font-size="46" font-weight="700">200 GB</text>
+      <text x="224" y="59" fill="#fff4d6" font-size="24" font-weight="700">全年共用</text>
+      <g transform="translate(439 47)" fill="none" stroke="#f3d190">
+        <ellipse rx="46" ry="30" stroke-width="1.3"/><ellipse rx="40" ry="25"/>
+        <path d="M-25 6l15-17L2 1l9-8L26 8Zm-3 7h56"/>
+        <circle cx="16" cy="-12" r="3" fill="#f1ca8c"/>
+      </g>
+    </g>
+    <path d="M30 205h740" stroke="#bb9c85" stroke-dasharray="4 6"/>
+    <g transform="translate(31 222)">
+      <text y="27" font-size="33" font-family="Georgia,serif" font-weight="700">Bronze</text>
+      <text y="65" font-size="25" font-weight="700">185 元 / 季</text>
+    </g>
+    <g transform="translate(227 220)" text-anchor="middle">
+      <use href="#month" fill="#e89e8d"/><use href="#month" x="188" fill="#b8accf"/><use href="#month" x="377" fill="#9bcebd"/>
+      <g fill="url(#engraving)"><path d="M0 0h165v8H0zM188 0h165v8H188zM377 0h165v8H377z"/></g>
+      <g font-size="21" font-weight="700"><text x="82" y="34">第 1 个月</text><text x="270" y="34">第 2 个月</text><text x="459" y="34">第 3 个月</text></g>
+      <g font-family="Georgia,serif" font-size="35" font-weight="700"><text x="82" y="75">250 GB</text><text x="270" y="75">250 GB</text><text x="459" y="75">250 GB</text></g>
+    </g>
+    <path d="M30 331h740" stroke="#ab917a"/>
+    <text x="32" y="356" fill="#665968" font-size="17">套餐资料日期　2026-08-24</text>
+  </g>
+</svg>

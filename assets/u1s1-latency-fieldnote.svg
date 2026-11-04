@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="414" viewBox="0 0 800 414" role="img" aria-labelledby="title desc">
+  <title id="title">一次延迟测试，三个地区</title>
+  <desc id="desc">AI 灯塔于 2026 年 7 月 31 日记录了 U1S1 的 50 个节点。本图摘录其中三个地区的 TLS 往返延迟区间，香港约 89 至 95 毫秒，日本约 133 至 136 毫秒，美国约 243 至 248 毫秒。</desc>
+  <defs>
+    <pattern id="grid" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".9" fill="#97b3c3" opacity=".25"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="414" rx="10" fill="#272b49"/>
+  <rect x="10" y="10" width="780" height="394" rx="4" fill="none" stroke="#ac917c"/>
+  <g font-family="'Microsoft YaHei','PingFang SC',sans-serif" fill="#fdf0d5">
+    <text x="31" y="55" font-size="33" font-weight="700">一次延迟测试，三个地区</text>
+    <text x="768" y="51" text-anchor="end" fill="#decbcc" font-family="Georgia,serif" font-style="italic" font-size="21">Field record · 03</text>
+    <path d="M30 73h740" stroke="#93829a"/>
+    <text x="32" y="110" fill="#e1dced" font-size="22">U1S1 · TLS 往返延迟</text>
+    <text x="764" y="108" text-anchor="end" fill="#dfced4" font-size="19">2026-07-31</text>
+    <rect x="149" y="134" width="452" height="173" fill="#303854"/>
+    <rect x="149" y="134" width="452" height="173" fill="url(#grid)"/>
+    <!-- The linear axis runs from 0 ms at x=151 to 250 ms at x=601. -->
+    <g stroke="#8791aa" stroke-width="1">
+      <path d="M151 134v176m90-176v176m90-176v176m90-176v176m90-176v176m90-176v176" opacity=".48"/>
+      <path d="M151 164h450m-450 59h450m-450 59h450" stroke-dasharray="2 6" opacity=".48"/>
+    </g>
+    <g font-size="27" font-weight="700"><text x="48" y="174">香港</text><text x="48" y="233">日本</text><text x="48" y="292">美国</text></g>
+    <g stroke-width="4" fill="none">
+      <path d="M311.2 164H322m-10.8-7v14m10.8-14v14" stroke="#83dec5"/>
+      <path d="M390.4 223h5.4m-5.4-7v14m5.4-14v14" stroke="#ffcc83"/>
+      <path d="M588.4 282h9m-9-7v14m9-14v14" stroke="#eba7c4"/>
+    </g>
+    <g font-family="Consolas,'Microsoft YaHei',monospace" font-size="27" font-weight="700">
+      <text x="630" y="173" fill="#a7efd9">89–95</text><text x="630" y="232" fill="#ffda99">133–136</text><text x="630" y="291" fill="#f5bed6">243–248</text>
+    </g>
+    <g text-anchor="middle" fill="#c9cede" font-size="17">
+      <text x="151" y="332">0</text><text x="241" y="332">50</text><text x="331" y="332">100</text>
+      <text x="421" y="332">150</text><text x="511" y="332">200</text><text x="601" y="332">250</text>
+    </g>
+    <text x="630" y="332" fill="#d7cfd7" font-size="18">毫秒 (ms)</text>
+    <path d="M30 351h740" stroke="#93829a"/>
+    <text x="32" y="384" fill="#e7dbd1" font-size="21">来源　AI 灯塔首轮测试 · 共 50 个节点，图中摘录三个地区</text>
+  </g>
+</svg>

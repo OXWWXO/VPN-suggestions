@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="398" viewBox="0 0 800 398" role="img" aria-labelledby="title desc">
+  <title id="title">哪些流量走固定出口？</title>
+  <desc id="desc">设备连接入口线路后分流。普通网页和下载沿蓝绿色实线从入口直接访问。指定服务沿金色虚线先经过固定 ISP，再到达目标网站。</desc>
+  <defs>
+    <pattern id="survey" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M0 4V0h4" fill="none" stroke="#91bbb0" stroke-width="1.2" opacity=".22"/>
+    </pattern>
+    <pattern id="waves" width="36" height="12" patternUnits="userSpaceOnUse">
+      <path d="M0 4q9 5 18 0t18 0" fill="none" stroke="#62969b" opacity=".4"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="398" rx="10" fill="#172e46"/>
+  <rect x="10" y="10" width="780" height="378" rx="5" fill="none" stroke="#b69772"/>
+  <g font-family="'Microsoft YaHei','PingFang SC',sans-serif">
+    <text x="30" y="54" fill="#fff0cc" font-size="33" font-weight="700">哪些流量走固定出口？</text>
+    <text x="764" y="49" text-anchor="end" fill="#c4dfd5" font-family="Georgia,serif" font-style="italic" font-size="21">Route study · 01</text>
+    <path d="M30 72h740" stroke="#a79479"/>
+    <rect x="20" y="79" width="760" height="296" fill="url(#survey)"/>
+    <!-- Shoreline of the two destinations, behind the routes. -->
+    <path d="M576 78c-26 21-15 38-43 60s-36 37-17 62 20 35-7 55-43 37-29 65 8 41-28 58h322V78Z" fill="#203f50"/>
+    <path d="M569 80c-29 27-14 39-41 60s-31 38-14 62 17 33-10 54-40 38-28 65 5 41-31 56" fill="none" stroke="#648c86" stroke-width="2" opacity=".65"/>
+    <path d="M578 91q-22 24-17 36t-18 37l-8 12m-39 127q-13 17-7 34t-8 30" fill="none" stroke="#648c86" opacity=".8"/>
+    <path d="M42 323q61-18 133-4t116 6v32H42Z" fill="url(#waves)"/>
+    <!-- A solid entry route and two distinguishable branches. -->
+    <g fill="none" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M86 212H379l69-77h217M379 212l76 82h246" stroke="#112638" stroke-width="14"/>
+      <path d="M86 212H379" stroke="#c0cbd6" stroke-width="6"/>
+      <path d="M379 212l69-77h217" stroke="#79dfca" stroke-width="6"/>
+      <path d="M379 212l76 82h246" stroke="#ffd184" stroke-width="6" stroke-dasharray="10 8"/>
+    </g>
+    <g stroke-width="3.5" fill="none" stroke-linejoin="round">
+      <path d="M166 205l9 7-9 7" stroke="#d7e5e4"/>
+      <path d="M568 127l10 8-10 8" stroke="#84e8cf"/>
+      <path d="M610 286l10 8-10 8" stroke="#ffcf83"/>
+    </g>
+    <circle cx="379" cy="212" r="8" fill="#ffe2a1" stroke="#263b50" stroke-width="3"/>
+    <!-- The local device. -->
+    <g transform="translate(86 200)" stroke="#152c40" stroke-width="3" stroke-linejoin="round">
+      <rect x="-34" y="-26" width="68" height="45" rx="4" fill="#ebcd99"/>
+      <path d="M-28-20h56v32h-56Z" fill="#497b9a"/>
+      <path d="M-25 9l16-15L1 2l9-9L26 10Z" fill="#9cddd0" stroke="none"/>
+      <circle cx="15" cy="-12" r="4" fill="#ffcd78" stroke="none"/>
+      <path d="M-34 19h68l9 9h-86Z" fill="#b3a3c4"/>
+    </g>
+    <!-- The entry switch and its port indicators. -->
+    <g transform="translate(281 200)" stroke="#102a3b" stroke-width="3" stroke-linejoin="round">
+      <path d="M-33-18l13-12h48l8 12Z" fill="#abd2ce"/>
+      <rect x="-33" y="-18" width="69" height="43" rx="3" fill="#6b98a8"/>
+      <path d="M-32 2h66" stroke="#243f51"/>
+      <path d="M-18-9h20m-20 21h20" stroke="#d4ebcb" stroke-width="4"/>
+      <path d="M14-9h4m5 0h4m-13 21h4m5 0h4" stroke="#fbd18c" stroke-width="3"/>
+    </g>
+    <!-- A browser window, a residential exit and the selected service. -->
+    <g transform="translate(681 126)" stroke="#173948" stroke-width="3">
+      <rect x="-36" y="-23" width="72" height="50" rx="5" fill="#b5e8d7"/>
+      <path d="M-35-10h70" fill="none"/><circle cx="-27" cy="-17" r="2" fill="#456a75" stroke="none"/>
+      <path d="M-25 0h22v17h-22Z" fill="#70acaa" stroke="none"/><path d="M5 1h20m-20 8h17m-17 8h11" stroke="#5d858b"/>
+    </g>
+    <g transform="translate(519 276)" stroke="#2a354a" stroke-width="3" stroke-linejoin="round">
+      <path d="M-30 0l30-25L29 0v31h-59Z" fill="#f3c887"/>
+      <path d="M9-21v-17h10v23" fill="#e4a584"/><path d="M-36-1L0-33 36-1 30 3 0-22-30 3Z" fill="#db8c8e"/>
+      <path d="M-19 5h12v12h-12Zm23-1h13v27H4Z" fill="#507783"/>
+    </g>
+    <g transform="translate(699 288)" stroke="#233749" stroke-width="3" stroke-linejoin="round">
+      <path d="M-28-28h44l10 10v43h-54Z" fill="#dfc3d9"/><path d="M16-28v11h10" fill="#ad8fb3"/>
+      <path d="M-13-8H7m-20 9h26m-26 9H4" stroke="#655878"/>
+    </g>
+    <g font-size="25" font-weight="700" text-anchor="middle">
+      <text x="86" y="267" fill="#faefd9">你的设备</text><text x="281" y="267" fill="#faefd9">入口线路</text>
+      <text x="677" y="191" fill="#b2f1d7">普通网页与下载</text>
+      <text x="519" y="349" fill="#ffdb9c">固定 ISP</text><text x="699" y="349" fill="#ffdb9c">指定服务</text>
+    </g>
+  </g>
+</svg>
