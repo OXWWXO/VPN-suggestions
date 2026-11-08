@@ -20,43 +20,23 @@
 
 主要用途：**ChatGPT / Claude / Gemini、日常网页、视频与下载。** 使用 Clash、v2rayN、sing-box 等客户端时，具体协议与限制在各家介绍里查。
 
-> **原有十五家资料日期：2026-10-02 · 阅读与文档更新：2026-10-20。NIVA 补充于 2026-11-03，来源日期见推荐条目。** 价格和测速保留各自来源日期，本次未重新核价或测速。月付、季付、年付和一次性流量包分别标明，购买前核对当前结算页。
-
 > [!NOTE]
 > 部分商家入口含邀请码或推广参数，原始评测也可能含商业合作。本页以已有资料辅助选择，未对十六家做同条件统一测试。详见[证据标准](docs/testing.md)与[入口说明](docs/faq.md#官网入口为什么带-code)。
 
-## 第一次来，从这里开始
-
-| 你想做什么 | 直接阅读 |
-| --- | --- |
-| 从零选择和配置客户端 | [新手上手：选购 → 导入 → 验证](docs/getting-started.md) |
-| 已有预算，想直接比较 | [用途选择](#quick-picks) · [十六家目录](#providers) · [价格与周期](#all-prices) |
-| 想确认资料是否可靠 | [来源与日期](#evidence) · [测试与证据标准](docs/testing.md) |
-| 看不懂术语或连接异常 | [常见问题](docs/faq.md) · [固定 ISP 配套教程](https://github.com/OXWWXO/static-isp-guide) |
-
-**阅读顺序：用途 → 实付周期 → 优缺点 → 来源日期 → 小额试用。** 不用先读完整篇，也不用一次购买主力和备用。
-
-## 低价入口 + 固定 ISP 出口
-
-![分流示意：设备连接入口线路，普通网页和下载从入口直达；需要固定出口的服务再经过固定 ISP。](assets/isp-routing-map.svg)
-
-只想为指定服务保留固定出口时，可以先选**最便宜且在自己的网络上稳定可用**的月付入口，再搭配一个独享静态 ISP：`设备 → 入口线路 → ISP 出口 → 目标网站`。普通网页和下载继续走入口，不必全部消耗 ISP 额度。入口的带宽、晚高峰稳定性和端口限制仍会影响整条链。
-
-配套仓库：[静态 ISP 推荐与链式代理指南](https://github.com/OXWWXO/static-isp-guide)，包含单 IP 月付报价、共享/独享与 FUP 区别、Clash Verge Rev 图形教程、Mihomo 模板及故障排查。固定 ISP 不保证平台账号安全，也不改变服务地区资格；先小额测试完整用途，再决定续费。
-
 <a id="niva"></a>
 
-## ⭐ 强烈推荐：NIVA Network × 苏菲家宽
+## 家宽精选 · NIVA Network × 苏菲家宽
 
-![住宅出口专题，苏菲家宽与 NIVA Network](assets/isp-picks.svg)
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/featured-picks-mobile.svg">
+  <img src="assets/featured-picks.svg" alt="NIVA Network 与苏菲家宽均为主观推荐 5/5。NIVA 适合低预算体验多地区家宽；苏菲适合按需求比较静态住宅与动态家宽。" width="1160">
+</picture>
 
 两家一起推荐给想体验 **ISP / 家宽出口**的朋友：NIVA 适合低预算试用多地区家宽节点；苏菲家宽有静态和动态住宅出口等不同选择。
 
-✨ **NIVA 主观推荐：⭐⭐⭐⭐⭐（5/5）** · 低预算家宽体验的推荐选择
+**强烈推荐 · 两家主观评分均为 5/5。**
 
-✨ **苏菲主观推荐：⭐⭐⭐⭐⭐（5/5）** · 住宅出口需求的推荐选择
-
-评分是基于现有资料的选购判断，不是统一实测或服务保证，详情请看[评分说明](#quick-picks)。
+评分是基于现有资料的选购判断，不是统一实测或服务保证，详情请看[评分说明](#rating-guide)。
 
 | 推荐 | 适合怎么选 | 注册入口 |
 | --- | --- | --- |
@@ -71,18 +51,16 @@
 
 ## 先找到你的用途
 
-✨ **主观推荐评分说明：** 满分五颗星，依据本页现有价格资料、适用场景和资料完整度作选购判断；不是统一实测、速度排名或服务保证。资料日期不同，实际体验请自行验证。
-
 选一张用途卡片，直接查看卡片上这家服务商的套餐和评测记录。
 
 <table width="100%">
   <tr>
-    <td width="50%"><a href="#sntp"><img src="assets/pick-daily.svg" alt="日常主力：点击查看守候网络" width="600"></a></td>
-    <td width="50%"><a href="#chuixue"><img src="assets/pick-backup.svg" alt="备用与流量：点击查看吹雪云" width="600"></a></td>
+    <td width="50%"><a href="#sntp"><picture><source media="(max-width: 640px)" srcset="assets/pick-daily-mobile.svg"><img src="assets/pick-daily.svg" alt="日常主力：点击查看守候网络" width="600"></picture></a></td>
+    <td width="50%"><a href="#chuixue"><picture><source media="(max-width: 640px)" srcset="assets/pick-backup-mobile.svg"><img src="assets/pick-backup.svg" alt="备用与流量：点击查看吹雪云" width="600"></picture></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="#tag"><img src="assets/pick-regions.svg" alt="多地区出口：点击查看TAG" width="600"></a></td>
-    <td width="50%"><a href="#sufe"><img src="assets/pick-residential.svg" alt="住宅与家宽：点击查看苏菲家宽" width="600"></a></td>
+    <td width="50%"><a href="#tag"><picture><source media="(max-width: 640px)" srcset="assets/pick-regions-mobile.svg"><img src="assets/pick-regions.svg" alt="多地区出口：点击查看TAG" width="600"></picture></a></td>
+    <td width="50%"><a href="#sufe"><picture><source media="(max-width: 640px)" srcset="assets/pick-residential-mobile.svg"><img src="assets/pick-residential.svg" alt="住宅与家宽：点击查看苏菲家宽" width="600"></picture></a></td>
   </tr>
 </table>
 
@@ -109,11 +87,10 @@
 
 ## 直达各家介绍
 
-🏠 **住宅出口特别推荐：[苏菲家宽 × NIVA Network](#isp-picks)**
+**家宽精选：** [NIVA × 苏菲](#niva) · [住宅出口详细对比](#isp-picks)
 
 | 日常主力 | 备用与流量 | 多地区、家宽与高预算 |
 | --- | --- | --- |
-| **[⭐ NIVA Network × 苏菲家宽（强烈推荐）](#niva)** |  |  |
 | [01 守候网络](#sntp) | [07 吹雪云](#chuixue) | [10 TAG](#tag) |
 | [02 FlyBit](#flybit) | [08 良心云](#liangxin) | [11 白月光](#byg) |
 | [03 U1S1](#u1s1) | [09 iKuuu](#ikuuu) | [12 苏菲家宽](#sufe) |
@@ -153,6 +130,56 @@ NIVA 和苏菲的联合推荐在上方；各家详细介绍按 **入口 → 套�
 
 </details>
 
+<details>
+<summary><strong>初次阅读：上手路线与资料日期</strong></summary>
+
+## 第一次来，从这里开始
+
+| 你想做什么 | 直接阅读 |
+| --- | --- |
+| 从零选择和配置客户端 | [新手上手：选购 → 导入 → 验证](docs/getting-started.md) |
+| 已有预算，想直接比较 | [用途选择](#quick-picks) · [十六家目录](#providers) · [价格与周期](#all-prices) |
+| 想确认资料是否可靠 | [来源与日期](#evidence) · [测试与证据标准](docs/testing.md) |
+| 看不懂术语或连接异常 | [常见问题](docs/faq.md) · [固定 ISP 配套教程](https://github.com/OXWWXO/static-isp-guide) |
+
+**阅读顺序：用途 → 实付周期 → 优缺点 → 来源日期 → 小额试用。** 不用先读完整篇，也不用一次购买主力和备用。
+
+### 资料日期
+
+> **原有十五家资料日期：2026-10-02 · 阅读与文档更新：2026-10-20。NIVA 补充于 2026-11-03，来源日期见推荐条目。** 价格和测速保留各自来源日期，本次未重新核价或测速。月付、季付、年付和一次性流量包分别标明，购买前核对当前结算页。
+
+界面与排版更新：**2026-11-08**。本次仅优化呈现，未重新核价、测速或调整推荐分数。
+
+</details>
+
+<a id="rating-guide"></a>
+
+<details>
+<summary><strong>如何看星级：主观评分与阅读提示</strong></summary>
+
+满分五颗星，依据本页现有价格资料、适用场景和资料完整度作主观选购判断；不是统一实测、速度排名或服务保证。资料日期不同，实际体验请自行验证。
+
+| 主观评分 | 阅读提示 |
+| --- | --- |
+| ★★★★★ · 5/5 | 本页重点推荐，仍需按用途试用 |
+| ★★★★☆ · 4/5 | 值得比较，先确认套餐与适用限制 |
+| ★★★☆☆ · 3/5 | 作为补充比较，优先阅读资料缺口与短板 |
+
+</details>
+
+<details>
+<summary><strong>进阶搭配：低价入口 + 固定 ISP 出口</strong></summary>
+
+## 低价入口 + 固定 ISP 出口
+
+![分流示意：设备连接入口线路，普通网页和下载从入口直达；需要固定出口的服务再经过固定 ISP。](assets/isp-routing-map.svg)
+
+只想为指定服务保留固定出口时，可以先选**最便宜且在自己的网络上稳定可用**的月付入口，再搭配一个独享静态 ISP：`设备 → 入口线路 → ISP 出口 → 目标网站`。普通网页和下载继续走入口，不必全部消耗 ISP 额度。入口的带宽、晚高峰稳定性和端口限制仍会影响整条链。
+
+配套仓库：[静态 ISP 推荐与链式代理指南](https://github.com/OXWWXO/static-isp-guide)，包含单 IP 月付报价、共享/独享与 FUP 区别、Clash Verge Rev 图形教程、Mihomo 模板及故障排查。固定 ISP 不保证平台账号安全，也不改变服务地区资格；先小额测试完整用途，再决定续费。
+
+</details>
+
 ---
 
 ## 日常主力
@@ -163,7 +190,9 @@ NIVA 和苏菲的联合推荐在上方；各家详细介绍按 **入口 → 套�
 
 ### 01 · 守候网络 SNTP｜20 元内的主力首选
 
-**✨ 主观推荐：⭐⭐⭐⭐⭐（5/5）** · 小额月付，评测资料较丰富
+<p><a href="#rating-guide"><img src="assets/rating-5.svg" alt="主观推荐：5/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 小额月付，评测资料较丰富
 
 <p><kbd>日常主力</kbd>&nbsp; <kbd>小额月付</kbd></p>
 
@@ -209,7 +238,9 @@ NIVA 和苏菲的联合推荐在上方；各家详细介绍按 **入口 → 套�
 
 ### 02 · FlyBit｜15 元预算，月付与按量都能选
 
-**✨ 主观推荐：⭐⭐⭐⭐（4/5）** · 月付与按量选择多，AI 表现因地区而异
+<p><a href="#rating-guide"><img src="assets/rating-4.svg" alt="主观推荐：4/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 月付与按量选择多，AI 表现因地区而异
 
 <p><kbd>15 元档</kbd>&nbsp; <kbd>月付 / 按量</kbd></p>
 
@@ -272,7 +303,9 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 ### 03 · U1S1｜20 元档的第二选择
 
-**✨ 主观推荐：⭐⭐⭐⭐（4/5）** · 可月付，但现有 AI 测试资料有限
+<p><a href="#rating-guide"><img src="assets/rating-4.svg" alt="主观推荐：4/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 可月付，但现有 AI 测试资料有限
 
 <p><kbd>20 元档</kbd>&nbsp; <kbd>主力备选</kbd></p>
 
@@ -318,7 +351,9 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 ### 04 · 宇宙云｜港日速度有资料，AI 主力往后放
 
-**✨ 主观推荐：⭐⭐⭐（3/5）** · 港日有测速资料，AI 证据较少
+<p><a href="#rating-guide"><img src="assets/rating-3.svg" alt="主观推荐：3/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 港日有测速资料，AI 证据较少
 
 <p><kbd>港日视频</kbd>&nbsp; <kbd>AI 证据有限</kbd></p>
 
@@ -376,7 +411,9 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 ### 05 · 悠兔 YouTu｜多入口与动态倍率的中档主力
 
-**✨ 主观推荐：⭐⭐⭐⭐（4/5）** · 多入口可比较，留意付款周期
+<p><a href="#rating-guide"><img src="assets/rating-4.svg" alt="主观推荐：4/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 多入口可比较，留意付款周期
 
 <p><kbd>中档主力</kbd>&nbsp; <kbd>隧道 / 专线</kbd></p>
 
@@ -416,7 +453,9 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 ### 06 · BoostNet｜AnyTLS 与官方客户端的主力备选
 
-**✨ 主观推荐：⭐⭐⭐⭐（4/5）** · 有官方客户端，费用与限制需核对
+<p><a href="#rating-guide"><img src="assets/rating-4.svg" alt="主观推荐：4/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 有官方客户端，费用与限制需核对
 
 <p><kbd>中档主力</kbd>&nbsp; <kbd>AnyTLS</kbd></p>
 
@@ -461,7 +500,9 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 ### 07 · 吹雪云｜低价备用，先看 IPv6 和套餐规则
 
-**✨ 主观推荐：⭐⭐⭐⭐（4/5）** · 低价备用有吸引力，需确认本地接入
+<p><a href="#rating-guide"><img src="assets/rating-4.svg" alt="主观推荐：4/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 低价备用有吸引力，需确认本地接入
 
 <p><kbd>低价备用</kbd>&nbsp; <kbd>留意 IPv6</kbd></p>
 
@@ -508,7 +549,9 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 ### 08 · 良心云｜下载与视频备用，流量门槛低
 
-**✨ 主观推荐：⭐⭐⭐⭐（4/5）** · 低成本大流量，适合备用比较
+<p><a href="#rating-guide"><img src="assets/rating-4.svg" alt="主观推荐：4/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 低成本大流量，适合备用比较
 
 <p><kbd>大流量</kbd>&nbsp; <kbd>下载备用</kbd></p>
 
@@ -553,7 +596,9 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 ### 09 · iKuuu｜免费入门、1 元日包与大流量付费
 
-**✨ 主观推荐：⭐⭐⭐（3/5）** · 试用门槛低，AI 主力证据不足
+<p><a href="#rating-guide"><img src="assets/rating-3.svg" alt="主观推荐：3/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 试用门槛低，AI 主力证据不足
 
 <p><kbd>免费 / 日包</kbd>&nbsp; <kbd>流量优先</kbd></p>
 
@@ -614,7 +659,9 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 ### 10 · TAG｜多地区出口与丰富落地类型
 
-**✨ 主观推荐：⭐⭐⭐⭐（4/5）** · 地区与出口选择多，留意付款周期
+<p><a href="#rating-guide"><img src="assets/rating-4.svg" alt="主观推荐：4/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 地区与出口选择多，留意付款周期
 
 <p><kbd>多地区</kbd>&nbsp; <kbd>家宽 / 商宽</kbd></p>
 
@@ -662,7 +709,9 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 ### 11 · 白月光 BYG｜季付门槛与节点差异要一起看
 
-**✨ 主观推荐：⭐⭐⭐（3/5）** · 关注季付门槛、节点差异和售后
+<p><a href="#rating-guide"><img src="assets/rating-3.svg" alt="主观推荐：3/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 关注季付门槛、节点差异和售后
 
 <p><kbd>季付起步</kbd>&nbsp; <kbd>关注节点差异</kbd></p>
 
@@ -710,7 +759,9 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 ### 12 · 苏菲家宽｜按住宅出口需求选套餐
 
-**✨ 主观推荐：⭐⭐⭐⭐⭐（5/5）** · 静态与动态住宅出口可按需求比较
+<p><a href="#rating-guide"><img src="assets/rating-5.svg" alt="主观推荐：5/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 静态与动态住宅出口可按需求比较
 
 <p><kbd>住宅出口</kbd>&nbsp; <kbd>静态 / 动态</kbd></p>
 
@@ -757,7 +808,9 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 ### 13 · 花云 FlowerCloud｜多地区落地与低倍率实验节点
 
-**✨ 主观推荐：⭐⭐⭐⭐（4/5）** · 多地区选择丰富，留意节点倍率
+<p><a href="#rating-guide"><img src="assets/rating-4.svg" alt="主观推荐：4/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 多地区选择丰富，留意节点倍率
 
 <p><kbd>多地区</kbd>&nbsp; <kbd>0.2 倍率</kbd></p>
 
@@ -803,7 +856,9 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 ### 14 · Nexitally 奶昔｜历史资料丰富，也要看服务波动
 
-**✨ 主观推荐：⭐⭐⭐（3/5）** · 历史资料丰富，近期状态与费用需核对
+<p><a href="#rating-guide"><img src="assets/rating-3.svg" alt="主观推荐：3/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 历史资料丰富，近期状态与费用需核对
 
 <p><kbd>高预算</kbd>&nbsp; <kbd>关注近期状态</kbd></p>
 
@@ -845,7 +900,9 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 ### 15 · WgetCloud｜规格清楚的高预算比较项
 
-**✨ 主观推荐：⭐⭐⭐（3/5）** · 套餐规格清楚，首次付款门槛较高
+<p><a href="#rating-guide"><img src="assets/rating-3.svg" alt="主观推荐：3/5，点击查看评分说明" width="330"></a></p>
+
+**推荐理由：** 套餐规格清楚，首次付款门槛较高
 
 <p><kbd>高预算</kbd>&nbsp; <kbd>季付 / 年付</kbd></p>
 
@@ -975,6 +1032,8 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 <details>
 <summary>更新记录</summary>
+
+- **2026-11-08**：保留彩窗山海封面，增加家宽精选双卡、统一星级徽章和手机用途卡；精简首屏阅读顺序，将新手与 ISP 搭配说明收进折叠区。评分、套餐与评测来源保持原值。
 
 - **2026-11-04**：在正文加入固定 ISP 分流图、TAG 套餐周期票券和 U1S1 三地延迟样本图。
 
