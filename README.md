@@ -11,83 +11,46 @@
 <p align="center">
   <a href="docs/getting-started.md">新手入门</a>&nbsp;·&nbsp;
   <a href="#quick-picks">按用途选</a>&nbsp;·&nbsp;
-  <a href="#niva">家宽推荐</a>&nbsp;·&nbsp;
+  <a href="#isp-picks">家宽推荐</a>&nbsp;·&nbsp;
   <a href="#all-prices">价格周期</a>&nbsp;·&nbsp;
   <a href="#evidence">评测来源</a>
 </p>
 
-十六家服务，价格、优势和短板放在一起看。这里整理已有机场测速、AI 与流媒体解锁评测，帮助你按预算选主力、找备用，或比较多地区和住宅出口。
+## 强烈推荐 · 苏菲家宽
 
-主要用途：**ChatGPT / Claude / Gemini、日常网页、视频与下载。** 使用 Clash、v2rayN、sing-box 等客户端时，具体协议与限制在各家介绍里查。
+**想固定使用同一个美国住宅 IP，优先看苏菲的美国静态家宽档。** 苏菲把静态住宅和动态家宽分开卖，方便按用途挑。2026 年 5 月的评测记录中，美国静态档为 **20 元/月，每月 250 GB**；9.9 元档提供普通机房出口。下单前请核对当前套餐的出口类型和价格。
 
-> [!NOTE]
-> 部分商家入口含邀请码或推广参数，原始评测也可能含商业合作。本页以已有资料辅助选择，未对十六家做同条件统一测试。详见[证据标准](docs/testing.md)与[入口说明](docs/faq.md#官网入口为什么带-code)。
-
-<a id="niva"></a>
-
-## 家宽精选 · NIVA Network × 苏菲家宽
-
-<picture>
-  <source media="(max-width: 640px)" srcset="assets/featured-picks-mobile.svg">
-  <img src="assets/featured-picks.svg" alt="NIVA Network 与苏菲家宽均为主观推荐 5/5。NIVA 适合低预算体验多地区家宽；苏菲适合按需求比较静态住宅与动态家宽。" width="1160">
-</picture>
-
-两家一起推荐给想体验 **ISP / 家宽出口**的朋友：NIVA 适合低预算试用多地区家宽节点；苏菲家宽有静态和动态住宅出口等不同选择。
-
-**强烈推荐 · 两家主观评分均为 5/5。**
-
-评分是基于现有资料的选购判断，不是统一实测或服务保证，详情请看[评分说明](#rating-guide)。
-
-| 推荐 | 适合怎么选 | 注册入口 |
-| --- | --- | --- |
-| **NIVA Network** | 低预算体验家宽节点。第三方套餐资料记录 **8.8 元/月、100GB/月**，另有 **15.8 元/月、300GB/月**；价格资料更新于 2026-07-17。 | [NIVA 注册入口](https://niva.sh/r/ry5j) |
-| **苏菲家宽** | 想按需求比较静态住宅与动态家宽套餐，详见[苏菲套餐介绍](#sufe)。 | [苏菲家宽注册入口](https://www.sufe.pro/register?code=91TGejUv) |
-
-实际价格、可售套餐及家宽节点以注册后的页面为准；更多对比见 [ISP / 家宽出口特别推荐](#isp-picks)。
-
----
+[查看苏菲套餐、三网体验与 IP 检测](#sufe) · [苏菲注册](https://www.sufe.pro/register?code=91TGejUv)
 
 <a id="quick-picks"></a>
 
-## 先找到你的用途
+## 按预算和用途选
 
-选一张用途卡片，直接查看卡片上这家服务商的套餐和评测记录。
+| 我想怎么用 | 先看哪家，为什么 |
+| --- | --- |
+| **每月 15 元，用 ChatGPT** | [FlyBit](#flybit) · 8 月晚间样本里，美、日节点可用，香港节点未能使用。 |
+| **20 元内，选日常主力** | [守候网络](#sntp) 的入门档有 18 元月付记录。想多比一家，可对照 [U1S1](#u1s1) 的地区延迟。 |
+| **几元钱，留个备用** | [吹雪云](#chuixue) 的频道列过 2 元月付，电信用户先确认 IPv6。[良心云](#liangxin) 另有低价直连方案。 |
+| **想要住宅 IP** | 想用小预算试多地区家宽，看 [NIVA](#niva)。需要固定住宅出口，看[苏菲的静态档](#sufe)。 |
 
-<table width="100%">
-  <tr>
-    <td width="50%"><a href="#sntp"><picture><source media="(max-width: 640px)" srcset="assets/pick-daily-mobile.svg"><img src="assets/pick-daily.svg" alt="日常主力：点击查看守候网络" width="600"></picture></a></td>
-    <td width="50%"><a href="#chuixue"><picture><source media="(max-width: 640px)" srcset="assets/pick-backup-mobile.svg"><img src="assets/pick-backup.svg" alt="备用与流量：点击查看吹雪云" width="600"></picture></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="#tag"><picture><source media="(max-width: 640px)" srcset="assets/pick-regions-mobile.svg"><img src="assets/pick-regions.svg" alt="多地区出口：点击查看TAG" width="600"></picture></a></td>
-    <td width="50%"><a href="#sufe"><picture><source media="(max-width: 640px)" srcset="assets/pick-residential-mobile.svg"><img src="assets/pick-residential.svg" alt="住宅与家宽：点击查看苏菲家宽" width="600"></picture></a></td>
-  </tr>
-</table>
+以上价格取自历史套餐记录，体验来自不同作者、网络和日期的测试。部分注册链接含邀请码，原始评测也可能涉及商业合作。[资料来源](#evidence) · [入口说明](docs/faq.md#官网入口为什么带-code)
 
 <details>
-<summary><strong>按预算与用途，展开详细选择表</strong></summary>
+<summary><strong>更多用途：大流量、多地区流媒体和高预算主力</strong></summary>
 
 | 你最在意什么 | 先看这家 | 选择理由 |
 | --- | --- | --- |
-| **20 元内的日常主力** | [守候网络](#sntp)；[U1S1](#u1s1)作第二选择 | 小额月付，有评测记录可对照 |
 | **提高主力预算** | [悠兔](#youtu) / [BoostNet](#boostnet) | 多入口、客户端及历次测试，付款周期见详情 |
-| **15 元封顶，主要用 AI** | [FlyBit](#flybit) | 15 元 / 128GB，有分地区的 ChatGPT 样本 |
-| **几元钱留一份备用** | [吹雪云](#chuixue) / [良心云](#liangxin) | 小月付成本低，先确认本地接入 |
 | **流量多，想先花一元体验** | [iKuuu](#ikuuu) | 1 元日包与 12 元 / 300GB 付费档 |
 | **多地区流媒体和不同出口** | [TAG](#tag) / [花云](#flowercloud) | 丰富落地或低倍率，按地区与付款周期比较 |
-| **指定住宅 IP / 家宽需求** | [苏菲家宽](#sufe) | 普通机房、静态与动态家宽分档 |
 | **高预算长期主力** | [奶昔](#nexitally) / [WgetCloud](#wgetcloud) | 先读近期状态、季付门槛与官方限制 |
 | **其他比较项** | [宇宙云](#yuzhou) · [白月光](#byg) | 分别留意 AI 证据和季付门槛 |
 
 </details>
 
-如果只准备买一家，先从主力卡片看起；具体预算和其他用途可展开上表。备用等主力用顺后再补，不必一次购齐。
-
 <a id="providers"></a>
 
-## 直达各家介绍
-
-**家宽精选：** [NIVA × 苏菲](#niva) · [住宅出口详细对比](#isp-picks)
+## 16 家服务商目录
 
 | 日常主力 | 备用与流量 | 多地区、家宽与高预算 |
 | --- | --- | --- |
@@ -97,8 +60,9 @@
 | [04 宇宙云](#yuzhou) |  | [13 花云](#flowercloud) |
 | [05 悠兔](#youtu) |  | [14 奶昔](#nexitally) |
 | [06 BoostNet](#boostnet) |  | [15 WgetCloud](#wgetcloud) |
+|  |  | [16 NIVA Network](#niva) |
 
-NIVA 和苏菲的联合推荐在上方；各家详细介绍按 **入口 → 套餐 → 优缺点 → 测试记录 → 怎么选** 阅读。只查价格时，可以展开下面的总表。
+只想比价格？展开下表，按实际付款周期对照 16 家的参考套餐。
 
 <a id="all-prices"></a>
 
@@ -109,19 +73,19 @@ NIVA 和苏菲的联合推荐在上方；各家详细介绍按 **入口 → 套�
 
 | 机场 | 参考价格与付款周期 | 本页建议 | 入口 |
 | --- | --- | --- | --- |
-| **NIVA Network** | **8.8元/月、100GB**，2026-07第三方资料 | **强烈推荐试用**；先核对价格及本地体验 | [邀请入口](https://niva.sh/r/ry5j) |
-| **守候 SNTP** | **18元 / 100GB**，2026-05评测 | **20元内的主力首选** | [官网入口](https://ncdn1.sntp.uk/auth/register?code=Zp1I34l1) |
-| **FlyBit** | **15元 / 128GB**，2026-09套餐记录 | **15元预算首选，AI优先美日节点** | [官网入口](https://www.fastfastfast.buzz/#/register?code=szFx8WJU) |
-| U1S1 | 20元 / 120GB，2026-08套餐记录 | 守候不适合本地网络时，再比较它 | [官网入口](https://njdsues.u1sat.homes/#/?code=bXrbElMZ) |
-| 宇宙云 | 14.9元 / 100GB，2026-08资料 | 港日测速可参考，**AI主力不优先推荐** | [官网入口](https://tlsmvchy.yuzhoutttt3.click/#/?code=rZfRFpyF) |
+| **NIVA Network** | **8.8元/月、100GB**，2026-07第三方资料 | **强烈推荐试用**；先核对价格及本地体验 | [注册](https://niva.sh/r/ry5j) |
+| **守候 SNTP** | **18元 / 100GB**，2026-05评测 | **20元内的主力首选** | [注册](https://ncdn1.sntp.uk/auth/register?code=Zp1I34l1) |
+| **FlyBit** | **15元 / 128GB**，2026-09套餐记录 | **15元预算首选，AI优先美日节点** | [注册](https://www.fastfastfast.buzz/#/register?code=szFx8WJU) |
+| U1S1 | 20元 / 120GB，2026-08套餐记录 | 守候不适合本地网络时，再比较它 | [注册](https://njdsues.u1sat.homes/#/?code=bXrbElMZ) |
+| 宇宙云 | 14.9元 / 100GB，2026-08资料 | 港日测速可参考，**AI主力不优先推荐** | [注册](https://tlsmvchy.yuzhoutttt3.click/#/?code=rZfRFpyF) |
 | 悠兔 YouTu | 年包199元、全年200GB；150GB/月付39元为评测参考 | 多入口中档比较，先核对当前付款周期 | [官网入口](https://tw.youtu1.com/) |
 | BoostNet | 49元/月、200GB；另有200元年付20GB/月 | AnyTLS与官方客户端，注意费用及限制 | [官网入口](https://jc.boostqz.com/) |
-| **吹雪云** | **2元 / 128GB起**，频道宣传 | **低价备用，电信先看接入限制** | [官网入口](https://xn--9kqs1lo79d.com/#/register?code=MT7w7Ayt) |
-| **良心云** | **2元 / 100GB；6元 / 1000GB**，2026-06评测 | **低价直连、大流量备用** | [官网入口](https://xn--9kqz23b19z.com/#/register?code=uvXCXsuI) |
-| iKuuu | 12元/月、每30天300GB；1元日包30GB，2026-09核对资料 | 重流量或免费备用再看，AI主力不优先 | [官网入口](https://ikuuu.top/auth/register?code=BzrJ) |
-| TAG | Special 162元/年、全年200GB；Bronze 185元/季、每月250GB | 多地区出口优先看它；低流量另看年度包 | [官网入口](https://tagss.pro/#/auth/rZcvLyyj) |
-| 白月光 BYG | 66元/季、每月100GB，2026-08核对资料 | 不盲季付，先看零速节点和售后反馈 | [官网入口](https://www.sibker.com/register?invite_code=fRx8KXXq) |
-| 苏菲家宽 | 静态家宽20元/月、250GB；普通机房9.9元/月、1000GB，2026-05资料 | 有住宅 IP 需求再选；联通可优先比较 | [官网入口](https://www.sufe.pro/register?code=91TGejUv) |
+| **吹雪云** | **2元 / 128GB起**，频道宣传 | **低价备用，电信先看接入限制** | [注册](https://xn--9kqs1lo79d.com/#/register?code=MT7w7Ayt) |
+| **良心云** | **2元 / 100GB；6元 / 1000GB**，2026-06评测 | **低价直连、大流量备用** | [注册](https://xn--9kqz23b19z.com/#/register?code=uvXCXsuI) |
+| iKuuu | 12元/月、每30天300GB；1元日包30GB，2026-09核对资料 | 重流量或免费备用再看，AI主力不优先 | [注册](https://ikuuu.top/auth/register?code=BzrJ) |
+| TAG | Special 162元/年、全年200GB；Bronze 185元/季、每月250GB | 多地区出口优先看它；低流量另看年度包 | [注册](https://tagss.pro/#/auth/rZcvLyyj) |
+| 白月光 BYG | 66元/季、每月100GB，2026-08核对资料 | 不盲季付，先看零速节点和售后反馈 | [注册](https://www.sibker.com/register?invite_code=fRx8KXXq) |
+| 苏菲家宽 | 静态家宽20元/月、250GB；普通机房9.9元/月、1000GB，2026-05资料 | 有住宅 IP 需求再选；联通可优先比较 | [注册](https://www.sufe.pro/register?code=91TGejUv) |
 | 花云 FlowerCloud | 39元/月、150GiB；58元/月、400GiB | 多地区及0.2倍率实验节点 | [官网入口](https://huacloud.dev/) |
 | Nexitally / 奶昔 | 第三方档案约74.55元 / 200GB；123.33元 / 500GB | 高预算比较项，留意服务波动 | [入口导航](https://xiaofeiji.best/airports/nexitally/) |
 | WgetCloud | 第三方季价237元起；官方基础季付每30天230GB | 高预算比较，先核对会员中心价格 | [官网入口](https://wgetcloud.ltd/) |
@@ -148,7 +112,7 @@ NIVA 和苏菲的联合推荐在上方；各家详细介绍按 **入口 → 套�
 
 > **原有十五家资料日期：2026-10-02 · 阅读与文档更新：2026-10-20。NIVA 补充于 2026-11-03，来源日期见推荐条目。** 价格和测速保留各自来源日期，本次未重新核价或测速。月付、季付、年付和一次性流量包分别标明，购买前核对当前结算页。
 
-界面与排版更新：**2026-11-08**。本次仅优化呈现，未重新核价、测速或调整推荐分数。
+首页编排更新于 **2026-11-23**。各条目的价格和测试日期见对应来源。
 
 </details>
 
@@ -196,7 +160,7 @@ NIVA 和苏菲的联合推荐在上方；各家详细介绍按 **入口 → 套�
 
 <p><kbd>日常主力</kbd>&nbsp; <kbd>小额月付</kbd></p>
 
-🔗 [官网入口](https://ncdn1.sntp.uk/auth/register?code=Zp1I34l1) · [发布页 2](https://cmt.shvip888.com) · [通知频道](https://t.me/s/SHWLGROUP)
+🔗 [注册](https://ncdn1.sntp.uk/auth/register?code=Zp1I34l1) · [发布页 2](https://cmt.shvip888.com) · [通知频道](https://t.me/s/SHWLGROUP)
 
 **参考套餐：18 元/月，100GB。** 来自 2026 年 5 月评测。旧讨论里的 15 元、88GB 只当历史价格看。
 
@@ -244,7 +208,7 @@ NIVA 和苏菲的联合推荐在上方；各家详细介绍按 **入口 → 套�
 
 <p><kbd>15 元档</kbd>&nbsp; <kbd>月付 / 按量</kbd></p>
 
-🔗 [官网入口](https://www.fastfastfast.buzz/#/register?code=szFx8WJU)
+🔗 [注册](https://www.fastfastfast.buzz/#/register?code=szFx8WJU)
 
 **参考套餐：15 元/月，128GB；不限时包 36 元/128GB 起。** 套餐记录见[yp7](https://yp7.net/posts/flybit-review-2026/)。
 
@@ -309,7 +273,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 <p><kbd>20 元档</kbd>&nbsp; <kbd>主力备选</kbd></p>
 
-🔗 [官网入口](https://njdsues.u1sat.homes/#/?code=bXrbElMZ)
+🔗 [注册](https://njdsues.u1sat.homes/#/?code=bXrbElMZ)
 
 **参考套餐：20 元/月，120GB；另有 96 元年付、每月60GB的记录。**
 
@@ -357,7 +321,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 <p><kbd>港日视频</kbd>&nbsp; <kbd>AI 证据有限</kbd></p>
 
-🔗 [官网入口](https://tlsmvchy.yuzhoutttt3.click/#/?code=rZfRFpyF)；评测来源见[网指南](https://webzhinan.run/airport/providers/yuzhouyun)。
+🔗 [注册](https://tlsmvchy.yuzhoutttt3.click/#/?code=rZfRFpyF)；评测来源见[网指南](https://webzhinan.run/airport/providers/yuzhouyun)。
 
 **参考套餐：14.9 元/月，100GB。**
 
@@ -506,7 +470,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 <p><kbd>低价备用</kbd>&nbsp; <kbd>留意 IPv6</kbd></p>
 
-🔗 [官网入口](https://xn--9kqs1lo79d.com/#/register?code=MT7w7Ayt) · [通知频道](https://t.me/s/chuixueyun)
+🔗 [注册](https://xn--9kqs1lo79d.com/#/register?code=MT7w7Ayt) · [通知频道](https://t.me/s/chuixueyun)
 
 **参考价格：通知频道宣传 2 元/月、128GB 起。**
 
@@ -555,7 +519,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 <p><kbd>大流量</kbd>&nbsp; <kbd>下载备用</kbd></p>
 
-🔗 [官网入口](https://xn--9kqz23b19z.com/#/register?code=uvXCXsuI)
+🔗 [注册](https://xn--9kqz23b19z.com/#/register?code=uvXCXsuI)
 
 **参考套餐：2 元/100GB、4 元/500GB、6 元/1000GB 月付。** 来自2026年6月评测。
 
@@ -602,7 +566,7 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 <p><kbd>免费 / 日包</kbd>&nbsp; <kbd>流量优先</kbd></p>
 
-🔗 [官网入口](https://ikuuu.top/auth/register?code=BzrJ) · [登录页](https://ikuuu.org/) · [地址与后台说明](https://jichangtuijian1.com/pianyijichang/ikuuu)
+🔗 [注册](https://ikuuu.top/auth/register?code=BzrJ) · [登录页](https://ikuuu.org/) · [地址与后台说明](https://jichangtuijian1.com/pianyijichang/ikuuu)
 
 **参考套餐：12元/月、每30天300GB；另有1元日包和免费档。** 来自2026-09-03第三方后台核对记录。
 
@@ -665,11 +629,13 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 <p><kbd>多地区</kbd>&nbsp; <kbd>家宽 / 商宽</kbd></p>
 
-🔗 [官网入口](https://tagss.pro/#/auth/rZcvLyyj) · [tagweb.vip](https://tagweb.vip/)；备用入口资料：[jdnei/TAG](https://github.com/jdnei/TAG)。评测：[长期记录](https://github.com/xiaoming2028/TAG-VPN) · [套餐与视频样本](https://gptvpnhelper.com/tag/)
+🔗 [注册](https://tagss.pro/#/auth/rZcvLyyj) · [tagweb.vip](https://tagweb.vip/)；备用入口资料：[jdnei/TAG](https://github.com/jdnei/TAG)。评测：[长期记录](https://github.com/xiaoming2028/TAG-VPN) · [套餐与视频样本](https://gptvpnhelper.com/tag/)
 
 **参考套餐：Special 162元/年，全年共200GB；Bronze 185元/季，每月250GB；Silver 114元/月，每月500GB。** 价格见[2026年8月资料](https://gptvpnhelper.com/tag/)及[GitHub套餐记录](https://github.com/jdnei/TAG)。
 
 #### 套餐价格与设备限制
+
+<a id="200-gb-能用多久"></a>
 
 ![TAG 两种流量周期：付款 162 元的 Special 全年共用 200 GB；付款 185 元的 Bronze 一季内每月各有 250 GB。资料日期为 2026-08-24。](assets/tag-quota-tickets.svg)
 
@@ -715,7 +681,7 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 <p><kbd>季付起步</kbd>&nbsp; <kbd>关注节点差异</kbd></p>
 
-🔗 [官网入口](https://www.sibker.com/register?invite_code=fRx8KXXq) · [通知频道](https://t.me/s/bygpd)。评测：[三网原帖](https://t.me/sstrojan/3659?single=) · [测速与套餐核对](https://jichangnote.com/reviews/baiyueguang/)
+🔗 [注册](https://www.sibker.com/register?invite_code=fRx8KXXq) · [通知频道](https://t.me/s/bygpd)。评测：[三网原帖](https://t.me/sstrojan/3659?single=) · [测速与套餐核对](https://jichangnote.com/reviews/baiyueguang/)
 
 **参考入门：66元/季，每月100GB。** [机场笔记2026年8月24日的套餐核对](https://jichangnote.com/reviews/baiyueguang/)记录没有月付，并标注不支持退款；是否新增套餐看当前后台。
 
@@ -765,7 +731,7 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 <p><kbd>住宅出口</kbd>&nbsp; <kbd>静态 / 动态</kbd></p>
 
-🔗 [官网入口](https://www.sufe.pro/register?code=91TGejUv)。评测：[BaoBao原文](https://baobaoap.com/archives/144.html) · [三网与IP检测](https://t.me/s/sstrojan/3648)
+🔗 [注册](https://www.sufe.pro/register?code=91TGejUv)。评测：[BaoBao原文](https://baobaoap.com/archives/144.html) · [三网与IP检测](https://t.me/s/sstrojan/3648)
 
 **2026年5月评测参考：普通机房档9.9元/月、1000GB；美国静态家宽20元/月、250GB；动态家宽有30～50元档。** 价格出处：[BaoBao的原评测](https://baobaoap.com/archives/144.html)。
 
@@ -943,16 +909,31 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 <a id="isp-picks"></a>
 
-## 🏠 ISP / 家宽出口特别推荐：苏菲家宽 × NIVA Network
+## 家宽精选 · 多地区体验与固定住宅出口
 
-想体验住宅或 ISP 出口，重点看看这两家：**苏菲家宽适合按静态、动态住宅出口挑套餐；NIVA 适合想以较低预算体验多地区家宽节点的人。** 出口类型、地区和套餐实际开放情况以下单页面及节点实测为准。
+<a id="niva"></a>
 
-| 推荐 | 家宽 / ISP 看点 | 怎么选 | 入口 |
-| --- | --- | --- | --- |
-| **苏菲家宽** | 家宽是主打方向，有美国静态住宅、动态家宽等不同档位；历史资料列有 AT&T、Verizon、T-Mobile 等运营商选项。 | 需要指定住宅出口时，先比较静态和动态档；普通机房档不含家宽。详见[苏菲介绍](#sufe)。 | [苏菲家宽入口](https://www.sufe.pro/register?code=91TGejUv) |
-| **NIVA Network** | [第三方套餐资料](https://github.com/jdnei/niva/blob/main/README.md)列有主流地区家宽出口；适合想在日常机场中体验家宽节点的人。 | 可先从月付试用，确认所选套餐包含哪些家宽节点及地区。详见 [NIVA 推荐](#niva)。 | [NIVA 邀请入口](https://niva.sh/r/ry5j) |
+### 16 · NIVA Network｜小预算体验多地区家宽
 
-**购买前看清出口类型。** 住宅、ISP、静态和动态不是同义词；节点是否共享、IP 是否固定、具体归属及可用性都要逐项确认。家宽标签不保证独享、账号安全或特定平台可用。以上资料尚未由本站独立验证，先小额测试再续费。
+2026 年 7 月 17 日的第三方资料列过两档月付：**8.8 元 / 100 GB** 和 **15.8 元 / 300 GB**。想试某个地区的住宅出口，先在下单页确认入门档是否包含该地区，再决定买多少流量。[套餐资料](https://github.com/jdnei/niva/blob/main/README.md) · [注册](https://niva.sh/r/ry5j)
+
+### 苏菲家宽｜需要固定住宅出口时看静态档
+
+2026 年 5 月资料列出的静态家宽档是 **20 元/月、250 GB**。另有普通机房和动态家宽档。需要固定 IP 时，先核对出口地区、IP 是否固定、是否独享；低价普通机房档不含家宽。[查看苏菲各档与历史检测](#sufe) · [注册](https://www.sufe.pro/register?code=91TGejUv)
+
+<details>
+<summary>两家的主观评分与推荐卡</summary>
+
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/featured-picks-mobile.svg">
+  <img src="assets/featured-picks.svg" alt="NIVA Network 与苏菲家宽均为主观推荐 5/5。NIVA 适合低预算体验多地区家宽；苏菲适合按需求比较静态住宅与动态家宽。" width="1160">
+</picture>
+
+两家在各自用途下的主观推荐均为 5/5。出口归属与当前可用性仍需按节点验证。[评分依据](#rating-guide)
+
+</details>
+
+<p align="right"><a href="#providers">返回目录 ↑</a></p>
 
 ---
 
@@ -1032,6 +1013,8 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 <details>
 <summary>更新记录</summary>
+
+- **2026-11-23**：首页单独推荐苏菲家宽，按预算和用途提供选择，补齐 16 家目录并标出邀请链接。TAG 流量周期图收在其套餐详情中。
 
 - **2026-11-08**：保留彩窗山海封面，增加家宽精选双卡、统一星级徽章和手机用途卡；精简首屏阅读顺序，将新手与 ISP 搭配说明收进折叠区。评分、套餐与评测来源保持原值。
 
