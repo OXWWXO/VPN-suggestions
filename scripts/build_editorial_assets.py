@@ -1,4 +1,4 @@
-"""Build the recommendation cards, mobile route cards and rating badges.
+"""Build the recommendation cards, rating badges and comparison graphics.
 
 Run with Python 3.9+: python scripts/build_editorial_assets.py
 Uses only the standard library. Existing cover illustrations stay hand-authored.
@@ -136,9 +136,108 @@ def mobile_routes():
         save(f'pick-{slug}-mobile.svg', 480, 280, f'{title}：{provider}', f'点击查看{provider}的套餐、评测与资料日期。', body)
 
 
+def budget_cards():
+    cards = [
+        ('ai', 'AI 入门', 'FlyBit', '#391d54', '#ffb7df', '#9e5eae', '#613583',
+         '<path d="M239 54h64v38h-28l-13 11V92h-23Z" fill="#ffb7df"/>'
+         '<path d="M250 64h42v4h-42zm0 10h30v4h-30z" fill="#391d54"/>'
+         '<path d="M288 38v19m-9-9h18" stroke="#fff1a8" stroke-width="3"/>'),
+        ('daily', '日常主力', '守候网络', '#142f57', '#b6ebff', '#377da4', '#23517a',
+         '<path d="M233 87a36 36 0 0 1 72 0" fill="#87d8ff"/>'
+         '<path d="m222 96 24-26 15 14 12-10 30 22Z" fill="#205479"/>'
+         '<path d="M229 97c23 0 38-13 72-15" fill="none" stroke="#ffe087" stroke-width="5"/>'
+         '<circle cx="274" cy="87" r="5" fill="#fff1bd"/>'),
+        ('backup', '低价备用', '吹雪云', '#4c2425', '#ffd3a3', '#ba5e43', '#823c35',
+         '<path d="M241 56h60v44h-60z" fill="#ffcc78"/>'
+         '<path d="M255 50h29v12h-29z" fill="#ffecae"/>'
+         '<path d="m276 61-15 17h10l-4 15 17-20h-11z" fill="#6b3529"/>'
+         '<path d="M230 66h7m-11 10h8m-4 10h7" stroke="#ffd3a3" stroke-width="3"/>'),
+        ('home', '住宅出口', 'NIVA / 苏菲', '#103b34', '#b5f3ca', '#4b9783', '#286657',
+         '<path d="m231 72 24-21 24 21v27h-48z" fill="#b5f3ca"/>'
+         '<path d="m263 67 21-19 22 19v32h-43z" fill="#fae18a"/>'
+         '<path d="M242 77h10v12h-10zm37-6h11v12h-11z" fill="#205b47"/>'
+         '<path d="M226 100h85" stroke="#87cbb3" stroke-width="3"/>'),
+    ]
+    for slug, title, label, bg, accent, glass, shade, illustration in cards:
+        body = rect(0, 0, 340, 130, bg, 'rx="10"')
+        body += '<clipPath id="card"><rect width="340" height="130" rx="10"/></clipPath>'
+        body += '<g clip-path="url(#card)">'
+        body += f'<path d="M227 0h113v130H179Z" fill="{shade}"/>'
+        body += f'<path d="M274 0h66v29l-62 37-73 64h-26l35-82Z" fill="{glass}"/>'
+        body += f'<path d="M179 130 227 0m47 0-60 48 64 18 62-37m-62 37 62 38" fill="none" stroke="{bg}" stroke-width="3"/>'
+        body += f'<circle cx="270" cy="75" r="47" fill="{bg}" stroke="{accent}" stroke-width="2"/>'
+        body += illustration + '</g>'
+        body += rect(1, 1, 338, 128, 'none', f'rx="9" stroke="{accent}" stroke-opacity=".55"')
+        body += text(19, 58, title, 34, '#fff6eb', weight=700)
+        body += text(20, 96, label, 25, accent, weight=600)
+        body += f'<path d="M170 89h17m-6-6 6 6-6 6" fill="none" stroke="{accent}" stroke-width="2"/>'
+        save(f'budget-{slug}.svg', 340, 130, title, f'查看{label}的推荐详情。', body)
+
+
+def flybit_sample():
+    rows = [
+        ('美国', 564.36, '流畅', '#96e3ef'),
+        ('日本', 340.81, '流畅', '#c0adff'),
+        ('新加坡', 405.28, '流畅', '#a0e0b5'),
+        ('香港', 456.43, '不可用', '#ffb68d'),
+    ]
+    w, h = 640, 420
+    ink, muted, grid = '#182640', '#c6d8f0', '#405477'
+    plot_x, plot_width = 130, 348
+    body = rect(0, 0, w, h, ink, 'rx="14"')
+    body += text(26, 48, 'FlyBit 晚高峰节点样本', 34, '#ffffff', weight=700)
+    body += text(27, 83, '2026-08-13 晚间 · Siilas', 23, muted)
+    body += text(plot_x, 123, '下行速度（Mbps）', 22, muted, weight=600)
+    body += text(551, 123, 'ChatGPT', 23, muted, weight=600, extra='text-anchor="middle"')
+    for tick in (0, 200, 400, 600):
+        x = plot_x + plot_width * tick // 600
+        body += line(x, 138, x, 365, grid)
+        body += text(x, 395, str(tick), 21, muted, MONO, extra='text-anchor="middle"')
+    for index, (region, speed, status, accent) in enumerate(rows):
+        y = 150 + index * 55
+        bar_width = round(plot_width * speed / 600, 2)
+        body += text(26, y + 28, region, 25, '#ffffff', weight=600)
+        body += rect(plot_x, y, bar_width, 38, accent, 'rx="5"')
+        body += text(plot_x + bar_width - 11, y + 27, f'{speed:.2f}', 23, ink, MONO, 700,
+                     'text-anchor="end"')
+        body += rect(494, y, 114, 38, '#303b57', 'rx="19"')
+        status_color = '#a0e0b5' if status == '流畅' else '#ffb68d'
+        body += text(551, y + 27, status, 24, status_color, weight=700, extra='text-anchor="middle"')
+    save('flybit-evening-sample.svg', w, h, 'FlyBit 晚高峰节点样本',
+         '2026-08-13 晚间第三方记录。美国 564.36、日本 340.81、新加坡 405.28 Mbps，ChatGPT 流畅；香港 456.43 Mbps，ChatGPT 不可用。', body)
+
+
+def sufe_outlets():
+    rows = [
+        ('普通机房', '1000 GB / 月', '9.9 元 / 月', '#303c72', '#c5d6ff',
+         '<path d="M18 11h40v45H18z M18 26h40M18 41h40m-32-22h4m-4 15h4m-4 15h4"/>'),
+        ('美国静态家宽', '250 GB / 月 · 固定住宅 IP', '20 元 / 月', '#71334b', '#ffccc4',
+         '<path d="m14 32 24-21 24 21m-41-6v29h34V26M32 55V39h12v16"/>'),
+        ('动态家宽', '30 元档为 420 GB / 月', '30–50 元 / 月', '#1e5149', '#b3f0cc',
+         '<path d="M15 22h44m-9-9 9 9-9 9m9 13H15m9-9-9 9 9 9"/>'),
+    ]
+    w, h = 640, 407
+    body = rect(0, 0, w, h, '#20203b', 'rx="14"')
+    body += text(27, 49, '苏菲家宽 · 套餐与出口', 34, '#ffffff', weight=700)
+    body += text(28, 84, '2026 年 5 月评测记录', 24, '#e0d9f1')
+    for index, (name, quota, price, bg, accent, icon) in enumerate(rows):
+        y = 108 + index * 94
+        body += rect(20, y, 600, 82, bg, 'rx="10"')
+        body += rect(20, y + 12, 4, 58, accent, 'rx="2"')
+        body += f'<g transform="translate(37 {y + 8})" fill="none" stroke="{accent}" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">{icon}</g>'
+        body += text(120, y + 34, name, 30, '#ffffff', weight=700)
+        body += text(120, y + 66, quota, 23, accent)
+        body += text(599, y + 50, price, 27, accent, weight=700, extra='text-anchor="end"')
+    save('sufe-outlet-comparison.svg', w, h, '苏菲家宽套餐与出口',
+         '2026 年 5 月评测记录：普通机房每月 9.9 元、1000 GB；美国静态家宽每月 20 元、250 GB；动态家宽每月 30 至 50 元，30 元档每月 420 GB。', body)
+
+
 if __name__ == '__main__':
     featured(False)
     featured(True)
     rating_badges()
     mobile_routes()
-    print('Built 9 editorial SVG assets.')
+    budget_cards()
+    flybit_sample()
+    sufe_outlets()
+    print('Built 15 editorial SVG assets.')

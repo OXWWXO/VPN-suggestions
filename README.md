@@ -22,9 +22,20 @@
 
 [查看苏菲套餐、三网体验与 IP 检测](#sufe) · [苏菲注册](https://www.sufe.pro/register?code=91TGejUv)
 
+<img src="assets/sufe-residential-stained-glass.webp" alt="彩窗插画：亮着暖灯的住宅连上穿过海岸山丘的蓝色光纤。" width="900">
+
 <a id="quick-picks"></a>
 
 ## 按预算和用途选
+
+<p>
+  <a href="#flybit"><img src="assets/budget-ai.svg" alt="AI 入门，查看 FlyBit" width="49%"></a>
+  <a href="#sntp"><img src="assets/budget-daily.svg" alt="日常主力，查看守候网络" width="49%"></a>
+</p>
+<p>
+  <a href="#chuixue"><img src="assets/budget-backup.svg" alt="低价备用，查看吹雪云" width="49%"></a>
+  <a href="#isp-picks"><img src="assets/budget-home.svg" alt="住宅出口，比较 NIVA 和苏菲家宽" width="49%"></a>
+</p>
 
 | 我想怎么用 | 先看哪家，为什么 |
 | --- | --- |
@@ -112,7 +123,7 @@
 
 > **原有十五家资料日期：2026-10-02 · 阅读与文档更新：2026-10-20。NIVA 补充于 2026-11-03，来源日期见推荐条目。** 价格和测速保留各自来源日期，本次未重新核价或测速。月付、季付、年付和一次性流量包分别标明，购买前核对当前结算页。
 
-首页编排更新于 **2026-11-23**。各条目的价格和测试日期见对应来源。
+首页编排更新于 **2026-11-27**。各条目的价格和测试日期见对应来源。
 
 </details>
 
@@ -242,12 +253,19 @@
 
 #### 一次晚高峰记录，地区差异直接看
 
+<img src="assets/flybit-evening-sample.svg" alt="2026 年 8 月 13 日晚间 FlyBit 下行样本。美国 564.36、日本 340.81、新加坡 405.28 Mbps，ChatGPT 流畅。香港 456.43 Mbps，ChatGPT 不可用。" width="640">
+
+<details>
+<summary>展开测速数据表</summary>
+
 | 节点地区 | 下行速度 | ChatGPT记录 |
 | --- | ---: | --- |
 | 美国 | 564.36Mbps | 流畅 |
 | 日本 | 340.81Mbps | 流畅 |
 | 新加坡 | 405.28Mbps | 流畅 |
 | 香港 | 456.43Mbps | 不可用 |
+
+</details>
 
 来源：[Siilas，2026-08-13晚间](https://siilas.com/test/)。这些是当次节点样本，速度与AI可用性没有必然对应关系。
 
@@ -737,6 +755,8 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 #### 套餐价格与出口类型
 
+<img src="assets/sufe-outlet-comparison.svg" alt="2026 年 5 月苏菲套餐对比。普通机房每月 9.9 元、1000 GB；美国静态家宽每月 20 元、250 GB；动态家宽每月 30 至 50 元，30 元档每月 420 GB。" width="640">
+
 | 档位 | 月付 | 每月流量 | 主要区别 |
 | --- | ---: | ---: | --- |
 | 普通大流量 | 9.9元 | 1000GB | **普通机房，不含家宽**；资料标100Mbps |
@@ -1013,6 +1033,8 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 <details>
 <summary>更新记录</summary>
+
+- **2026-11-27**：新增四张可点击用途卡、苏菲家宽插图与出口对比图，以及 FlyBit 晚高峰四地节点图。
 
 - **2026-11-23**：首页单独推荐苏菲家宽，按预算和用途提供选择，补齐 16 家目录并标出邀请链接。TAG 流量周期图收在其套餐详情中。
 
