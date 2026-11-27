@@ -77,8 +77,8 @@ def featured_card(x, y, w, kind):
     body += rect(1, 1, w-2, 350, 'none', 'stroke="#ba9c6f"')
     body += rect(9, 9, w-18, 334, 'none', 'stroke="#ba9c6f" opacity=".35"')
     body += line(28, 65, w-28, 65, GOLD, 'opacity=".5"')
-    body += text(28, 42, '01 / NIVA' if niva else '02 / SUFE', 18, GOLD, MONO, 700, 'letter-spacing="2"')
-    body += text(w-28, 42, '特别推荐', 18, GOLD, SANS, 500, 'text-anchor="end"')
+    body += text(28, 42, '02 / NIVA' if niva else '01 / SUFE', 18, GOLD, MONO, 700, 'letter-spacing="2"')
+    body += text(w-28, 42, '强烈推荐', 18, GOLD, SANS, 500, 'text-anchor="end"')
     body += text(27, 127, name, 44 if niva else 48, CREAM, SERIF, 700)
     body += text(29, 171, title, 27, accent, SANS, 700)
     body += text(29, 210, subtitle, 23, CREAM)
@@ -95,14 +95,14 @@ def featured(mobile):
     body += text(24, 35, 'THE RESIDENTIAL EDIT', 17, GOLD, MONO, 700, 'letter-spacing="2"')
     body += text(w-24, 35, '家宽精选', 18, CREAM, SANS, 600, 'text-anchor="end"')
     if mobile:
-        body += featured_card(16, 56, 568, 'niva')
-        body += featured_card(16, 428, 568, 'sufe')
+        body += featured_card(16, 56, 568, 'sufe')
+        body += featured_card(16, 428, 568, 'niva')
     else:
-        body += featured_card(16, 54, 554, 'niva')
-        body += featured_card(590, 54, 554, 'sufe')
+        body += featured_card(16, 54, 554, 'sufe')
+        body += featured_card(590, 54, 554, 'niva')
     save('featured-picks-mobile.svg' if mobile else 'featured-picks.svg', w, h,
-         'NIVA Network × 苏菲家宽 · 家宽精选',
-         '两家均为主观推荐五星。NIVA：低预算体验多地区家宽；苏菲：按需比较静态住宅与动态家宽。评分基于现有资料，不是实测排名。', body)
+         '苏菲家宽 × NIVA Network · 强烈推荐',
+         '两家均为主观推荐五星。苏菲：按需比较静态住宅与动态家宽。NIVA：低预算体验多地区家宽。', body)
 
 
 def rating_badges():

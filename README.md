@@ -16,13 +16,21 @@
   <a href="#evidence">评测来源</a>
 </p>
 
-## 强烈推荐 · 苏菲家宽
+<a id="isp-picks"></a>
 
-**想固定使用同一个美国住宅 IP，优先看苏菲的美国静态家宽档。** 苏菲把静态住宅和动态家宽分开卖，方便按用途挑。2026 年 5 月的评测记录中，美国静态档为 **20 元/月，每月 250 GB**；9.9 元档提供普通机房出口。下单前请核对当前套餐的出口类型和价格。
+## 强烈推荐 · 苏菲家宽与 NIVA Network
 
-[查看苏菲套餐、三网体验与 IP 检测](#sufe) · [苏菲注册](https://www.sufe.pro/register?code=91TGejUv)
+| 推荐 | 适合谁 | 参考月付 | 入口 |
+| --- | --- | --- | --- |
+| **苏菲家宽** | 想固定使用同一个美国住宅 IP | **20 元 / 250 GB**，美国静态家宽档 | [套餐与三网评测](#sufe) · [注册](https://www.sufe.pro/register?code=91TGejUv) |
+| **NIVA Network** | 想用较低预算体验多地区家宽 | **8.8 元 / 100 GB**，入门档 | [套餐与资料](#niva) · [注册](https://niva.sh/r/ry5j) |
 
-<img src="assets/sufe-residential-stained-glass.webp" alt="彩窗插画：亮着暖灯的住宅连上穿过海岸山丘的蓝色光纤。" width="900">
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/featured-picks-mobile.svg">
+  <img src="assets/featured-picks.svg" alt="强烈推荐苏菲家宽与 NIVA Network，两家主观推荐均为 5/5。" width="1160">
+</picture>
+
+苏菲价格来自 2026 年 5 月评测，NIVA 价格来自 2026 年 7 月第三方资料。下单前核对当前价格、出口类型和地区。[主观评分说明](#rating-guide)
 
 <a id="quick-picks"></a>
 
@@ -753,6 +761,8 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 **2026年5月评测参考：普通机房档9.9元/月、1000GB；美国静态家宽20元/月、250GB；动态家宽有30～50元档。** 价格出处：[BaoBao的原评测](https://baobaoap.com/archives/144.html)。
 
+<img src="assets/sufe-residential-stained-glass.webp" alt="彩窗插画：亮着暖灯的住宅连上穿过海岸山丘的蓝色光纤。" width="900">
+
 #### 套餐价格与出口类型
 
 <img src="assets/sufe-outlet-comparison.svg" alt="2026 年 5 月苏菲套餐对比。普通机房每月 9.9 元、1000 GB；美国静态家宽每月 20 元、250 GB；动态家宽每月 30 至 50 元，30 元档每月 420 GB。" width="640">
@@ -927,31 +937,11 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 ---
 
-<a id="isp-picks"></a>
-
-## 家宽精选 · 多地区体验与固定住宅出口
-
 <a id="niva"></a>
 
-### 16 · NIVA Network｜小预算体验多地区家宽
+## 16 · NIVA Network｜小预算体验多地区家宽
 
 2026 年 7 月 17 日的第三方资料列过两档月付：**8.8 元 / 100 GB** 和 **15.8 元 / 300 GB**。想试某个地区的住宅出口，先在下单页确认入门档是否包含该地区，再决定买多少流量。[套餐资料](https://github.com/jdnei/niva/blob/main/README.md) · [注册](https://niva.sh/r/ry5j)
-
-### 苏菲家宽｜需要固定住宅出口时看静态档
-
-2026 年 5 月资料列出的静态家宽档是 **20 元/月、250 GB**。另有普通机房和动态家宽档。需要固定 IP 时，先核对出口地区、IP 是否固定、是否独享；低价普通机房档不含家宽。[查看苏菲各档与历史检测](#sufe) · [注册](https://www.sufe.pro/register?code=91TGejUv)
-
-<details>
-<summary>两家的主观评分与推荐卡</summary>
-
-<picture>
-  <source media="(max-width: 640px)" srcset="assets/featured-picks-mobile.svg">
-  <img src="assets/featured-picks.svg" alt="NIVA Network 与苏菲家宽均为主观推荐 5/5。NIVA 适合低预算体验多地区家宽；苏菲适合按需求比较静态住宅与动态家宽。" width="1160">
-</picture>
-
-两家在各自用途下的主观推荐均为 5/5。出口归属与当前可用性仍需按节点验证。[评分依据](#rating-guide)
-
-</details>
 
 <p align="right"><a href="#providers">返回目录 ↑</a></p>
 
@@ -1034,7 +1024,7 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 <details>
 <summary>更新记录</summary>
 
-- **2026-11-27**：新增四张可点击用途卡、苏菲家宽插图与出口对比图，以及 FlyBit 晚高峰四地节点图。
+- **2026-11-27**：首页并列推荐苏菲家宽和 NIVA Network，新增四张可点击用途卡、苏菲家宽插图与出口对比图，以及 FlyBit 晚高峰四地节点图。
 
 - **2026-11-23**：首页单独推荐苏菲家宽，按预算和用途提供选择，补齐 16 家目录并标出邀请链接。TAG 流量周期图收在其套餐详情中。
 
