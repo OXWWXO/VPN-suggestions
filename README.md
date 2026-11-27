@@ -1,12 +1,8 @@
 # 2026 机场选购指南
 
-<picture>
-  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/guide-cover-mobile-dark.svg">
-  <source media="(max-width: 640px)" srcset="assets/guide-cover-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/guide-cover-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/guide-cover-light.svg">
-  <img alt="机场选购图鉴。十六家服务，按日常主力、备用流量、多地区和住宅家宽四种用途阅读。" src="assets/guide-cover-light.svg" width="1200">
-</picture>
+![机场选购图鉴。彩窗中的蓝色线路穿过山海，连接城镇、岛屿和港口。](assets/atlas-cover.webp)
+
+按用途比较 16 家服务，查看实际付款周期、流量额度和历史评测。
 
 <p align="center">
   <a href="docs/getting-started.md">新手入门</a>&nbsp;·&nbsp;
@@ -131,7 +127,7 @@
 
 > **原有十五家资料日期：2026-10-02 · 阅读与文档更新：2026-10-20。NIVA 补充于 2026-11-03，来源日期见推荐条目。** 价格和测速保留各自来源日期，本次未重新核价或测速。月付、季付、年付和一次性流量包分别标明，购买前核对当前结算页。
 
-首页编排更新于 **2026-11-27**。各条目的价格和测试日期见对应来源。
+首页编排更新于 **2026-11-28**。各条目的价格和测试日期见对应来源。
 
 </details>
 
@@ -167,7 +163,9 @@
 
 ## 日常主力
 
-![日常主力分区：小额月付先试，连接顺畅再续费](assets/section-daily.svg)
+![日常主力。彩窗里的蓝色线路越过晨光中的大桥，进入亮着暖灯的城市。](assets/atlas-daily.webp)
+
+**先用小额月付试常用时段。** 主要用 AI 时，跑一遍登录、对话和文件上传，再决定是否续费。
 
 <a id="sntp"></a>
 
@@ -484,7 +482,9 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 ## 备用与大流量
 
-![备用与大流量分区：用得少看总成本，用得多看晚高峰](assets/section-backup.svg)
+![备用与大流量。灯塔照亮夜色中的海湾，两条蓝色线路在港口分向两岸。](assets/atlas-backup.webp)
+
+**偶尔应急，先看最低实付和流量有效期。** 经常下载或看视频，再比较额度重置方式和晚高峰表现。
 
 <a id="chuixue"></a>
 
@@ -643,7 +643,9 @@ AI用户先试美日节点，别被香港较低的延迟带着走。上面的原
 
 ## 多地区与家宽
 
-![多地区与家宽分区：先看具体用途，再为出口类型花钱](assets/section-residential.svg)
+![多地区与家宽。蓝色线路跨过翡翠色海湾，连接群岛和沿岸住宅。](assets/atlas-regions.webp)
+
+**看流媒体先查目标地区。** 需要长期使用同一个住宅 IP 时，先核对套餐的出口类型和 IP 是否固定。
 
 <a id="tag"></a>
 
@@ -846,7 +848,9 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 ## 高预算
 
-![高预算分区：历史口碑与近期服务状态一起看](assets/section-premium.svg)
+![高预算。夕阳染亮层叠山脊，一条蓝色线路沿山谷通往观景站。](assets/atlas-premium.webp)
+
+**先看结账时要付多少。** 有季付或年付门槛时，再对照近期服务状态和常用时段的测试记录。
 
 <a id="nexitally"></a>
 
@@ -1023,6 +1027,8 @@ TAG值得额外花钱的地方，是地区与落地选择多。经常换流媒�
 
 <details>
 <summary>更新记录</summary>
+
+- **2026-11-28**：更换彩窗封面和四幅章节插画，为各章节补上选购提示。
 
 - **2026-11-27**：首页并列推荐苏菲家宽和 NIVA Network，新增四张可点击用途卡、苏菲家宽插图与出口对比图，以及 FlyBit 晚高峰四地节点图。
 
